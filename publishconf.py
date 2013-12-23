@@ -10,7 +10,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
-THEME = "/Users/psu/web/pelican-themes/psu_tux"
+THEME = "./psu_tux"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

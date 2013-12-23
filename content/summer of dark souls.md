@@ -69,9 +69,11 @@ Here is how you have an easier time:
 
 3. Third, use your mid-game souls to pump mainly either STR or DEX, and secondarily VIT and END. 
 
-4. Follow the Big Hat Logan story path so you can get his Crystal spells when you go through the Duke's Archives. Before Duke's the non-crystal versions of Soul Arrow, Soul Spear and Homing Soul Mass should get you through. You can use melee on mobs and the big spells on bosses.
+4. Now upgrade a STR or DEX weapon on the normal path for maximum physical damage. This weapon will also be buffable using Magic Weapon and related to spells for a bit of extra oomph. Use this as a backup against the bosses that have more magic resistance or are just harder to kill with casting.
 
-5. Pyromancy is always great. Farm extra souls to upgrade it.
+5. Follow the Big Hat Logan story path so you can get his Crystal spells when you go through the Duke's Archives. Before Duke's the non-crystal versions of Soul Arrow, Soul Spear and Homing Soul Mass should get you through. You can use melee on mobs and the big spells on bosses.
+
+6. Pyromancy is always great. Farm extra souls to upgrade it.
 
 If you play this right, you can wipe out the tougher bosses in the game with just a few casts. Here is a spoiler-filled video as a demo: <a href="http://www.youtube.com/watch?v=Zp2SbbkPsi8">Spoiler video Spoiler video Spoiler video</a>. The fight starts at 13min in or so.
 
@@ -79,7 +81,7 @@ If you play this right, you can wipe out the tougher bosses in the game with jus
 
 While <em>Dark Souls</em> has a deserved reputation for being unforgiving, this has not kept crazy players from making it even harder on themselves. The Youtube (and more recently, Twitch.tv) world is full of "no armor, no healing, no leveling, shield only while cursed" runs of the game. As a side note: in the two years or so since I put the game down before picking it up again the major thing that I have noticed is the explosion of online playthroughs, tutorials, studies of the lore and so on. You can probably spend your whole life mining all of this. While doing this, I happened to come across this insane play-through: <a href="http://www.youtube.com/playlist?list=PLYk2EK7EngpkYXIlvo9fglTAqD63WLqoe">NG+7 at level 1</a>.
 
-What does this mean? First, it means he has finished the game six times with one character. Each time you finish the game you can start over again and each time the enemies get scaled in terms of hit points and damage, so the game is tougher. This is called "New Game Plus", or in this case, NG+7. NG+7 is when the scaling stops, so it is as hard as you can make it.
+What does this mean? First, it means she has finished the game six times with one character. Each time you finish the game you can start over again and each time the enemies get scaled in terms of hit points and damage, so the game is tougher. This is called "New Game Plus", or in this case, NG+7. NG+7 is when the scaling stops, so it is as hard as you can make it.
 
 Second, the character used in this play-through is kept at the starting stats for a Pyromancer, which is "level 1" in the game. All this means is that only equipment can be upgraded. No extra HP or stamina, no scaled weapons damage, and so on. I was intrigued by this play-through, but thought it was too nuts to actually do myself.
 
@@ -87,7 +89,7 @@ Fast forward to September 2013. Work had been in a long running crunch time, sap
 
 When you play this game that much, you start to memorize things. Instead of every area taking a week, you can do them in an hour, or at worst a night or two. Eventually the whole game just becomes short runs through the various areas that end in the boss fights. You'll mostly die only if you get loose and sloppy.
 
-Anyway, having reached a certain level of comfort, I started noodling with an SL1 character. At first I wanted to see how much of the beginning of the game I could get through fast. Then I wanted to play more with the Reinforced Club. Which is a fabulous weapon and one of the few that a level 1 character can use. By the time I beat Ornstein and Smough (though with a summon) I felt like I could probably do the rest. For the most part I was right. The Four Kings took a few tries, and Bed of Chaos always sucks. But otherwise the late stages of the game were fairly nominal.
+Anyway, having reached a certain level of comfort, I started noodling with an SL1 character. At first I wanted to see how much of the beginning of the game I could get through fast. Then I wanted to play more with the Reinforced Club. This is a fabulous weapon and one of the few that a level 1 character can use. By the time I beat Ornstein and Smough (though with a summon) I felt like I could probably do the rest. For the most part I was right. The Four Kings took a few tries, and Bed of Chaos always sucks. But otherwise the late stages of the game were fairly nominal.
 
 The secret to the SL1 run is that while you are not leveling your character, you still get to level your equipment. Your major friends are
 
