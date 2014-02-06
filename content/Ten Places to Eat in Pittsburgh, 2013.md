@@ -21,7 +21,7 @@ With that in mind, and in no particular order, here we go.
 
 	They've done steak tartare a few different ways. Always a winner.
 
-	Finally, almost every time I go Justin is blasting _Talking Heads_ over the sound system. So what more do you need?
+	Finally, almost every time I go the place is blasting <a href="https://itunes.apple.com/us/album/stop-making-sense-special/id290073030">_Talking Heads_</a> over the sound system. So what more do you need?
 
 2. **Legume**
 
@@ -45,7 +45,7 @@ With that in mind, and in no particular order, here we go.
 
 6. **How Lee**
 
-	How Lee joins Rose Tea, Everyday Noodles and Ka Mei as the pillars of great regional Chinese Food in Squirrel Hill. It's appropriate that they would be in the main Jewish neighborhood in town since as we all know, the Jews and the Chinese are the same people.
+	How Lee joins Rose Tea, Everyday Noodles and Ka Mei as the pillars of great regional Chinese Food in Squirrel Hill. It's appropriate that they would be in the main Jewish neighborhood in town since as we all know, the <a href="http://www.tabletmag.com/jewish-life-and-religion/53569/jewish-christmas">Jews and the Chinese are the same people</a>.
 
 	Go for the Ma Po Tofu that is strong enough to peel your face off. Stay for the Tea Smoke Duck, the Chongqing Fire Chicken(tm), the twice cooked Pork Belly and the Dry Fried Green Beans. All great stuff. The only possible complaint is that the food is a bit oily. But that's what you sign up for when you want to get blasted by weapons grade Szechuan peppercorn sauce.
 
@@ -63,14 +63,14 @@ With that in mind, and in no particular order, here we go.
 
 9. **Smoke**
 
-	When Smoke opened Pittsburgh finally got a good BBQ joint. The fact that the awesome smoked meat is wrapped up in neatly creative tacos, or dumped on top of mac and cheese, or fed to you for breakfast an extra bonus. The ultimate compliment that I can pay to Smoke is that when I get a craving for what they do there is nowhere else on Earth that the craving can be satisfied. What they do is not fancy. It is not the most technical food. You do not need advanced degrees in food physics to understand how to do it. But they do it better than anyone else, so after you go once or twice you'll be back for more. It is impossible to resist.
+	When Smoke opened Pittsburgh finally got a good BBQ joint. The fact that the awesome smoked meat is wrapped up in neatly creative tacos, or dumped on top of mac and cheese, or fed to you for breakfast is an extra bonus. The ultimate compliment that I can pay to Smoke is that when I get a craving for what they do there is nowhere else on Earth that the craving can be satisfied. What they do is not fancy. It is not the most technical food. You do not need advanced degrees in food physics to understand how to do it. But they do it better than anyone else, so after you go once or twice you'll be back for more. It is impossible to resist.
 
 10. **Penn Avenue Fish Company**
 	
-	I've written before that the existence of a place like Penn Avenue in is something of a minor miracle. It should not be possible to get fish this good on a regular basis in this land locked mid-western city. But the place is there and we are better for it.
+	The existence of a place like Penn Avenue in is something of a minor miracle. It should not be possible to get fish this good on a regular basis in this land locked mid-western city. But the place is there and we are better for it.
 
 	As for their other food, all you need to know is this. Most weeks of the year we get a Saturday breakfast there consisting of one of the soups (Gumbo!), maybe some sushi, a sandwich, or one of the big salads. When the time is right we'll splurge on oysters. At last count we have probably done this a couple of hundred times. But we'll be back next week to do it again.
 
 **Other Notes**
 
-You can't really fit everything into only ten items. So here are a few more. You still have to go to Rose Tea for <a href="http://tleaves.com/wp-archive/2009/04/01/the-rose-tea-effect/index.html">the Rose Tea things</a>. The Golden Pig is far away in the wilds of Cecil township, but you should go there anyway. Fukuda is a place to go for creative sushi and other Japanese things. Tamari is also a strong place that we don't get to enough. It has the distinction of being the only really good restaurant on the route 19 North corridor of the suburban hell hole that I live in. Finally, I really like Primanti's and the O, so there. Don't let the haters keep you away.
+You can't really fit everything into only ten items. So here are a few more. You still have to go to Rose Tea for <a href="http://tleaves.com/wp-archive/2009/04/01/the-rose-tea-effect/index.html">the Rose Tea things</a>. The Golden Pig is far away in the wilds of Cecil township, but you should go there anyway. Fukuda is a place to go for creative sushi and other Japanese things. Notion is a place that did not make the main list because I've just not been there enough. You should go and then tell me that I'm stupid for not getting there. Tamari is also a strong place that we don't get to enough. It has the distinction of being the only really good restaurant on the route 19 North corridor of the suburban hell hole that I live in. Finally, I really like Primanti's and the O, so there. Don't let the haters keep you away.
