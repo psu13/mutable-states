@@ -1,9 +1,4 @@
-Title: Paris Firsts
-Date: 2013-10-27
-Category: Things
-Author: psu
-
-Wheelchairs
+cWheelchairs
 
 Chinese Tea
 

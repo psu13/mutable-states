@@ -90,4 +90,7 @@ github: publish
 sync:
 	rsync --delete -alrv $(OUTPUTDIR)/ kvdpsu13@kvdpsu.org:$(DEST)
 
-.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload github
+ps: publish sync
+	
+
+.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload github psync

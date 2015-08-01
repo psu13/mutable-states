@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'psu'
+AUTHOR = u'Pete Su'
 SITENAME = u'Mutable States'
+COPYRIGHT = 'Copyright (c) 2013-2015'
 SITEURL = 'http://mutable-states.com'
 
 TIMEZONE = 'America/New_York'

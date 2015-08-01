@@ -35,7 +35,7 @@ The results are pretty good, I guess, given what he's up against. But they aren'
 
 Then, a couple of days after reading this I came across this forum thread about a <a href="http://www.cloudynights.com/ubbthreads/showflat.php/Cat/0/Number/5740096/page/1/view/collapsed/sb/5/o/all/fpart/1">Messier Marathon</a>. Spring is Messier season because if you situate yourself just right you can see all 110 objects in one night.
 
-The subject of the thread is about an attempt to get a <em>picture</em> of all 110 objects in one night. The ends up losing a few because he wasted an hour early in the evening troubleshooting some focus problems. But he still manages to get 105 pictures <em>in one night</em> using a single 3 minute CCD exposure per picture.
+The subject of the thread is about an attempt to get a <em>picture</em> of all 110 objects in one night. The guy ends up losing a few because he wasted an hour early in the evening troubleshooting some focus problems. But he still manages to get 105 pictures <em>in one night</em> using a single 3 minute CCD exposure per picture.
 
 And <a href="http://gallery.cuttinedgeobservatory.com/v/2013+Messier+Marathon.jpg.html?g2_imageViewsIndex=3">his pictures are a lot better</a>.
 

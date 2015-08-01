@@ -64,7 +64,7 @@ This is one of the few video games where learning the various skills the game wa
 
 So yes, the game is unforgiving and sadistic the first few times through an area. But it gets easier each time you go back through not only because you now have a +8 sword of blenderkilling, but also because you know exactly how to beat every enemy in the place.
 
-This would all be for nothing if the combat itself did not hold up under extreme repetition. But for me it does. It becomes familiar and comfortable. And then you zone out and the 20 foot fall knight crushes you under his shield, and you wake up and start concentrating again.
+This would all be for nothing if the combat itself did not hold up under extreme repetition. But for me it does. It becomes familiar and comfortable. And then you zone out and the 20 foot tall knight crushes you under his shield, and you wake up and start concentrating again.
 
 The connection between RE4 and *Dark Souls* is, at least to me, fairly direct. The connection to Shadow Hearts is more spiritual than anything else. Both games make great use of their settings to communicate a certain mood and overall design sensibility to the player. What Shadow Hearts says to you is “we are batshit insane!”. What *Dark Souls* communicates is a sense of being completely alone in a hostile environment, and also that “our creature designers are batshit insane!”.
 

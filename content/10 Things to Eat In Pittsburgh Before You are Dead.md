@@ -3,7 +3,7 @@ Date: 2011-01-14
 Category: Food
 Author: psu
 
-The idea for this list came to me while I was at the “offal night” at Legume. I also figured it would make a good piece for the annual exercise in end of year top ten lists. Well, so much for that. My personal critieria for the items on this list was a combination of “unique to Pittsburgh”, “personal favorite”, and simply “really good food” in about equal parts. I did also try to avoid things everyone already knows about, hence the lack of an entry for Primanti’s. Sorry. Anyway, here is the list.
+The idea for this list came to me while I was at the “offal night” at Legume. I also figured it would make a good piece for the annual exercise in end of year top ten lists. Well, so much for that. My personal criteria for the items on this list was a combination of “unique to Pittsburgh”, “personal favorite”, and simply “really good food” in about equal parts. I did also try to avoid things everyone already knows about, hence the lack of an entry for Primanti’s. Sorry. Anyway, here is the list.
 
 10. **Chili and Cheese Beef Dog at the O. With onions.**
 

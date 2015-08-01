@@ -1,6 +1,6 @@
 Title: The ASCOM Horror Show
 Date: 2014-2-05
-Category: Things
+Category: Astro
 Author: psu
 
 In older and simpler times, telescopes were older and simpler. You put the tube on a mount. You stared at an atlas to figure out where the object was. You pointed the tube roughly at a bright star and then used the finder to move around until you could see the object in the telescope. Then you got on with your life. If you were really advanced you might use an equatorial mount with "setting circles" to get close to the object before tracking it down for good. A lot of people hopped from star to star though, since this was simpler. But the setting circle people sneered at them.
@@ -19,7 +19,7 @@ Over time ASCOM became a wide success in the narrow marketplace of 35-65 year ol
 
 Unless they don't. ASCOM in practice has a few warts. When things are working you don't really notice them. But they lurk down there beneath the surface and are the things of software architecture nightmares.
 
-First, there is those guys at Software Bisque. They still make all their software, with their own serial modules. They even make some of their own hardware (very expensive mounts). What they dislike making is ASCOM drivers. They see it as a destruction of the proprietary value that they have toiled all these longs years to add to TheSky and such. And they are not completely wrong. Why should they tolerate a bunch of lowlifes giving away complicated drivers for free which they spent a long time building and integrating into their software stack? This is unfortunate since TheSky still forms the core of a lot of toolchains for automatic imaging. Now we have this constant problem where all the tools in the chain like ASCOM except for TheSky, which can use it, but only in a kind of janky way.
+First, there are those guys at Software Bisque. They still make all their software, with their own serial modules. They even make some of their own hardware (very expensive mounts). What they dislike making is ASCOM drivers. They see it as a destruction of the proprietary value that they have toiled all these longs years to add to TheSky and such. And they are not completely wrong. Why should they tolerate a bunch of lowlifes giving away complicated drivers for free which they spent a long time building and integrating into their software stack? This is unfortunate since TheSky still forms the core of a lot of toolchains for automatic imaging. Now we have this constant problem where all the tools in the chain like ASCOM except for TheSky, which can use it, but only in a kind of janky way.
 
 Second, there is COM. Over time COM has evolved into .NET which evolved into what Microsoft sells you to configure and deploy custom large scale Enterprise Applications. The whole system is built around the assumption that you have a huge staff of minions whose only job is to make sure your Windows boxes are running exactly the right versions of everything in order for your large scale custom Enterprise Application to run correctly.
 
@@ -32,5 +32,7 @@ Fourth, the system is vaguely incomplete. There is good coverage for certain kin
 Finally, the biggest problem with ASCOM is that it's stuck on Windows. This means that if you would prefer to use any other sort of computer for day to day, you still have to learn Windows to talk to telescopes. The ASCOM people like to talk about how the platform is so "universal". You can write to it in any of several languages, they say. They seem to think this is a feature, while not being portable to any sort of device that isn't an awful Dell PC is just a minor setback.
 
 In summary, this is awful. Here we have a platform built mostly in the 2000s that is architected for the hardware assumptions of the 90s (you need a large PC to run a telescope instead of a tiny computer that fits in your pocket). We're stuck with serial I/O when everything should be on the network. And we're stuck in Windows, when the central hub should just be a cigarette box with an Ethernet jack that has all the control software you need to do everything, all controlled by JSON or something.
+
+You will note that I just suggested that something using REST and JSON would be better than ASCOM. This is what the world has come to.
 
 Maybe someone will see the light and fix all of this and build it right. Build it the way you would have in 2007 rather than 1995. They probably won't though, since all the only appreciation that they'll get is <a href="http://mutable-states.com/tens-of-dollars.html">tens of dollars, at most</a>.

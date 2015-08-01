@@ -15,5 +15,5 @@ The *new* content here will be much like the old. When I have things on my mind 
 
 Why make a new place for this? First, my web hosting has more disk space now. Second, I've decided I like to write in a text editor rather than in some awful text area in an online publishing page. Third, this [Pelican](http://pelican.readthedocs.org/en/3.2/ "Pelican") software that I decided to use lets me make a static copy of the site on my laptop that I can also push up to the Interwebs at large.
 
-Another nice side effect of the site being static is that there will be no comments. If you know me, you can send me e-mail or a  message on various social networking sites. If you don't know me it's not big loss.
+Another nice side effect of the site being static is that there will be no comments. If you know me, you can send me e-mail or a  message on various social networking sites. If you don't know me it's no big loss.
  

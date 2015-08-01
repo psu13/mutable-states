@@ -125,7 +125,7 @@ All of the comments above also apply to the Kalameet fight. Except dodging is le
 
 Finally, after playing this much of a single video game, one gains some insights that can be helpful for others. So here is my random list of favorite semi-spoilery tips for anyone who hasn't played through yet and wants to before Dark Souls 2 comes out.
 
-1. Get the Ring of Favor early and just use it. For NG there are no better rings. The only time you'll miss it is fighting the Four Kings. If you are worried about that, and break the ring for that fight learn how to get a second one before you go there.
+1. Get the Ring of Favor early and just use it. For NG there are no better rings. The only time you'll miss it is fighting the Four Kings. But in a pinch you can break the ring for that fight and then get a second one.
 
 2. After the fourth or fifth time through this game you realize that it's really just about the runs to the bosses. The stuff in between is mostly incidental. Watching someone speed run the game in 55 minutes emphasizes this structure. Under this kind of extreme repetition the game becomes similar to the "end game" modes of various MMOs, where people just gather to fight the same boss instances over and over for shiny loot.
 

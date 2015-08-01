@@ -7,7 +7,7 @@ The following text has a lot of plot and game mechanic spoilers, so if you haven
 
 PVP is truly the last bastion of the Dark Souls addict. Most players only interact with it as a consequence of trying to use the co-op system to summon help for bosses. As we all know, this opens you up to invasions by hostile players whose only goal is to kill you and steal your stuff.
 
-For me, PVP was the last thing in the game that I hadn't done and one more thing that seemed hopeless to even try to master. "But hey", I said to myself, "I learned to dodge Manus, maybe I can get somewhere here too." And anyway, what else is one going to do while one waits for Dark Souls 2? So a spent a couple of months fiddling with it.
+For me, PVP was the last thing in the game that I hadn't done and one more thing that seemed hopeless to even try to master. "But hey", I said to myself, "I learned to dodge Manus, maybe I can get somewhere here too." And anyway, what else is one going to do while one waits for Dark Souls 2? So I spent a couple of months fiddling with it.
 
 <h4>The Big Picture</h4>
 
@@ -25,7 +25,7 @@ The PVP system in Dark Souls is based around the _covenants_. There are five cov
 
 1. Darkwraiths. These are the red douchebags who invade you when you are human and trying to kill the area boss. You join the Darkwraiths by killing the Four Kings before you place the Lord Vessel and talking to the other snake. You can then invade people who are human but who have not yet killed the boss in a given area. You can invade all over, but the two main places with regular action are the Undead Burg and the Township area in the DLC. Lots of people will just hang out there waiting for invaders.
 
-2. Darkmoon. These guys are associated with Gywndolin, my least favorite boss. You invade as a blue phantom under various conditions. The two areas above see some of this action as well as Anor Londo. 
+2. Darkmoon. These guys are associated with Gwyndolin, my least favorite boss. You invade as a blue phantom under various conditions. The two areas above see some of this action as well as Anor Londo. 
 
 3. Gravelord. This is complicated. I don't feel like explaining it, so read about it here: <a href="http://darksouls.wikidot.com/gravelord-servant">http://darksouls.wikidot.com/gravelord-servant</a>.
 
