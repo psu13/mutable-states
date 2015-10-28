@@ -3,7 +3,7 @@ Date: 2014-11-30
 Category: Things
 Author: psu
 
-The *Musical Offering* is the sort of Bach that appeals to the mind of a stereotypical engineer. It lives in the wheelhouse of the sort of mind that enjoys abstract complexity and is more comfortable with a bit of emotional distance. So it's no surprise that it's my one of my favorite Bach pieces. 
+The *Musical Offering* is the sort of Bach that appeals to the mind of a stereotypical engineer. It lives in the wheelhouse of the sort of brain that enjoys abstract complexity and is more comfortable with a bit of emotional distance. So it's no surprise that it's my one of my favorite Bach pieces. 
 
 The origin of the piece is a fairly well-known piece of lore for music dorks. It seems that King Frederick the Great of Prussia asked Bach to improvise a fugue (a piece of music based on multiple voices playing the variations on a single theme) based on a theme that he made up. You can listen to the theme <a href="https://www.youtube.com/watch?v=T159n0uuEF4&feature=youtu.be&channel=UC6dF169CKHboKeqmGWjK94g">by playing the first part of this video</a>:
 

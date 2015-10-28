@@ -123,6 +123,15 @@ A bit out of the way in the 7th a couple of miles from the Eiffel Tower and a fe
 
 The grounds of the museum also hold a fantastic sculpture garden. The museum is admittedly narrow in scope compared to the Louvre or the Orsay, but I don't think there is a prettier space in which to examine and contemplate works of art than the Rodin.
 
+**Museé D'Orsay (7th)**
+
+This is the one huge famous museum that we go to regularly. At the wrong time of year it can be really crowded. But you should go to see the <a href="https://flic.kr/p/gtw8NZ">polar bear</a> and the Impressionists. Even if seeing the Impressionists is super stereotypical.
+
+There is also this great view:
+
+> <a href="https://www.flickr.com/photos/79904144@N00/20607646273/in/photostream" title="DSC_20050524-03783"><img src="https://farm6.staticflickr.com/5683/20607646273_b7386f850f_c.jpg" width="800" height="532" alt="DSC_20050524-03783"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p>
+
 **St. Chapelle (1st)**
 
 An astoundingly beautiful chapel near Notre Dame. Much smaller scale and more intimate. I like it better here than dealing with the throng at the big place.
@@ -161,7 +170,7 @@ Can't really think of anything else.
 
 #### Other Things I Missed
 
-You have to just walk around and stare stupidly at everything. I like just looking at the old doors on buildings. They are astounding. Bring nice clothes. Leave the tennis shoes and baggy shorts at home. Even if you dress really really well by casual American standards you'll stand out like a sore thumb. Meal service in France is at a much more relaxed pace than you are used to. Expect to spend a couple of hours eating the average meal in a good restaurant. Go to the Cafe Marly and get a really expensive burger. If you want to go to one of the really famous museums, go to the Orsay, or the Picasso. The Pompidou is also an interesting experience. You can go an observe paintings that illustrate abstract computer science:
+You have to just walk around and stare stupidly at everything. I like just looking at the old doors on buildings. They are astounding. Bring nice clothes. Leave the tennis shoes and baggy shorts at home. Even if you dress really really well by casual American standards you'll stand out like a sore thumb. Meal service in France is at a much more relaxed pace than you are used to. Expect to spend a couple of hours eating the average meal in a good restaurant. Go to the Cafe Marly and get a really expensive burger. If you want to go to one of the really famous museums, try the Louvre, or the Pompidou, or the Picasso. The Pompidou is a particularly interesting experience. You can go an observe paintings that illustrate abstract computer science:
 
 > <a href="https://www.flickr.com/photos/79904144@N00/10269771154" title="psu_20131010-05338 by Pete Su, on Flickr"><img src="https://farm6.staticflickr.com/5452/10269771154_873e3706bf.jpg" width="500" height="375" alt="psu_20131010-05338"></a>
 

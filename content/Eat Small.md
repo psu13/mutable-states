@@ -1,6 +1,6 @@
 Title: Eat Small
 Date: 2008-12-10
-Category: food
+Category: Food
 Author: psu
 
 <blockquote><p>
