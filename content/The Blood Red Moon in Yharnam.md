@@ -105,6 +105,4 @@ The new combat and weapons systems make this game worth the price of admission (
 
 I will now go murder some more terrible creatures in NG+ with my giant sword.
 
-#### Conclusions
-
 Extra notes: you can watch my relatively incompetent attempts at the various bosses <a href="https://www.youtube.com/channel/UC6dF169CKHboKeqmGWjK94g">on YouTube</a>. The PS4 YouTube upload feature is really nice. 
