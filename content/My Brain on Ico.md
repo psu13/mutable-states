@@ -25,7 +25,7 @@ When I got a PS2 last Christmas, the one nearly unanimous game recommendation th
 
 **Brain**: Why can't I tell if I can make that jump or not? Why is the camera behind me when I need to judge horizontal distances and above me when I need more perspective? Why do I have to replay this 20 minute section over and over again because he fell off the chain instead of jumping to that platform? Why aren't there more save-points?
 
-And so the inner battle raged on. But, in the end, the game delivered. The end game was as organic and compelling as any gaming experience I have ever had. It was paced perfectly and evolved naturally from the gameplay elements established throughout the rest of the game. Even the end Boss did not offend, because the solution was clear from the environment and the setup. So, the last entry in the dialog is
+And so the inner battle raged on. But, in the end, the game delivered. The end game was as organic and moving as any gaming experience I have ever had. It was paced perfectly and evolved naturally from the gameplay elements established throughout the rest of the game. Even the end Boss did not offend, because the solution was clear from the environment and the setup. So, the last entry in the dialog is
 
 **Me**: Wow, that was the most emotionally mature ending I've ever seen in a game.
 

@@ -3,7 +3,7 @@ Date: 2013-10-21
 Category: Things
 Author: psu
 
-It all started when I found out that the Xbox 360 had a downloadable version of <em>Dark Souls</em> along with its expansion pack. Since I must download things, I bought it and happily started playing another character. I did all the things I remembered doing before. I made enchanted weapons, bought the crystal magic spells, re-learned out to backstab and parry. I was easily beating up the mobs and didn't have that much more trouble with the bosses. Then I went into the downloadable expansion pack. And got murdered. 
+It all started when I found out that the Xbox 360 had a downloadable version of <em>Dark Souls</em> along with its expansion pack. Since I must download things, I bought it and happily started playing another character. I did all the things I remembered doing before. I made enchanted weapons, bought the crystal magic spells, re-learned how to backstab and parry. I was easily beating up the mobs and didn't have that much more trouble with the bosses. Then I went into the downloadable expansion pack. And got murdered. 
 
 I tried again, and got murdered again. My enchanted Claymore hit for all of 102 damage when it ought to have done in the 300s. I was distraught and confused. Then the Xbox destroyed my save file after a rage-quit, and I sat back to figure out what I had done wrong.
 
