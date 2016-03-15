@@ -1,6 +1,6 @@
 Title: Taking Stock
 Date: 2016-03-02
-Category: Dork
+Category: Video Games
 Author: psu
 
 *Dark Souls 3* comes out in a little more than a month, so of course I have been revisiting the Fromsoft oeuvre for the past few months of so. This is partly out of nostalgia and partly to reacquaint myself with the Souls (and *Bloodborne*) universe of horrors. As always, lots of spoilers here, including videos!
@@ -11,7 +11,7 @@ Since I had the PS4 on anyway, I restarted my run through *Scholar of the First 
 
 Then I picked up the PVP again, and really sucked. After a few weeks of trying, I finally back in the swing of things and could play at my normal clip where I win one or two for every three or four I lost.
 
-*Dark Souls 2* PVP is probably my favorite of all the Fromsoft games. The matchmaking is pretty solid and the adjustments they made to backstabs and parries balances the game a bit. On the one hand, a careful player can avoid most criticals (especially backstabs, more on parries in a bit) and win just with a bit of luck and knowing how to take the best advantage of her weapon's move set. 
+*Dark Souls 2* PVP is probably my favorite of all the Fromsoft games. The matchmaking is pretty solid and the adjustments they made to backstabs and parries balances the game a bit. On the one hand, a careful player can avoid most criticals (especially backstabs, more on parries in a bit) and win just with a bit of luck and knowing how to take the best advantage of her weapon's move set.
 
 On the other hand, I did discover this time around that parrying in *Dark Souls 2* is much easier than in *Dark Souls 1*, where I never PVP parried at all. It all started with this lucky parry:
 
@@ -69,7 +69,7 @@ Notice the screaming.
 
 When I looked up from all of this a lot of preview activity for *Dark Souls 3* had started up, and all the twitch and youtube streamers were starting nostalgia playthroughs of *Dark Souls* to get back in the mood. Eventually I realized that I must do the same thing.
 
-I started a new guy on the PS3 and my hands immediately cramped up from the teeny tiny PS3 controller that used to be my favorite. Sheesh. Then it took me *hours* to kill the fucking gargoyles. Sad. The game also looked like it was rendered by an early 90s PC through a sock filter. 
+I started a new guy on the PS3 and my hands immediately cramped up from the teeny tiny PS3 controller that used to be my favorite. Sheesh. Then it took me *hours* to kill the fucking gargoyles. Sad. The game also looked like it was rendered by an early 90s PC through a sock filter.
 
 So I turned on the Xbox and started again, and things were better. I ran through the early game over the weekend and then got pretty much to the end by the next weekend. The highlights, as always were:
 

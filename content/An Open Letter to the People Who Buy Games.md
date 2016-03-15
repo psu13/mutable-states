@@ -1,6 +1,6 @@
 Title: An Open Letter to the People Who Buy Games
 Date: 2010-10-28
-Category: Dork
+Category: Video Games
 Author: psu
 
 I have been down on video games lately. Part of the reason for this is that I’ve been busy <a href="http://mutable-states.com/a-telescope-in-the-city.html">reacquainting myself with hobbies from my past</a> and my brain is only big enough to hold one obsession at once. Another part of the reason for this is that at least to my mind, there simply has not been anything that interesting released in the last, say, 18 months. There have been the standard titles that are good enough to pick up and fool around with. But nothing good enough to actually flip the bit that makes me want to play every night. Perhaps the most important reason for my recent lull has been more sinister: I’m tired of gamers, because gamers are a bunch of juvenile self-centered whiners with an overly developed sense of entitlement.  For example: take <a href="http://dubiousquality.blogspot.com/2010/10/open-letter-to-people-who-

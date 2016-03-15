@@ -1,6 +1,6 @@
 Title: The Blood Red Moon in Yharnam
 Date: 2015-05-14
-Category: Dork
+Category: Video Games
 Author: psu
 
 There are lots of spoilers for *Bloodborne* here. Read this later if you want to avoid them.
@@ -59,7 +59,7 @@ Next, you can also use the gun to parry. A shot timed to coincide with the apex 
 
 Finally, you can heal damage by counter-attacking. In a short window after each hit you can heal back some of the damage done by that hit if you swing and hit the enemy. This system is genius because it lets you trade hits and heal at the same time, as long as you calculate the attack windows correctly. Of course, if you calculate wrong you can also completely fuck yourself if you get surrounded and ganked to death.
 
-The combination of the quick dash-dodging and the regen system encourage you to fight much more aggressively than you might have in any of the other Souls games. R1-spam can do you a lot of good, because you get hits in *and* heal at the same time. But, you have to have enough stamina to spam attack for while if you want this tactic to work. Luckily the stamina bar is much more forgiving in *Bloodborne*. At medium levels you can get 5 or 6 fast swings in before you run out if your bar was full when you started. 
+The combination of the quick dash-dodging and the regen system encourage you to fight much more aggressively than you might have in any of the other Souls games. R1-spam can do you a lot of good, because you get hits in *and* heal at the same time. But, you have to have enough stamina to spam attack for while if you want this tactic to work. Luckily the stamina bar is much more forgiving in *Bloodborne*. At medium levels you can get 5 or 6 fast swings in before you run out if your bar was full when you started.
 
 The new combat system also gives you a lot more leverage over larger groups than you used to have. Where in previous games it was very dangerous to try and hit two or three enemies at once, then dodge away, and then get back in to hit them again, the *Bloodborne* system makes this relatively easy. In addition, most of the weapons are fast and hit in a fairly wide area, making it easy to hit multiple enemies at once. Also, the more forgiving stamina system means that you can keep swinging until everything is dead. The R1-spam is real.
 
@@ -95,14 +95,14 @@ Overall the main game might be a bit shorter than the others. But if you want to
 
 #### Multiplayer
 
-Again, pretty much on form. By this I mean the matchmaking is janky and confusing and makes no one happy. People who want to invade (or be invaded) can't find action and instead people who are just trying to play through the game get murdered over and over again. Once a match starts I think the new combat mechanics make them really fun. Being able to PVP without worrying about humanity-related resources is also nice. I think this might need some time to evolve before the action can get more consistent. 
+Again, pretty much on form. By this I mean the matchmaking is janky and confusing and makes no one happy. People who want to invade (or be invaded) can't find action and instead people who are just trying to play through the game get murdered over and over again. Once a match starts I think the new combat mechanics make them really fun. Being able to PVP without worrying about humanity-related resources is also nice. I think this might need some time to evolve before the action can get more consistent.
 
 I have not tried the co-op too much (just one fight). Apparently the matchmaking is similarly janky. More news later as we learn more.
 
 #### Conclusions
 
-The new combat and weapons systems make this game worth the price of admission (unless you don't have or don't plan to buy a PS4, in which case from what I hear you just won't get to play this). So, buy the game for the weapons, stay for the one-of-a-kind style and world building. *Bloodborne* takes its place along side *Dark Souls* as the best of the series. 
+The new combat and weapons systems make this game worth the price of admission (unless you don't have or don't plan to buy a PS4, in which case from what I hear you just won't get to play this). So, buy the game for the weapons, stay for the one-of-a-kind style and world building. *Bloodborne* takes its place along side *Dark Souls* as the best of the series.
 
 I will now go murder some more terrible creatures in NG+ with my giant sword.
 
-Extra notes: you can watch my relatively incompetent attempts at the various bosses <a href="https://www.youtube.com/channel/UC6dF169CKHboKeqmGWjK94g">on YouTube</a>. The PS4 YouTube upload feature is really nice. 
+Extra notes: you can watch my relatively incompetent attempts at the various bosses <a href="https://www.youtube.com/channel/UC6dF169CKHboKeqmGWjK94g">on YouTube</a>. The PS4 YouTube upload feature is really nice.

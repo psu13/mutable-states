@@ -1,9 +1,9 @@
 Title: Summer of Dark Souls
 Date: 2013-10-21
-Category: Dork
+Category: Video Games
 Author: psu
 
-It all started when I found out that the Xbox 360 had a downloadable version of <em>Dark Souls</em> along with its expansion pack. Since I must download things, I bought it and happily started playing another character. I did all the things I remembered doing before. I made enchanted weapons, bought the crystal magic spells, re-learned how to backstab and parry. I was easily beating up the mobs and didn't have that much more trouble with the bosses. Then I went into the downloadable expansion pack. And got murdered. 
+It all started when I found out that the Xbox 360 had a downloadable version of <em>Dark Souls</em> along with its expansion pack. Since I must download things, I bought it and happily started playing another character. I did all the things I remembered doing before. I made enchanted weapons, bought the crystal magic spells, re-learned how to backstab and parry. I was easily beating up the mobs and didn't have that much more trouble with the bosses. Then I went into the downloadable expansion pack. And got murdered.
 
 I tried again, and got murdered again. My enchanted Claymore hit for all of 102 damage when it ought to have done in the 300s. I was distraught and confused. Then the Xbox destroyed my save file after a rage-quit, and I sat back to figure out what I had done wrong.
 
@@ -43,9 +43,9 @@ The upgrade paths in <em>Dark Souls</em> allow you to increase the damage that y
 
 	The problem with magic weapons (and also the elemental weapons above) is that they <em>split</em> their damage between physical and magic (or fire, or lightning). This means that if you go up against an enemy that has high resistances against both physical and other damage types, your damage gets reduced twice.
 
-In the main game, this doesn't really come up. Most of the bosses have some kind of elemental weakness that you can exploit (it's usually fire). But the DLC is different. FromSoft rebalanced things, and the bosses in the DLC chew up split damage and spit it back at you. This is why my enchanted Claymore was so pathetic against the bosses in the DLC. Fire and lightning weapons fare just as badly. 
+In the main game, this doesn't really come up. Most of the bosses have some kind of elemental weakness that you can exploit (it's usually fire). But the DLC is different. FromSoft rebalanced things, and the bosses in the DLC chew up split damage and spit it back at you. This is why my enchanted Claymore was so pathetic against the bosses in the DLC. Fire and lightning weapons fare just as badly.
 
-What you need to do is make a weapon that deals a large amount of physical damage. After watching <a href="http://www.youtube.com/watch?v=eDWbZDWbnpI">this video on the Great Scythe</a> and also <a href="http://www.youtube.com/watch?v=HTyIbwRpGNw">this one on other weapons</a> I decided to rebuild a character around DEX to see if I would do better in the DLC. Just for fun, I played around with Faith and miracles for the first time too. I ended up doing a Faith/DEX and a Faith/STR build. In addition, I started to delve into the great pleasure that is experimenting with different weapons in the game. 
+What you need to do is make a weapon that deals a large amount of physical damage. After watching <a href="http://www.youtube.com/watch?v=eDWbZDWbnpI">this video on the Great Scythe</a> and also <a href="http://www.youtube.com/watch?v=HTyIbwRpGNw">this one on other weapons</a> I decided to rebuild a character around DEX to see if I would do better in the DLC. Just for fun, I played around with Faith and miracles for the first time too. I ended up doing a Faith/DEX and a Faith/STR build. In addition, I started to delve into the great pleasure that is experimenting with different weapons in the game.
 
 #### A Weapons Digression
 
@@ -67,7 +67,7 @@ Here is how you have an easier time:
 
 2. Second, concentrate on the strong magic spells and on getting two critical items: The Dusk Crown and the Bellowing Dragoncrest Ring. Both of these items increase the damage that spells do.
 
-3. Third, use your mid-game souls to pump mainly either STR or DEX, and secondarily VIT and END. 
+3. Third, use your mid-game souls to pump mainly either STR or DEX, and secondarily VIT and END.
 
 4. Now upgrade a STR or DEX weapon on the normal path for maximum physical damage. This weapon will also be buffable using Magic Weapon and related to spells for a bit of extra oomph. Use this as a backup against the bosses that have more magic resistance or are just harder to kill with casting.
 
@@ -97,7 +97,7 @@ The secret to the SL1 run is that while you are not leveling your character, you
 
 2. Elemental weapons. In particular the Reinforced Club.
 
-The only bosses that do not fall to these tactics are the two harder ones in the DLC (Manus and Kalameet). To beat these two you need to refine your technique a bit. 
+The only bosses that do not fall to these tactics are the two harder ones in the DLC (Manus and Kalameet). To beat these two you need to refine your technique a bit.
 
 #### Digression on Dodging
 
@@ -109,7 +109,7 @@ Second, you need to be able to dodge. Dodging is a bit subtle in <em>Dark Souls<
 
 1. A dodging move of type A actually gets your character completely out of the way of the attack before the attack hits, and further moves you far enough away that the attack cannot track to you and hit you anyway.
 
-2. But, sometimes a move of type A is not possible. What can happen is that the attack is so rangy that you can't actually get completely out of the way. Or, the attack may track your movement so well that you get hit anyway. In these cases, a dodging move of type B must be timed so that the attack hits you during the <em>invincibility frames</em> of the dodge animation. 
+2. But, sometimes a move of type A is not possible. What can happen is that the attack is so rangy that you can't actually get completely out of the way. Or, the attack may track your movement so well that you get hit anyway. In these cases, a dodging move of type B must be timed so that the attack hits you during the <em>invincibility frames</em> of the dodge animation.
 
 When you roll-dodge your character becomes invincible to hits during several frames of the rolling animation. During these frames the attack can hit you, but you will take no damage. The way to avoid many boss attacks is to time the dodge so that you leap just as the attack comes down on you and the I-frames save you. If you watch really good players fighting Manus or the Four Kings you can see this happening, and it will look very confusing. You will think "how is that guy jumping through the attack?" I-frames is how.
 

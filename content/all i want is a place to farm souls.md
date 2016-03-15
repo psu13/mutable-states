@@ -1,13 +1,13 @@
 Title: All I Want for Christmas is a Place to Farm Souls
 Date: 2011-12-30
-Category: Dork
+Category: Video Games
 Author: psu
 
 *Dark Souls* is the mildly sadistic sequel to the completely sadistic Japanese action RPG *Demon's Souls*. I gave up on the latter game a couple of years ago after encountering the second one hit kill boss in the game. The first one hit kill boss in the game was placed at the end of the tutorial, which gives you an idea of what these games are like.
 
 You know from the start that *Dark Souls* will be easier on you because after getting killed by the tutorial boss you will immediately notice that there is a door that you can use the escape the fight. You then come back to the same fight later after you have an actual chance of winning.
- 
-The rest of *Dark Souls* follows this general pattern. While it is obviously similar to its predecessor in tone and mechanics, the game has a softer edge to it. The combat is still remarkably unforgiving if you lose focus, but it is manageable as long as you keep enemies in front of you and manage your space so that you never get surrounded. Best to fight the undead freaks one at a time, lest they gang up on you. 
+
+The rest of *Dark Souls* follows this general pattern. While it is obviously similar to its predecessor in tone and mechanics, the game has a softer edge to it. The combat is still remarkably unforgiving if you lose focus, but it is manageable as long as you keep enemies in front of you and manage your space so that you never get surrounded. Best to fight the undead freaks one at a time, lest they gang up on you.
 I find the combat system to be rewarding and, for lack of a better way to describe it, it is easy for me to parse. There are three things you need to control:
 
 1. Your position. This is facilitated through the third-person camera lock.
@@ -37,4 +37,3 @@ In any case, after farming for a while I started to leave one or two of the guys
 The result of all of this is that I've had a much better time getting killed over and over again in the undead prison of *Dark Souls* than I had running around in *Skyrim*'s pinnacle of high fantasy world design getting [mauled by bears](http://www.youtube.com/watch?v=iZw9gET4eu8). At least the enemies that destroy me here were actually powerful, and not just some freaked out wild life.
 
 Well, except maybe for those giant crows.
-	

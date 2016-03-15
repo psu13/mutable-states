@@ -1,6 +1,6 @@
 Title: Summer of Dark Souls II
 Date: 2014-5-29
-Category: Dork
+Category: Video Games
 Author: psu
 
 Ok, it's not really summer, but it was _Dark Souls_ time again. As all the addicts know, _Dark Souls II_ launched this March. If _Demon's Souls_ was a bit of a platform-specific cult game, and _Dark Souls_ was a sleeper hit whose audience grew slowly but consistently over time, the second _Dark Souls_ came out of the box as a full-on AAA title with a large pre-existing audience. The question for the nerds then is: is the new game better, or did they dumb it down? As usual, I'm here to tell you the answer almost three months after the fact. I had to play the game to death to be sure, after all.
@@ -60,7 +60,7 @@ There is a way to re-spec your character as you play. This is a win. On the othe
 
 The upgrade system for weapons is also better. There are fewer sorts of upgrade materials that require less farming to obtain. And the previous game's system of 5 branching upgrade paths has been greatly simplified. On the other hand, FromSoft have balanced the availability of upgrade materials to make it harder to get a fully upgraded weapon before the later parts of the game. This will make SL1 and speed runs harder.
 
-I've only dabbled in the PVP, but it seems mostly better, IMHO. The improved matchmaking makes it less frustrating to get into a match. There are matches all over the place and at all levels. You don't get backstabbed every five seconds like you did in _Dark Souls_, and there are even items that prevent you from being backstabbed at all. The "stay human all the time" ring makes it much less costly to host invasions and therefore avoid gankers. 
+I've only dabbled in the PVP, but it seems mostly better, IMHO. The improved matchmaking makes it less frustrating to get into a match. There are matches all over the place and at all levels. You don't get backstabbed every five seconds like you did in _Dark Souls_, and there are even items that prevent you from being backstabbed at all. The "stay human all the time" ring makes it much less costly to host invasions and therefore avoid gankers.
 
 People will complain about a couple of areas (the Belfry and the two Rat caves) in the game where you are almost guaranteed to be invaded every time you run through. But these places do not bother me. They are _optional_. If you go there you know you are going to be fucked up. So just avoid it if you hate PVP. Of course, you'll miss out on one of the more interesting fan-service optional bosses. But oh well.
 
@@ -68,7 +68,7 @@ The last thing that I can think of that is unquestionably better in DS2 are the 
 
 #### What's Worse
 
-Of course, as with all second editions, not everything is sunshine and puppies. FromSoft has felt the need to tweak some things in the game that arguably did not need tweaking. On the other hand if they had not tweaked them we'd probably all be sitting here complaining that _Dark Souls 2_ was just another warmed over franchise sequel like _Halo_, bringing the same tired gameplay every new version and just changing up some maps and cut scenes. 
+Of course, as with all second editions, not everything is sunshine and puppies. FromSoft has felt the need to tweak some things in the game that arguably did not need tweaking. On the other hand if they had not tweaked them we'd probably all be sitting here complaining that _Dark Souls 2_ was just another warmed over franchise sequel like _Halo_, bringing the same tired gameplay every new version and just changing up some maps and cut scenes.
 
 Still, I have complaints. The combat feels slow and clunky, like you are stuck in a pool of water all the time. The adjustments to the roll mechanics never quite take off for me. You spend most of the first part of the game trying to roll dodge and instead rolling right into your enemy's sword swings. As you level up you get larger dodge windows, which is sort of neat in theory but in practice just distracts. It's just one more bucket into which you have to put limited stat points, so why not just have every character build out with 20s across the board?
 
@@ -92,7 +92,7 @@ Originally I was going to complain more about the navigation through the game wo
 
 The structure of the narrative is as opaque as ever. Some people have complained that "it makes no sense", but _Dark Souls_ kinda didn't either, at least on the surface, so let's get over that. As before the NPCs range from pretty interesting to quirky to just plain forgettable.
 
-The bosses seem easier. But this is probably because you can still co-op all of them. But, the ones that I have soloed up until now still seem easier. Well, except for those two that almost made me throw the controller. OK, it's probably a draw. 
+The bosses seem easier. But this is probably because you can still co-op all of them. But, the ones that I have soloed up until now still seem easier. Well, except for those two that almost made me throw the controller. OK, it's probably a draw.
 
 What I will say though is that there is no fight in this game as viscerally satisfying to win as either Artorias or Manus from the _Dark Souls_ DLC. I also don't think there is anything quite like the adrenaline-filled DPS race that was the Four Kings, but that's probably the Stockholm talking.
 

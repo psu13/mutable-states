@@ -1,6 +1,6 @@
 Title: My Brain on Ico
 Date: 2005-08-09
-Category: Dork
+Category: Video Games
 Author: psu
 
 When I got a PS2 last Christmas, the one nearly unanimous game recommendation that I received from the crack dealers friends I know who play games was Ico. Over and over I heard "You gotta get Ico". So I bought Ico. That was six months ago, and I finally got around to finishing it this weekend. For most of the this time, I've had a mixed relationship with Ico. As much as I wanted to love the game as a truly transformative experience, my brain would always get in the way, as illustrated by this inner dialog.
@@ -13,7 +13,7 @@ When I got a PS2 last Christmas, the one nearly unanimous game recommendation th
 
 **Brain**: Where is my shotgun? Where are the zombies? There is nothing here. Bored now.
 
-**Me**: The game presents such a strong bond between the two main characters. This is a unique and immersive gameplay mechanic in addition to being an effective source of dramatic tension in the game's narrative. 
+**Me**: The game presents such a strong bond between the two main characters. This is a unique and immersive gameplay mechanic in addition to being an effective source of dramatic tension in the game's narrative.
 
 **Brain**: Why won't the bitch follow me?? I get twenty feet away to explore some puzzle and what happens? She lets herself get dragged away by those black dust clouds and I have to replay half the game. Jesus christ on a stick.
 

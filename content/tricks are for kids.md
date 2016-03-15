@@ -1,6 +1,6 @@
 Title: Tricks are for Kids
 Date: 2005-11-11
-Category: Dork
+Category: Video Games
 Author: psu
 
 Sometimes you have to feel sorry for the gaming industry. Here we have a medium that is in the beginning of its life, struggling to be taken seriously. It has slowly scratched its way to the big time as a source of commerce, and you can almost see the collective strain on the faces of game developers as they strive to turn games into art, whatever that means. I bring this up now because the main subject of our gaming discussions this week was <a href="http://www.tleaves.com/weblog/archives/000493.html">Shadow of the Colossus</a>, which has the distinction, along with its predecessor, <a href="http://mutable-states.com/my-brain-on-ico.html">Ico</a> , of being among the few games that actually succeeds in achieving something like art. Both games are rare in that they elicit an emotional response in the player that is more complex than the standard childish rush of victory.

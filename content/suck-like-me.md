@@ -1,6 +1,6 @@
 Title: Suck Like Me: A Guide to Dark Souls PVP
 Date: 2014-1-30
-Category: Dork
+Category: Video Games
 Author: psu
 
 The following text has a lot of plot and game mechanic spoilers, so if you haven't played through the game yet, you should bail out now.
@@ -25,7 +25,7 @@ The PVP system in Dark Souls is based around the _covenants_. There are five cov
 
 1. Darkwraiths. These are the red douchebags who invade you when you are human and trying to kill the area boss. You join the Darkwraiths by killing the Four Kings before you place the Lord Vessel and talking to the other snake. You can then invade people who are human but who have not yet killed the boss in a given area. You can invade all over, but the two main places with regular action are the Undead Burg and the Township area in the DLC. Lots of people will just hang out there waiting for invaders.
 
-2. Darkmoon. These guys are associated with Gwyndolin, my least favorite boss. You invade as a blue phantom under various conditions. The two areas above see some of this action as well as Anor Londo. 
+2. Darkmoon. These guys are associated with Gwyndolin, my least favorite boss. You invade as a blue phantom under various conditions. The two areas above see some of this action as well as Anor Londo.
 
 3. Gravelord. This is complicated. I don't feel like explaining it, so read about it here: <a href="http://darksouls.wikidot.com/gravelord-servant">http://darksouls.wikidot.com/gravelord-servant</a>.
 
@@ -53,13 +53,13 @@ Next you need to pick the stat that will deal your damage. As in the PVE there a
 
 After failing with FAI and INT builds I finally got the bright idea to try a "quality" build. This is a build based on both STR and DEX and uses weapons that having scaling on both stats. 28-32 STR and 40 DEX are the standards, and you can carry pyro to the game too for emergencies. This turned out to work well for three main reasons:
 
-1. Pure physical damage is really effective with the right weapons. 
+1. Pure physical damage is really effective with the right weapons.
 
 2. The combination of high DEX and STR lets you try many different weapons to find the ones you like.
 
 3. Finally, remembering to also carry 40 VIT and 45 END made sure that I could carry better armor and survive backstabs. You could do this with any build, but I had never emphasized it before because you can survive the PVE with relatively low VIT.
 
-It turned out that my favorite PVP weapon is the Halberd, which works optimally in a quality build. 
+It turned out that my favorite PVP weapon is the Halberd, which works optimally in a quality build.
 
 So, I like quality builds, but they are not the only way to go. Some others that you'll see are:
 
@@ -73,7 +73,7 @@ So, I like quality builds, but they are not the only way to go. Some others that
 
 5. Pure DEX builds. These guys leap around and swing fast weapons at you until you are dead. I hate them. Especially the ones using spears.
 
-By convention most PVP builds cap out at around level 120. This is the usually the lowest level at which you can get your all your stats up high enough. You don't want to go too much higher because the matchmaking system does level matching, and you can't invade people who are much lower in level than you. 
+By convention most PVP builds cap out at around level 120. This is the usually the lowest level at which you can get your all your stats up high enough. You don't want to go too much higher because the matchmaking system does level matching, and you can't invade people who are much lower in level than you.
 
 You will find though that people who only _host_ invasions tend to be much higher level than you. They know that you can still invade them (you can invade other players who are arbitrarily higher level than you) and they are not interested in playing as invaders. The flip side is that they are hard to kill.
 
@@ -165,7 +165,7 @@ The very best thing is a long fight that ends with both of you dead at the very 
 
 5. Keep a surprise in your pocket. I tend to fight straight up melee but then I like to whip out Firestorm, a big area of attack fire spell once in a while. It hardly ever hits because it's pretty easy to avoid, but once in while you'll get someone who thinks they can backstab you and gets caught in the fire instead. That's great. Esp. when it hits for 1007 points.
 
-6. I don't understand how parrying works. So I have no help for you there. I certainly don't understand you can parry then switch a ring _and_ a weapon in the equipment menu ... and then riposte, <a href="http://www.youtube.com/watch?v=hwQf3eUDLrk">like this guy does</a>. I get a random backstab once in a while though. 
+6. I don't understand how parrying works. So I have no help for you there. I certainly don't understand you can parry then switch a ring _and_ a weapon in the equipment menu ... and then riposte, <a href="http://www.youtube.com/watch?v=hwQf3eUDLrk">like this guy does</a>. I get a random backstab once in a while though.
 
 7. Watch out for people who dead angle you while you try to block with you shield. Also watch out for people who use the Shotel on you if you are shield turtling. Also, learn to dead angle or use the Shotel when someone is turtling against you.
 

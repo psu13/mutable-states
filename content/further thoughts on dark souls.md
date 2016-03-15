@@ -1,6 +1,6 @@
 Title: Further Thoughts on Dark Souls
 Date: 2015-01-26
-Category: Dork
+Category: Video Games
 Author: psu
 
 In the early days of my console gaming "career" the two games that I would always go back to when I felt that general sense of ennui were *Madden* and *Halo*. And not multiplayer *Halo*, I could play the campaign modes over and over again. There was something about the combat system that just tickled the right parts of my brain when I wanted to turn it off and murder some aliens. What I have found out over the last couple of years is that these two games have been replaced by *Dark Souls* (and also the sequel, *Dark Souls 2*, which I will refer to using the same name, for maximum confusion).
@@ -45,7 +45,7 @@ Here I must take a short digression into the nature of *Dark Souls* combat. Most
 
 Most of the area enemies, and even most of the bosses in *Dark Souls* will fall to these cautious tactics. The main obvious exception is Gwyn, but that's because it's hard to find gear that will tank his fire and stamina damage. Also, you can always either keep Gwyn at range and burn him down with fire, or if you are good you can just parry him to death.
 
-The bosses in the new DLC are not like this. The standard combat algorithm just does not work. 
+The bosses in the new DLC are not like this. The standard combat algorithm just does not work.
 
 What you learn from the new bosses that FromSoft is using them to make you learn how to play like those freaks of nature on Youtube. Really good players have always taken a different approach to combat. They can fight two or three guys at once. Instead of blocking, they can roll through attacks. Instead of locking on, they can manipulate their position and aim to dead angle multiple opponents at once. They do not have to heal, because they never get hit. They can get criticals whenever they want to thin the groups of enemies attacking them. They seem to have a preternatural ability to control both their position and their point of view to see everything that is going on around them, where normal people like you and I just get lost and end up pointing the camera at the ground and falling over.
 
@@ -55,7 +55,7 @@ To solo the bosses in the DLC, you need to learn how to do some of this.
 
 2. Learn to dodge everything.
 
-3. Heavy armor usually does you little good. And you roll much faster in light armor or with no armor at all. 
+3. Heavy armor usually does you little good. And you roll much faster in light armor or with no armor at all.
 
 Now practice until you can make it through the whole fight without a major fuck-up. Then you win.
 

@@ -1,6 +1,6 @@
 Title: Nerdicious Furiosi
 Date: 2010-03-12
-Category: Dork
+Category: Video Games
 Author: psu
 
 <p>Pity the poor PC gamer. There he sits at his computer desk waiting for those AAA titles to come to his &#8220;platform of choice&#8221; a few months after they ship on the crippled consoles. Then, when the object of his desire is finally made available, the publisher encumbers it with what is an undeniably stupid system for &#8220;protecting&#8221; the digital content therein. I speak, of course, of the recent firestorm that Ubisoft has caused with their new DRM scheme on <em>Assassin&#8217;s Creed 2</em> and other titles. </p>
@@ -19,5 +19,4 @@ Author: psu
 <p>The result is that if I put a bunch of hardware into a box and I call it anything that might be interpreted as a &#8220;personal computer&#8221;, I&#8217;m a pigfucker if there are restrictions what software that the machine can run. But, if I call it a &#8220;game console&#8221; or a &#8220;automobile&#8221; or a &#8220;DVD Player&#8221; then it&#8217;s OK if you have to pay tens of thousands of dollars to just get a dev kit for the machine *and* anything you develop must then be additionally tested by my internal Q/A certification team.</p>
 <p>The truth is that these sorts of value judgements are quickly becoming useless and irrelevant. In my opinion, like it or not the world is moving away from the traditional model of a &#8220;general purpose and completely open&#8221; computing platform and more and more towards <a href="../../../../2005/12/20/the-pc-is-dead-long-live-the-pc/index.html">machines that do specific things</a> and take advantage of their specificity to better tune the user experience.</p>
 <p>What does this mean for the poor fan of Assassin&#8217;s Creed 2? I can&#8217;t really say. I&#8217;d just buy the game on the Xbox 360. And then sell it, because it sucks anyway.</p>
-	
-										
+

@@ -1,6 +1,6 @@
 Title: New Ratings System
 Date: 2007-01-22
-Category: Dork
+Category: Video Games
 Author: psu
 
 At this web site we don’t rate things that we review. In particular, we don’t rate the video games that we review. After all, we are self-absorbed wankers with an inflated opinion of the quality of our own writing. We would like to think that we provide insightful, almost literary commentary rather than a simple consumerist analysis. We want to tell you what it’s like to play the game, and maybe a little bit about what the game means. Of course this is all just pretentious nonsense. We play the games and then we write down the first random thought that pops into our heads.

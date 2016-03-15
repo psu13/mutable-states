@@ -1,6 +1,6 @@
 Title: They are Both Stupid
 Date: 2006-09-26
-Category: Dork
+Category: Video Games
 Author: psu
 
 <p>Reading through my daily list of online &#8220;media&#8221;, I&#8217;ve lately felt a low, almost background level of annoyance with the subject matter and tone of some of the content that has streamed my way.</p>
@@ -28,4 +28,3 @@ The particular trigger this time around was the most recent cycle of &#8220;blam
 <p>It&#8217;s hard to look at what the hard-core gamer asks for from the world and not come to the conclusion that if indeed they are being oppressed, it&#8217;s because they were asking for it.</p>
 <p>In the end, my advice to the people on both ends of this tug-of-war is to try and argue from a position of intelligence rather than one of either ignorance or stupidity. On the one hand, those who would rail against the destructive video game culture should perhaps play with the machines some more before coming to a summary judgement. I suggest they try out <em>Mario Kart: Double Dash</em> or <em>Guitar Hero</em>.</p>
 <p>On the other hand, I think that the gaming community should take a more realistic look at itself and come to grips with the fact that it is still dominated by the aesthetic sensibilities of Beavis and Butthead. If you really want to convince people that games have more to offer than drive-by shootings, urban warfare, and misogyny, then maybe you should stop defendng that sort of content and show the world that you have something more worthwhile to offer. I suggest demoing <em>Mario Kart!</em> or <em>Guitar Hero</em>.</p>
-	
