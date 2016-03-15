@@ -1,6 +1,6 @@
 Title: The 80 and the 20
 Date: 2007-07-03
-Category: Things
+Category: Dork
 Author: psu
 
 The 80/20 heuristic states that in most computer systems, you spend 80 percent of your time in 20 percent of the code. Another way to say this is that 80 percent of your users will spend most of their time using about 20 percent of the application that you have so painstakingly constructed for them. This leads to a lot of meetings where we spend time trying to guess which workflows we must support in order to please the “80 percent” users. In my experience, concentrating on the 80 percent users allows projects that have limited resources and short schedules to get done and ship something that most users will be happy with.

@@ -1,6 +1,6 @@
 Title: Madden NFL: Hour of the Phantom Dark Fantasy Kingdom Tactics
 Date: 2005-09-07
-Category: Things
+Category: Dork
 Author: psu
 
 <p>

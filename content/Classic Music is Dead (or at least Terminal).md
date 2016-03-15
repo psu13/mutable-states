@@ -1,6 +1,6 @@
 Title: Classical Music is Dead (or at least Terminal)
 Date: 2004-5-31
-Category: Things
+Category: Dork
 Author: psu
 
 <p>Events have conspired this week to bring up a topic that I find sort of near and dear to my heart and yet simultaneously deeply depressing. That topic is the state of "classical" music in our modern times. Growing up, my father listened to nothing but classical music in the same way he read no paper except the New York Times. Once you hear the best, he reasoned, nothing else is interesting.</p>

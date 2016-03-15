@@ -1,6 +1,6 @@
 Title: Just Teach It
 Date: 2014-06-23
-Category: Things
+Category: Dork
 Author: psu
 
 I have never liked the term term _computer literacy_. This phrase was coined in the early 80s right around the time the first consumer computers became available. Then, as now, there was a lot of anxiety around the machines. Then, as now, people weren't quite sure what to make of them. Then, as now, relatively few people had figured out how they really worked. Educators started throwing the idea of _computer literacy_ around as a new requirement for students, so that they could be prepared for the future, and all that. Then, as now, it was all bullshit. 

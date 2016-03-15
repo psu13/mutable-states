@@ -1,6 +1,6 @@
 Title: Summer of Dark Souls II
 Date: 2014-5-29
-Category: Things
+Category: Dork
 Author: psu
 
 Ok, it's not really summer, but it was _Dark Souls_ time again. As all the addicts know, _Dark Souls II_ launched this March. If _Demon's Souls_ was a bit of a platform-specific cult game, and _Dark Souls_ was a sleeper hit whose audience grew slowly but consistently over time, the second _Dark Souls_ came out of the box as a full-on AAA title with a large pre-existing audience. The question for the nerds then is: is the new game better, or did they dumb it down? As usual, I'm here to tell you the answer almost three months after the fact. I had to play the game to death to be sure, after all.

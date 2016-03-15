@@ -1,6 +1,6 @@
 Title: The Camera We Want
 Date: 2007-06-05
-Category: Things
+Category: Dork
 Author: psu
 
 I like <a href="http://bythom.com">Thom Hogan</a>. He is an intelligent writer, photographer and fellow technical geek and his web site is one of the better collections of information about Nikon cameras. As a bonus, the overall design and layout of the site shows a lot of taste and restraint, unlike almost every other such site in the universe.

@@ -1,6 +1,6 @@
 Title: They are Both Stupid
 Date: 2006-09-26
-Category: Things
+Category: Dork
 Author: psu
 
 <p>Reading through my daily list of online &#8220;media&#8221;, I&#8217;ve lately felt a low, almost background level of annoyance with the subject matter and tone of some of the content that has streamed my way.</p>

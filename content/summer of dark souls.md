@@ -1,6 +1,6 @@
 Title: Summer of Dark Souls
 Date: 2013-10-21
-Category: Things
+Category: Dork
 Author: psu
 
 It all started when I found out that the Xbox 360 had a downloadable version of <em>Dark Souls</em> along with its expansion pack. Since I must download things, I bought it and happily started playing another character. I did all the things I remembered doing before. I made enchanted weapons, bought the crystal magic spells, re-learned how to backstab and parry. I was easily beating up the mobs and didn't have that much more trouble with the bosses. Then I went into the downloadable expansion pack. And got murdered. 

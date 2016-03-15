@@ -1,6 +1,6 @@
 Title: All I Want for Christmas is a Place to Farm Souls
 Date: 2011-12-30
-Category: Things
+Category: Dork
 Author: psu
 
 *Dark Souls* is the mildly sadistic sequel to the completely sadistic Japanese action RPG *Demon's Souls*. I gave up on the latter game a couple of years ago after encountering the second one hit kill boss in the game. The first one hit kill boss in the game was placed at the end of the tutorial, which gives you an idea of what these games are like.

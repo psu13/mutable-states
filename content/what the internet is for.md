@@ -1,6 +1,6 @@
 Title: What The Internet is For
 Date: 2005-11-17
-Category: Things
+Category: Dork
 Author: psu
 
 In the distant past, around ten years ago, there was a hallowed time when the Internet both defined and demonstrated its true purpose. Back then, there were vendors on the net, like Amazon.com, from whom you could order almost anything and have it delivered to your house just a day or two later for a small fee.  The choices offered by these vendors was wide and deep, and the service that they provides was competent and timely.

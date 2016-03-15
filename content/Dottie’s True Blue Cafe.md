@@ -1,6 +1,6 @@
 Title: Dottie’s True Blue Cafe
 Date: 2008-04-28
-Category: Things
+Category: Food
 Author: psu
 
 Dottie’s True Blue Cafe is a small place in San Francisco that sits right where the gentrification of Union Square ends and the Tenderloin begins. It is a neighborhood place that has become a destination through well-deserved appearances in every publication that has an opinion on where to eat in San Francisco. As such, you don’t really need me to tell you to go there. But I will anyway.

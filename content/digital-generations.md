@@ -1,6 +1,6 @@
 Title: Digital Generational Stupidity
 Date: 2004-12-02
-Category: Things
+Category: Dork
 Author: psu
 
 Dear NPR,

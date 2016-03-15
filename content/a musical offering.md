@@ -1,6 +1,6 @@
 Title: A Musical Offering
 Date: 2014-11-30
-Category: Things
+Category: Dork
 Author: psu
 
 The *Musical Offering* is the sort of Bach that appeals to the mind of a stereotypical engineer. It lives in the wheelhouse of the sort of brain that enjoys abstract complexity and is more comfortable with a bit of emotional distance. So it's no surprise that it's my one of my favorite Bach pieces. 

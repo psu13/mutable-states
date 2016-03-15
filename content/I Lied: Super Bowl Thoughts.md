@@ -1,6 +1,6 @@
 Title: I Lied: Super Bowl Thoughts
 Date: 2015-02-02
-Category: Things
+Category: Dork
 Author: psu
 
 I said on twitter that I would have no more words about the football season that ended last night, but I lied. I have a few more things to say about the game specifically and the Pats in general. Then I'll really be done for the season.

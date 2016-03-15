@@ -1,6 +1,6 @@
 Title: Star Wars VII: A New Hope
 Date: 2016-01-04
-Category: Things
+Category: Dork
 Author: psu
 
 Don't keep reading this if you have not seen the new movie. You have been warned.
@@ -67,6 +67,6 @@ I think the scene that most exemplifies what I liked about this movie comes near
 
 There is no way for a 50 year old *Star Wars* nerd to watch that moment and not be taken over by multiple waves of nostalgia for all of the bits of the original trilogy that are referenced. On the other hand, I don't think the movie is only trading on this nostalgia. The moment works because Rey is, in her own right, a character strong enough to make you take her seriously when *that* music plays under her big moment. If Lucas had tried to pull off a moment like that in the prequels (maybe he did, I really don't know what happened in those films anymore) you would just snicker to yourself and not really believe it because this is a man who *got a boring performance from Samuel L. Motherfucking Jackson* and you simply can't buy his bullshit anymore.
 
-But to me Abrams has credibility because he has spent the entire film saying to you: "It's OK, I got this", and then showing you that it's OK, he has it. For me the movie works because for the most part the characters work. They are well-written and mostly well-acted. And, as I already said above, the movie is well filmed. The frames are not busy. The visual language is interesting. The places look real when they need to and fantastic when they need to. Abrams gains your trust by being good at making movies. I will forgive the movie various foibles related to plot points that make no sense because plot never mattered in this series anyway. What matters is that you watch these people you care about fly around this make-believe galaxy and swing laser swords at each other and the whole thing is done well enough that you mostly believe it.
+But to me Abrams has credibility because he spends the entire film saying to you: "It's OK, I got this", and then showing you that it's OK, he has it. For me the movie works because for the most part the characters work. They are well-written and mostly well-acted. And, as I already said above, the movie is well filmed. The frames are not busy. The visual language is interesting. The places look real when they need to and fantastic when they need to. Abrams gains your trust by being good at making movies. I will forgive the movie various foibles related to plot points that make no sense because plot never mattered in this series anyway. What matters is that you watch these people you care about fly around this make-believe galaxy and swing laser swords at each other and the whole thing is done well enough that you mostly believe it.
 
 A New Hope indeed.

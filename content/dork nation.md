@@ -1,6 +1,6 @@
 Title: Dork Nation
 Date: 2006-12-19
-Category: Things
+Category: Dork
 Author: psu
 
 When I was in high school, I was a bit of a dork. No really, it’s true. Back then even a passing interest in the emerging digital technologies was looked upon with suspicion and would get you beat up during study hall. We geeks were antisocial outcasts relegated to self-created school ghettos while the normal people did normal people things while dressing better.

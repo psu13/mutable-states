@@ -1,6 +1,6 @@
 Title: The Wrong Question
 Date: 2015-06-16
-Category: Things
+Category: Dork
 Author: psu
 
 Today's story starts <a href="https://www.youtube.com/watch?v=xyowJZxrtbg&ab_channel=TEDxTalks">with this TED video about teaching math</a>. The video is short, you should go watch it. I happened across the thing accidentally one night and, unsurprisingly, I found myself annoyed and slightly angry. The video concerns itself with answering the following question about mathematics: "What will I use this for?" 

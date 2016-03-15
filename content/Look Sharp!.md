@@ -1,6 +1,6 @@
 Title: Look Sharp!
 Date: 2009-10-14
-Category: Things
+Category: Dork
 Author: psu
 
 <p>If camera bodies and bags are the number 1 and 2 dork shopping obsessions related to photography, sharpness is probably a close third. It is probably the most popular purely technical aspect of <em>actual pictures</em> that makes it to the camera dork shopping list. People buy bigger cameras, more expensive lenses, sturdier enlargers (well, maybe not), and spill a lot of sweat and tears over sharpness and &#8220;picture quality.&#8221; Even my resolutely un-camera-dorky partner peterb got into the act when he described the <a href="http://tleaves.com/wp-archive/2008/09/02/from-canon-to-nikon-focusing/index.html">Nikon D300 autofocus</a> system as being one that could lead to &#8220;tack sharp&#8221; images. Unfortunately, it&#8217;s a hard concept to pin down. Most people will tell you when they think a picture is sharp, or not. But sharpness is more of a mixture of multiple technical characteristics than a single measurable quantity.<br />

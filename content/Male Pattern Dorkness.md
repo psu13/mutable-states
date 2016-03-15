@@ -1,6 +1,6 @@
 Title: Male Pattern Dorkness
 Date: 2009-06-11
-Category: Things
+Category: Dork
 Author: psu
 
 <p>If I have any hobby that does not involve the gratuitous exchange of money for material goods, it is the observation of the dork in his natural habitat. It&#8217;s not just that I was educated by dorks at a school that was mostly dorky. Or that I work with dorks in an industry whose products are primarily concerned with parting dorks from their dork cash. The fact is that even without these advantages, I spend all 24 hours of every day in the head of a dork (mine), so there is nothing I know better than what drives the dork psychology.<br />

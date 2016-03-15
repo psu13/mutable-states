@@ -1,6 +1,6 @@
 Title: Camera Enough
 Date: 2009-01-08
-Category: Things
+Category: Dork
 Author: psu
 
 <p>If there is something that photographers like to do more than shop for cameras it is this: photographers love to tell you why a given machine is not good enough for what they do. Cameras are too small, or too big, or too slow or too loud, or <a href="http://photo.net/canon-eos-digital-camera-forum/00LE7S">too &#8220;plasticky&#8221;</a>. The flash system might be no good. Or the lens system might be missing that one critical lens, usually an expensive fast prime. Another popular reason not to buy a camera is that it&#8217;s not a Leica.<br />

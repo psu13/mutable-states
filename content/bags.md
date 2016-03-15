@@ -1,6 +1,6 @@
 Title: The Camera Bag Problem, 2013
 Date: 2013-02-09
-Category: Things
+Category: Dork
 Author: psu
 
 I bought a new camera, so I had to look at camera bags again. I was allegedly after something "smaller" to hold the new set of "smaller" equipment I would be carrying now. This is of course a lie. It's apparently been a few years [since I looked at camera bags](http://tleaves.com/2007/05/14/the-camera-bag-problem/index.html). For the most part my conclusions are the same: get a Domke bag of the right size and stick with it. The explosion of Internet merchandising has added a few new things to ignore on your trip over to Domke-land, so let's review.

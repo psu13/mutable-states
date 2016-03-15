@@ -1,6 +1,6 @@
 Title: The Latent Object
 Date: 2004-11-17
-Category: Things
+Category: Dork
 Author: psu
 
 There was a discussion on our local chat system a while back about the genesis of the frenzy over Halo 2. Pete suggested that the pre-release hype for a game such as Halo has its origins in the hard-wired obsessive addiction that hard-core gamers have for <em>the next big hit</em>, having been searching for the next big hit since their first exposure to games as young men.

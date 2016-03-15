@@ -1,6 +1,6 @@
 Title: How to Ring
 Date: 2014-9-21
-Category: Things
+Category: Dork
 Author: psu
 
 As a cultural force, the European classical music tradition arguably reached its peak sometime in the mid to late 19th century. This period produced the last group of towering musical geniuses, from Brahms to Bruckner to Wagner, and later Strauss and Mahler. Of this group I think you can say one thing: Wagner was the craziest of them all.

@@ -1,6 +1,6 @@
 Title: Latitude is What You Can Get Away With
 Date: 2014-1-22
-Category: Things
+Category: Dork
 Author: psu
 
 Long time readers of <a href="http://tleaves.com/wp-archive/category/food-and-drink/index.html">previous web site</a> will not be surprised that I have on occasion enjoyed ranting at length on the subject of <a href="http://tleaves.com/wp-archive/2009/08/10/dinner-in-half-an-hour/index.html">food and its preparation</a>. Perhaps because of this, I sometimes find myself giving advice on cooking in various forms. Having gone through the long process of becoming perhaps a competent cook, I think the most important insight that I have into the process is this: "learn what you can get away with."

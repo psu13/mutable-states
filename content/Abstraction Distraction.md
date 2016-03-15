@@ -13,7 +13,7 @@ The Internet provides a convenient example. Suppose you want to explain to peopl
 
 or maybe
 
-<a href="../../../../index2735.html?p=1081">http://tleaves.com/?p=1081</a>
+<a href="http://mutable-states.com/the-abstraction-distraction-part-1.html">http://mutable-states.com/the-abstraction-distraction-part-1.html</a>
 
 Then people can just keep the link around and read the words by themselves. This, I claim, is abstraction at its core. We have taken something long and complicated and turned it into a single easy to remember name so we don't have to think about the other stuff anymore.
 

@@ -1,6 +1,6 @@
 Title: DISH
 Date: 2005-04-28
-Category: Things
+Category: Food
 Author: psu
 
 In the South Side of Pittsburgh, on 17th about a block and a half south of Carson Street is a small house with a green awning. Under the awning is a door and a sign that reads: DISH Osteria and Bar. From the outside, the door is just another door in another blue collar Pittsburgh neighborhood. It’s a skinny street with a beat up sidewalk lined with cheap looking row houses as far as the eye can see. But, if you walk through the door, you are transported to another place entirely. The place on the other side of the door is not of Pittsburgh at all. It is DISH, and it is fabulous.

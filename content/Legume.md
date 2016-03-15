@@ -1,6 +1,6 @@
 Title: Legume
 Date: 2008-02-07
-Category: Things
+Category: Food
 Author: psu
 
 

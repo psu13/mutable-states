@@ -1,6 +1,6 @@
 Title: Things That Won't Make Your Pictures Better
 Date: 2010-01-13
-Category: Things
+Category: Dork
 Author: psu
 
 My year in photography ended like it usually does, at my parents' house where

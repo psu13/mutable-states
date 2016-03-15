@@ -1,6 +1,6 @@
 Title: You Can't Go Back
 Date: 2009-08-17
-Category: Things
+Category: Dork
 Author: psu
 
 <p>A couple of months ago Kodak announced that they would stop manufacturing <a href="http://en.wikipedia.org/wiki/Kodachrome">Kodachrome slide film</a>. Given that this is a product that has been continually available for longer than most current photographers have been alive, you would think that this was a pretty big deal. But no. The end result of the digital vs. film battle <a href="http://mutable-states.com/requiem-for-the-latent-image.html">was so predetermined</a> that even that bastion of irrational nostalgia: the Leica Users Group mailing list barely made a peep about it. The truth is that Kodachrome died in the 1980s when Fuji introduced Velvia.<br />

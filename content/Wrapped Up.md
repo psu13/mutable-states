@@ -1,6 +1,6 @@
 Title: Wrapped Up
 Date: 2015-05-31
-Category: Things
+Category: Food
 Author: psu
 
 A few months ago I needed a new podcast to use to fill the time during my commute and on the recommendation of a friend of mine I picked up <a href="http://www.sporkful.com">The Sporkful</a> out of NYC. On paper this should be right in my wheelhouse. It's an obsessive mostly nerdy but also pragmatic investigation of the great questions around food and eating. Overall I would say that the show is mostly enjoyable. There was that good rant about bagels. There was a nice show about soda. And the host liked the burritos at La Taqueria, which are the best I've had in SF, which means they are the best I've had. So that's good.

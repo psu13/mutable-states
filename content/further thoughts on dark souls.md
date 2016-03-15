@@ -1,6 +1,6 @@
 Title: Further Thoughts on Dark Souls
 Date: 2015-01-26
-Category: Things
+Category: Dork
 Author: psu
 
 In the early days of my console gaming "career" the two games that I would always go back to when I felt that general sense of ennui were *Madden* and *Halo*. And not multiplayer *Halo*, I could play the campaign modes over and over again. There was something about the combat system that just tickled the right parts of my brain when I wanted to turn it off and murder some aliens. What I have found out over the last couple of years is that these two games have been replaced by *Dark Souls* (and also the sequel, *Dark Souls 2*, which I will refer to using the same name, for maximum confusion).

@@ -1,6 +1,6 @@
 Title: The Blood Red Moon in Yharnam
 Date: 2015-05-14
-Category: Things
+Category: Dork
 Author: psu
 
 There are lots of spoilers for *Bloodborne* here. Read this later if you want to avoid them.

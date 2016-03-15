@@ -1,6 +1,6 @@
 Title: Four Mini-Reviews
 Date: 2010-03-05
-Category: Things
+Category: Dork
 Author: psu
 
 While peterb wallows in his extended winter-induced MMO haze, I’ve been stuck on the console. I have the following four thoughts on my recent experiences.

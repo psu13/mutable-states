@@ -1,6 +1,6 @@
 Title: Dark Souls Ate My Brain
 Date: 2012-02-07
-Category: Things
+Category: Dork
 Author: psu
 
 *Dark Souls* ate my brain. I don’t understand how it happened. I started December a normal, older, jaded gamer who has not seen anything worth playing in most of a year. I ended it about half way through this game and already planning a second run to see if “tuning” my character build would make things better. But here is the worst part. If you write down what people say about this video game it reads like a set of requirements for building a game that I will hate.

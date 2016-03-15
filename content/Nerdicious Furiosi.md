@@ -1,6 +1,6 @@
 Title: Nerdicious Furiosi
 Date: 2010-03-12
-Category: Things
+Category: Dork
 Author: psu
 
 <p>Pity the poor PC gamer. There he sits at his computer desk waiting for those AAA titles to come to his &#8220;platform of choice&#8221; a few months after they ship on the crippled consoles. Then, when the object of his desire is finally made available, the publisher encumbers it with what is an undeniably stupid system for &#8220;protecting&#8221; the digital content therein. I speak, of course, of the recent firestorm that Ubisoft has caused with their new DRM scheme on <em>Assassin&#8217;s Creed 2</em> and other titles. </p>

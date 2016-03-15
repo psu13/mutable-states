@@ -1,6 +1,6 @@
 Title: Expose Yourself
 Date: 2007-04-02
-Category: Things
+Category: Dork
 Author: psu
 
 <p>The subject of exposure in photography is filled with confusion. On the one

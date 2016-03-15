@@ -1,6 +1,6 @@
 Title: Stir Fry Rules
 Date: 2009-01-28
-Category: Things
+Category: Dork
 Author: psu
 
 Today I made a perfect stir fry. This doesn’t happen often, I usually get some small detail wrong that throws the whole enterprise off. I thought I would celebrate by imparting upon you, my dear readers, the rules you need to keep in mind to make the perfect stir fry happen more often. As is usual with my recipe advice, it will do you no good at all.

@@ -1,6 +1,6 @@
 Title: The Sound of Music
 Date: 2014-2-10
-Category: Things
+Category: Dork
 Author: psu
 
 Classical music angst filled the Intertubes again last week. Well, it filled as much of the Intertubes as classical music ever does, which is to say probably a small amount. But, I ran across a "defense" of the industry against <a href="http://www.slate.com/articles/arts/culturebox/2014/01/classical_music_sales_decline_is_classical_on_death_s_door.html">an army of worn out straw-man arguments</a> trotted out as link-bait in Slate.

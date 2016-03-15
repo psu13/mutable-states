@@ -5,11 +5,11 @@ Author: psu
 
 Tonight a few recent discoveries, none all that long, but each very pleasing.
 
-#### The Vacuum Insulated Thermos
+##### The Vacuum Insulated Thermos
 
 These have changed the nature of our domestic hot drink management. After the initial purchase we went on to obtain three more of various different sizes. Combined with a nice electric pot for boiling water, these things will keep you in hot tea and coffee all day without a lot of sweat and bother. Highly recommended. Note: eventually we settled on the 16oz/.5 liter bottle as the best size.
 
-#### Goulash
+##### Goulash
 
 When I was at Dartmouth, there was a guy there named Rudy who sold bratwurst and kraut sandwiches at the local farmer’s market. He cooked his kraut for like 48 hours before market day. Those were really good sandwiches. Rudy also made goulash. He would reduce the liquid in it to almost nothing and then freeze it and sell the blocks, telling you to add a bit of water to bring back the right consistency. He didn’t want to sell you the water.
 
@@ -34,7 +34,7 @@ Heat oil in a saucepan. Add the finely chopped onions and cook until translucent
 
 But, learn from our mistake. You might be buying paprika at the spice store and notice that there is something called Half Sharp paprika. You might wonder what that means. You might use some in your goulash. Be very careful. This stuff is like a hot chili powder, but with more kick. It makes great goulash, but you must be aware of your limits.
 
-#### Pressure Cooker Chickpeas
+##### Pressure Cooker Chickpeas
 
 A pressure cooker is one of those appliances I try to avod because it only really does one thing. But, when we got ours we reasoned that maybe we’d learn how to do those Indian lentil dishes in it like we saw my friend’s mom in DC do. This never happened. There is actually only one dish we do in the pressure cooker, which means every time I make it I have to remember how to use the device. Here is the outline. You take this stuff:
 

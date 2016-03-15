@@ -1,6 +1,6 @@
 Title: Vancouver BC: Cooler Than Seattle
 Date: 2010-05-03
-Category: Things
+Category: Dork
 Author: psu
 
 <p>I promised my friend and co-worker from Vancouver that I&#8217;d lead with that statement so I did it even though I love Seattle dearly. Don&#8217;t be mad. The truth is that Vancouver is cooler than most of your favorite cities. There are several reasons why, and some of them don&#8217;t even have to do with food.<br />

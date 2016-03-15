@@ -1,6 +1,6 @@
 Title: The Digital Desert Island
 Date: 2011-02-28
-Category: Things
+Category: Dork
 Author: psu
 
 The other day I accidentally reset the music that I sync into my iPhone. As I result, I had to wait for a long while for iTunes to copy all the music back into the phone where I had inadvertently deleted it. As it copied track after track it occured to me that the iPod/mp3/iTunes/digital music era has made something that used to be a mainstay of lazy music writing completely irrelevant: the desert island record list.

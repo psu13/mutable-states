@@ -1,6 +1,6 @@
 Title: Deal with the Devil
 Date: 2005-12-05
-Category: Things
+Category: Dork
 Author: psu
 
 <p>My friend Dave used to say that the exponential increase in hard disk capacity over time was sure proof that not only was the storage industry in league with the darker forces, but also that every disk platter was clearly populated with the souls of the poor industry employees who had signed the contracts needed to rev the latest generation of the hardware.</p>

@@ -1,6 +1,6 @@
 Title: Legendary Ease of Use
 Date: 2005-03-22
-Category: Things
+Category: Dork
 Author: psu
 
 This month the Official Xbox Magazine included a demo of Jade Empire, the upcoming RPG that Bioware has been developing since they passed the KOTOR franchise to others. I mention this because for the last year or so I've had the following conversation with Pete a few times:

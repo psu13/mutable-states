@@ -1,6 +1,6 @@
 Title: How to Take Good Pictures
 Date: 2005-03-02
-Category: Things
+Category: Dork
 Author: psu
 
 <p>The two best books that I&#8217;ve read about how to take pictures  are <a href="http://mountainlight.com/books/mountainlight.html">Mountain Light</a> by the late Galen Rowell and <a href="http://shop.lenswork.com/index.asp?PageAction=VIEWPROD&amp;ProdID=26">On Being a Photogapher</a> by David Hurn and Bill Jay.  The first is a book about landscape photography, while the second is a book about photojournalism. But I think both make essentially the same points about how to take good pictures.  If you are really serious, put your computer down and go pick up those two books. They will tell you more than I ever can. But, here is a summary of what I think both of these books say.<br />

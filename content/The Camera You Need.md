@@ -1,6 +1,6 @@
 Title: The Camera You Need
 Date: 2009-08-21
-Category: Things
+Category: Dork
 Author: psu
 
 <p>If you hang around the Interweb forums related to photography long enough, you come to notice that the two most common questions are always first &#8220;what should I buy?&#8221; and second something like &#8220;what bag should I put it in?&#8221; or &#8220;I am going on a trip, what should I bring?&#8221; When you think about it, all of these questions stem from the same basic source of insecurity on the part of the photographer. What these questions really say is &#8220;I don&#8217;t know what I want to do with the camera, please help.&#8221;</p>

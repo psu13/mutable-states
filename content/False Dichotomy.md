@@ -1,6 +1,6 @@
 Title: False Dichotomy
 Date: 2015-02-28
-Category: Things
+Category: Dork
 Author: psu
 
 I like to take pictures of things, but I would not say that I'm a *photographer*. Back when I carried a <a href="http://mutable-states.com/too-much-camera.html">camera that was a bit too large</a> people would ask me about the machine and remark that I must be a pretty serious photo person. I would usually claim that I just dabble. This is probably a bit of an understatement. 

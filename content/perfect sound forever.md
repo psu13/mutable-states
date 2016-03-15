@@ -1,6 +1,6 @@
 Title: Perfect Sound Forever
 Date: 2014-05-03
-Category: Things
+Category: Dork
 Author: psu
 
 <a href="http://www.mosaicrecords.com">Mosaic Records</a> is everything you want from a record company. For the last thirty years or so they have been doing lovingly crafted, meticulously complete and methodically documented boxed sets that collect together the works of famous and not so famous jazz artists. There is only one problem with this rosy picture. After working so hard to find and document the recordings in each set, they write them to CDs, which then slowly rot away while they sit in their boxes.

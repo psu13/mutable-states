@@ -1,6 +1,6 @@
 Title: Suck Like Me: A Guide to Dark Souls PVP
 Date: 2014-1-30
-Category: Things
+Category: Dork
 Author: psu
 
 The following text has a lot of plot and game mechanic spoilers, so if you haven't played through the game yet, you should bail out now.

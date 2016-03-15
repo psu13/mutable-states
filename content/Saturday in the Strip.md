@@ -1,6 +1,6 @@
 Title: Saturday in the Strip
 Date: 2007-01-15
-Category: Things
+Category: Food
 Author: psu
 
 It was another Saturday in the Strip. La Prima and Il Piccolo Forno were as full as always. Actually, they were even more full than usual, especially for a weekend in Janurary. There was coffee coming out of the cafe. There were baked goods and other food in the bakery. People milled around outside. People shuffled in and out of the doors. People enjoyed each other’s company in the presence of the best combination of coffee and baked goods that the city has to offer. But this Saturday was different. The pastry wasn’t right. The pastry wasn’t right because Antonio passed away last week. The pastry will never be right again.

@@ -1,6 +1,6 @@
 Title: The Wire
 Date: 2010-05-17
-Category: Things
+Category: Dork
 Author: psu
 
 People have been telling me to watch <em>The Wire</em> for years. I have resisted because in general I am suspicious of what <a href="http://tleaves.com/2008/10/22/minimum-standards/index.html">television enthusiasts</a> tell me. I finally relented because I never heard or read a single negative review of the show. I still had lingering doubts that I would be able to deal with the somewhat grim subject matter, but it only took a few minutes for these doubts to evaporate.

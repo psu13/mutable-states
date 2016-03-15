@@ -1,6 +1,6 @@
 Title: Paris Things: 2014 Update
 Date: 2014-08-26
-Category: Things
+Category: Dork
 Author: psu
 
 A long time ago my friend Eric asked me what to do in Paris. Since I _live to serve_ I wrote a <a href="http://www.tleaves.com/weblog/archives/000292.html">web page for him</a> that contained some humble suggestions. Over the years whenever anyone asks me what to do in Paris I trot out that page, because we always do the same things.

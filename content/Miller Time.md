@@ -1,6 +1,6 @@
 Title: Miller Time
 Date: 2010-3-17
-Category: Things
+Category: Dork
 Author: psu
 
 <p>The middle of March means that March Madness is upon us. Therefore I&#8217;m going to talk to you about a film that is about the NBA. This might seem strange to you. But it makes sense to me. With the exception of a few years following Duke after I was at the school when they repeated in 1992, I&#8217;ve never been much for NCAA Basketball. As a singular event full of spectacle and drama, there isn&#8217;t much that can beat the NCAA tournament. But that doesn&#8217;t mean the <em>basketball</em> is that good. People will call me nuts, but what bothers me about the college game is that, well, the players are not that <em>good</em> yet.<br />

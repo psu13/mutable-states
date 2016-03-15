@@ -1,6 +1,6 @@
 Title: The Golden Age of Cameras Part 2
 Date: 2015-02-22
-Category: Things
+Category: Dork
 Author: psu
 
 If you ask photo dorks of a certain age to name  the *golden age* of film cameras they will usually tell you that it was the 1970s. In addition, if you talk to the right people, they will tell you that the camera that started the 1970s golden age was the <a href="http://en.wikipedia.org/wiki/Olympus_OM-1">Olympus OM-1</a>. The OM-1 defined the standard size and shape of the classic 35mm SLR camera. You can see the design influence of this machine by studying the consumer-oriented bodies from all of the other major camera companies of the same period: Pentax K1000, Nikon FM/FE, the Canon AE series, the Minolta XE and so on. SLR cameras finally approached the perfection of the original perfectly sized 35mm camera: the Leica. They

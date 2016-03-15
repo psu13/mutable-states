@@ -1,6 +1,6 @@
 Title: R is not for Role
 Date: 2005-03-09
-Category: Things
+Category: Dork
 Author: psu
 
 <p>Lately, my game playing time has been mostly budgeted to games that the industry puts into the general genre of &#8220;Role Playing Game&#8221; or &#8220;RPG&#8221;. Before <em>Knights of the Old Republic</em> I had mostly ignored games like these, but since that game I have delved into <em>Mario and Luigi</em>, <em>Disgaea</em>,  <em>Shadow Hearts</em> and <em>Shin Megami Tensei: Nocturne</em>. All this exposure has gotten me to thinking about the defining characteristic of this game genre.<br />
