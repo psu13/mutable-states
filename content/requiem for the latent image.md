@@ -1,6 +1,6 @@
 Title: Requiem for the Latent Image
 Date: 2007-04-18
-Category: Dork
+Category: Photo
 Author: psu
 
 <p>I have a drawer in my house. I call it my &#8220;photo junk&#8221; drawer. Eight or nine years ago, it started out as an empty hanging file drawer where I started to file away the PrintFile slide storage pages that I had been collecting since buying my first real camera. There are a few folders of slides in the drawer, but it is now mostly overrun with small piles of print envelopes and small accessories that I had no use for. So I decided to clean the drawer up.</p>

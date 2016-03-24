@@ -1,6 +1,6 @@
 Title: The Walking Dead
 Date: 2011-06-23
-Category: Dork
+Category: Photo
 Author: psu
 
 <p>Ever since Nikon put out the first usable consumer DSLR camera (the D1x, btw) what people have pined for is something that would <a href="http://mutable-states.com/the-camera-i-want.html">shoot pictures that are nearly as good, but in a much smaller form factor</a>. Over the last few years, several <a href="http://tleaves.com/2011/02/08/the-camera-i-want-available/index.html">cameras like this have finally become available</a>. Most recently this has culminated in the almost comical <a href="http://theonlinephotographer.typepad.com/the_online_photographer/2011/06/qsystem.html">Pentax &#8220;Q&#8221; System</a> which combines what everyone has always wanted: small sensor cameras and interchangeable lenses. What?</p>

@@ -1,6 +1,6 @@
 Title: Introduction
 Date: 2013-06-15
-Category: Dork
+Category: Things
 Author: psu
 
 Hello. Mutable States is my new web site about my general state of mind. It's also a way to troll certain people who are enamored of programming models that have no mutable state, but that's for another time.

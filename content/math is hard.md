@@ -1,6 +1,6 @@
 Title: Math is Hard, Let's Just Quit
 Date: 2012-7-30
-Category: Dork
+Category: Things
 Author: psu
 
 <p>Andrew Hacker has pissed me off before. A few years back he <a href="http://www.theatlantic.com/entertainment/archive/2010/07/whats-wrong-with-the-american-university-system/60458/">wrote a book</a> where he claimed that the standard humanities-oriented "Liberal Arts" curriculum was the only one worthy of actually being taught at the university level. Now, he might have just been making an oblique argument that our current college programs tend to be too vocational, and I'd agree with that. But he wrapped his point in a lot of inflammatory bullshit that to me meant that he really didn't think that mathematics and its related fields were really worth anything.</p>

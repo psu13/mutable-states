@@ -1,6 +1,6 @@
 Title: Same as it Ever Was
 Date: 2010-11-26
-Category: Dork
+Category: Things
 Author: psu
 
 I have always really liked the <a href="http://www.amazon.com/Best-American-Essays-2010/dp/0547394519/">Best American Essays</a> series. For those of you who are not familiar with these books, every year they rope some editor into reading thousands of pieces of non-fiction from various periodicals that specialize in publishing such material. Then they put 20 or 25 of these pieces into a single book and put it out on the shelves so I can buy one and read it on my next long plane trip. The stuff is fantastic. In addition, it saves me from needing to subscribe to all of the magazines find the good stuff.

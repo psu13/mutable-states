@@ -1,6 +1,6 @@
 Title: Tools of the Trade
 Date: 2005-10-19
-Category: Dork
+Category: Things
 Author: psu
 
 If there is one inescapable fact of life in our dynamic technological society, it is that if enough people are interested in a given activity, the tools that enable that activity will change. I was thinking about this recently as I was presented with two press items about the film industry. One was a loving lament for and tribute to the last of the hand-drawn animation studios at Disney. The other was a review of the new Wallace and Gromit movie. Each piece drew the inevitable comparisons between hand-animated films and films animated by computer. The authors expressed their perfectly valid preference for the hand-animated style. Strangely though, each also came to the completely unjustified conclusion that computer animation is why they don't like computer animated films. This is a stupid thing to say.

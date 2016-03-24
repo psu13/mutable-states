@@ -1,6 +1,6 @@
 Title: The Golden Age of Cameras Part 1
 Date: 2014-10-29
-Category: Dork
+Category: Photo
 Author: psu
 
 I have always liked <a href="http://mutable-states.com/the-camera-i-want.html">small cameras</a>. All things being equal <a href="http://mutable-states.com/the-camera-we-want-redux.html">the smaller camera is always better</a>. Over the years I have done my share of whining about how terrible the smaller digital cameras are. But now I am here to tell you that those times are over. We are in a _golden age_ of small cameras.  

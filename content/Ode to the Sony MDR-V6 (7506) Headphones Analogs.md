@@ -1,6 +1,6 @@
 Title: Ode to the Sony MDR-V6 (7506) Headphones
 Date: 2016-03-09
-Category: Dork
+Category: Things
 Author: psu
 
 Headphones are a big deal these days. It would seem that after a decade of suffering with the shitty earbuds that come with their smart-phones people have finally decided that they want something decent and comfortable on which to listen to their MP3s, Spotify Streams, Apple Music Playlists, or, if they are true nerds, those lossless rips that they have meticulously transferred by hand to a dedicated non-iPhone music player (why??).

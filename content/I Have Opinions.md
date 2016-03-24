@@ -1,6 +1,6 @@
 Title: I Have Opinions
 Date: 2013-12-31
-Category: Dork
+Category: Things
 Author: psu
 
 As might be traditional if I actually did it every year here is a short list of things I think that are at best barely justifiable in any quantitative way. But they are true anyway. A good way to end the year.

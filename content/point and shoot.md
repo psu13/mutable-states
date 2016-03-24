@@ -1,6 +1,6 @@
 Title: Point And Shoot
 Date: 2007-04-30
-Category: Dork
+Category: Photo
 Author: psu
 
 <p>This week I found the first photographic web site to pique my interest in a long time. For a while now I had been ignoring most of the photographic web because there just wasn&#8217;t any content at an appropriate level of maturity. What I mean by that is that most sites are either just a big shopping catalog or a collection of articles providing shallow tutorials on various subjects like how best to put the $5000 digital camera you just bought on a tripod.</p>

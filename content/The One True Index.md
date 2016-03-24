@@ -1,6 +1,6 @@
 Title: The One True Index
 Date: 2006-11-06
-Category: Dork
+Category: Things
 Author: psu
 
 There is a great scene in the film High Fidelity where one of Jon Cusack's buddies comes over to see if the wants to go clubbing, and finds Cusack on the floor of his apartment surrounded by piles of records. He asks how he is filing the albums, and after some discussion, Cusack spills the beans: "Autobiographical."

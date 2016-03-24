@@ -1,6 +1,6 @@
 Title: Lose The Disk
 Date: 2010-04-10
-Category: Dork
+Category: Things
 Author: psu
 
 Long time readers of this site will remember (or not) that I&#8217;ve been slowly working my way through my CD collection and adding it all to iTunes. Over about the last three years, I&#8217;ve gone from having <a href="http://mutable-states.com/itunes-rules.html">140 albums filed</a> to the current figure of around 375. The total number of disks is somewhat higher, because a lot of my collection is large boxed sets that I hardly listen to. Because I&#8217;m stupid. Anyway, at the current rate, I should be finished with this project in about 2017. A week or two ago I came to an interesting epiphany about the whole endeavor: what I should do is rip the disks and then throw them away. I&#8217;m just going to lose them anyway.<br />

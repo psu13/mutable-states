@@ -1,6 +1,6 @@
 Title: Too Much Camera
 Date: 2009-09-11
-Category: Dork
+Category: Photo
 Author: psu
 
 

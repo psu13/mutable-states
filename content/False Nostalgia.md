@@ -1,6 +1,6 @@
 Title: False Nostalgia
 Date: 2005-08-10
-Category: Dork
+Category: Photo
 Author: psu
 
 <p>

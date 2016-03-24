@@ -1,6 +1,6 @@
 Title: Podcast People
 Date: 2015-03-13
-Category: Dork
+Category: Things
 Author: psu
 
 CGP Grey worries about a lot of things. Here is an incomplete list in no particular order:

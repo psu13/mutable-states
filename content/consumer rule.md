@@ -1,6 +1,6 @@
 Title: The Consumer Rule
 Date: 2014-08-31
-Category: Dork
+Category: Things
 Author: psu
 
 **Note**: This is a rewind of a <a href="http://tleaves.com/2005/05/12/the-consumer-rule/index.html">tleaves post from 2005</a>. It's still all basically true. Probably even more so.	

@@ -1,6 +1,6 @@
 Title: The Camera I Want
 Date: 2006-11-8
-Category: Dork
+Category: Photo
 Author: psu
 
 Back in 1998, I was shooting black and white film and printing in the darkroom and generally talking trash about how crappy digital capture was at the time. I put the digital takeover at least ten years out, although later I would update my estimate to only five years on the outside. For various reasons, I turned out to be wrong about that. Less than ten years later, digital capture has all but killed film not only in much of the mass market, but in almost all of the pro market as well. Which makes me wonder: with the digital camera marketplace so mature and dominant, why has no one made the digital camera that I really want?

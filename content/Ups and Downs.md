@@ -1,6 +1,6 @@
 Title: Ups and Downs
 Date: 2014-12-31
-Category: Dork
+Category: Things
 Author: psu
 
 Here are some ups and downs for this year. I'm purposely ignoring some big picture issues here, since then there would be no ups at all. It was that kind of year. You will also note that each of these might have fit into a well-considered twitter message, so maybe I should have just done that instead. But ... well.

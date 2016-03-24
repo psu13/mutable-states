@@ -1,6 +1,6 @@
 Title: Unreasonable Gripes
 Date: 2014-05-24
-Category: Dork
+Category: Things
 Author: psu
 
 I probably picked up the record collecting bug from my dad. When I was growing up the sight of his cabinet of LPs was a constant in our house. All of the music was Classical. I'm pretty sure what my dad would say about this would be something like what he said about only reading the New York Times: "After you have had the best, nothing else really measures up".

@@ -1,6 +1,6 @@
 Title: The Camera We Want, Redux
 Date: 2013-01-12
-Category: Dork
+Category: Photo
 Author: psu
 
 <p>We took a trip to Hong Kong and Singapore over Thanksgiving break. Ever since I did a trip to Hong Kong for work a few years ago this trip has been in the plans. If you have <em>any</em> interest in East Asian food, or any other sort of food for that matter, Hong Kong and Singapore <em>must</em> be on your list. But I'm not here to talk about food. You can find out about that anywhere. I'm here to talk about cameras.</p>

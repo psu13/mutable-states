@@ -1,6 +1,6 @@
 Title: Nouvelle Old Music
 Date: 2014-09-28
-Category: Dork
+Category: Things
 Author: psu
 
 When people talk about "movements" they usually refer to something that has come into being as a reaction to, or in opposition of, something else that has existed for a long time. If you were a foodie the 1960s (through the 70s and 80s) you would know that the so-called "Nouvelle cuisine" was a reaction to the heavy and often stultifying traditional style of French cooking. Large portions of cream sauce were replaced by tiny little portions of very fresh ingredients cut into interesting geometric shapes.

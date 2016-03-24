@@ -1,6 +1,6 @@
 Title: The Surprising Classical Groove
 Date: 2015-09-22
-Category: Dork
+Category: Things
 Author: psu
 
 Classical music tends to be perceived in the larger culture as a monolithic entity. In a world where some geek on Pitchfork will argue with you incessantly about the difference between Art Punk, Dance Punk, and Pop Punk you might have noticed that when you go to the online music service or offline music store the only genre you find for European art music, a music tradition that covers more than 400 years of recent history, is "Classical". That's it.

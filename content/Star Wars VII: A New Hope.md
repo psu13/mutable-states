@@ -1,6 +1,6 @@
 Title: Star Wars VII: A New Hope
 Date: 2016-01-04
-Category: Dork
+Category: Things
 Author: psu
 
 Don't keep reading this if you have not seen the new movie. You have been warned.

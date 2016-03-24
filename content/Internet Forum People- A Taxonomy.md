@@ -1,6 +1,6 @@
 Title: Internet Forum People: A Taxonomy
 Date: 2007-11-14
-Category: Dork
+Category: Things
 Author: psu
 
 <p>Spend any time on the Interwebs these days and you will inevitably end up reading one kind of forum or another. These days there seems to be one of these for every normal human interest and probably the interests that aren&#8217;t all that normal. I have two observations to make about these forums, one short and one long.<br />

@@ -1,6 +1,6 @@
 Title: 10 More Things to Eat in Pittsburgh Before You Are Dead
 Date: 2015-03-7
-Category: Dork
+Category: Food
 Author: psu
 
 Rather than fill some space with the standard patter, I'll just get to the point. Here is an extension of <a href="http://mutable-states.com/10-things-to-eat-in-pittsburgh-before-you-are-dead.html">this already perfect list</a>.

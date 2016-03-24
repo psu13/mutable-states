@@ -1,6 +1,6 @@
 Title: Why Football is Better Than Your Favorite Sport
 Date: 2010-02-08
-Category: Dork
+Category: Things
 Author: psu
 
 Of course by “football” I mean American football and by “sport” I mostly mean “American Sport”. I certainly do not mean “rest of the world” football, which Americans call soccer. If your favorite sport is soccer than we can just agree now that you will hate me and I will feel sorry for you. With the Super Bowl once again upon us I have been ruminating about why football in general, and the NFL in particular, is clearly the best sport in the country. I thought I stole this idea from Chuck Klosterman, who wrote an excellent essay about football in his recent book <a href="http://www.amazon.com/Eating-Dinosaur-Chuck-Klosterman/dp/1416544208/">Eating the Dinosaur</a>. It turns out that his essay did not say what I thought it did, but it did tickle me to ruminate about this subject for a while. So why, exactly, is football better?

@@ -1,6 +1,6 @@
 Title: WWDDOCD (World Wide Distributed Dork OCD)
 Date: 2006-01-03
-Category: Dork
+Category: Things
 Author: psu
 
 <p>Regular readers will recall that I have recently forked over a large amount of cash on a piece of A/V equipment. I gave up a small piece of my soul for a Sony television larger than my entire living room. Well, it&#8217;s really only as large as one <em>wall</em> of the living room, but you know what I mean. I believe that this was a good purchase, and DVDs have never looked so nice.</p>

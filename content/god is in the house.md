@@ -1,6 +1,6 @@
 Title: God is in the House
 Date: 2007-03-14
-Category: Dork
+Category: Things
 Author: psu
 
 <p>To my way of thinking, every major genre of music has its quintessential forms. There is the three minute pop song sung by a group of three or four young freaks with long hair. There is the large scale Classical/Romantic Symphony. And in Jazz, there is the piano trio or quartet. With all due respect to the other instrumentalists, there is something about the piano trio that connects with the part of my brain that enjoys Jazz and just makes it tingle in a particular way that other records don&#8217;t.<br />

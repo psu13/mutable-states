@@ -1,6 +1,6 @@
 Title: Digital Analogs
 Date: 2016-03-13
-Category: Dork
+Category: Photo
 Author: psu
 
 2001 is the year when mass market digital photography began. This was the first year both Nikon (<href="http://www.bythom.com/d1x.htm">with the D1x) and Canon (with a EOS-1d) introduced DSLR cameras that for the most part handled and performed essentially the same as their film counterparts. Still, it was only a relatively small audience of professional photojournalists and well-off technical nerds who had the money to buy and use these cameras. Fifteen years ago most serious photographers (still and motion) were still capturing their light pictures on to small pieces of coated plastic. When the D1 came out I remember thinking that a decent digital camera that I'd bring on a trip instead of my Nikons and Tri-X was about five to ten years away ... but closer to ten. At the time I even had a darkroom in my house, pieces of which I still own. I was pretty good at doing my own film and prints, and was skeptical of the digital hardware at the time.

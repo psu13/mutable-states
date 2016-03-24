@@ -1,6 +1,6 @@
 Title: iTunes Rules
 Date: 2007-01-11
-Category: Dork
+Category: Things
 Author: psu
 
 <p>iTunes told me today that it has 440 albums in its database. That number seemed high to me, but I have been ripping the occasional disk once in a while ever since I got my iMac two years ago. And, every new disk I buy generally goes into the machine. After bootstrapping the <a href="http://mutable-states.com/the-one-true-index.html">one true indexing system</a>, I have been more motivated to actually rip and catalog the disks. While iTunes is not the ideal catalog database, you can muddle through by following some simple workflow rules. The goal is to have the music be easy to browse and search on both the main iTunes machine and in the iPod.<br />

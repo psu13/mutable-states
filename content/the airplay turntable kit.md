@@ -1,6 +1,6 @@
 Title: The Airplay Turntable Kit
 Date: 2014-11-23
-Category: Dork
+Category: Things
 Author: psu
 
 I've <a href="http://mutable-states.com/unreasonable-gripes.html">mentioned before</a> that I bought a lot of LP records when I was in graduate school. At the time the LP->CD switch had just gotten into full swing and you could buy vinyl at a *huge* discount compared to new what new CDs cost. So, I bought a few hundred records (including lot of sets from Mosaic which will never be on CD). 

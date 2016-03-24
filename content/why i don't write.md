@@ -1,6 +1,6 @@
 Title: Why I Don't Write
 Date: 2008-09-11
-Category: Dork
+Category: Things
 Author: psu
 
 
