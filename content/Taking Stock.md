@@ -9,7 +9,7 @@ First I finally downloaded the *Bloodborne* DLC. I ran around, found the first b
 
 Since I had the PS4 on anyway, I restarted my run through *Scholar of the First Sin*, the remaster of *Dark Souls 2* that appeared to mostly consist of planting extra fights with the Pursuer all over the place until you want to die. I worked through this, got to the end, got all the crowns out of the DLC and got the PVP item from Vendrick that keeps you human when you die.
 
-Then I picked up the PVP again, and really sucked. After a few weeks of trying, I finally back in the swing of things and could play at my normal clip where I win one or two for every three or four I lost.
+Then I picked up the PVP again, and really sucked. After a few weeks of trying, I finally got back in the swing of things and could play at my normal clip where I win one or two for every three or four I lost.
 
 *Dark Souls 2* PVP is probably my favorite of all the Fromsoft games. The matchmaking is pretty solid and the adjustments they made to backstabs and parries balances the game a bit. On the one hand, a careful player can avoid most criticals (especially backstabs, more on parries in a bit) and win just with a bit of luck and knowing how to take the best advantage of her weapon's move set.
 

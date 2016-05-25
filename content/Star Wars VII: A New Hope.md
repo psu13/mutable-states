@@ -3,12 +3,6 @@ Date: 2016-01-04
 Category: Things
 Author: psu
 
-Don't keep reading this if you have not seen the new movie. You have been warned.
-
-Don't keep reading this if you have not seen the new movie. You have been warned.
-
-Don't keep reading this if you have not seen the new movie. You have been warned.
-
 Ok here we go.
 
 Back when I used to write more about video games than just <a href="http://mutable-states.com/summer-of-dark-souls.html">Dark Souls</a> I would joke that all my articles were about games that you had already played. Writing about the new *Star Wars* movie has the same sort of feel. Nothing I can possibly say will:
@@ -29,7 +23,7 @@ To understand *Star Wars* you have to understand what fantasy movies were like i
 
 Here is what Fallout 4 looks like: <a href="https://www.youtube.com/watch?v=X5aJfebzkrM">https://www.youtube.com/watch?v=X5aJfebzkrM</a>
 
-That looks pretty good even if with the shitty Bethesda face animation.
+That looks pretty good even with the shitty Bethesda face animation.
 
 Here is what movie effects looked like in 1977, before *Star Wars*: <a href="https://www.youtube.com/watch?v=it0sf4CMDeM">https://www.youtube.com/watch?v=it0sf4CMDeM</a>
 
