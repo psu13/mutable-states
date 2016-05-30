@@ -5,7 +5,7 @@ Author: psu
 
 Ok here we go.
 
-Back when I used to write more about video games than just <a href="http://mutable-states.com/summer-of-dark-souls.html">Dark Souls</a> I would joke that all my articles were about games that you had already played. Writing about the new *Star Wars* movie has the same sort of feel. Nothing I can possibly say will:
+Back when I used to write about more video games than just <a href="http://mutable-states.com/summer-of-dark-souls.html">Dark Souls</a> I would joke that all my articles were about games that you had already played. Writing about the new *Star Wars* movie has the same sort of feel. Nothing I can possibly say will:
 
 1. Change anyone's perception of how the movie went.
 
