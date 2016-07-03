@@ -7,7 +7,7 @@ Headphones are a big deal these days. It would seem that after a decade of suffe
 
 I have always had a standard answer for the question "which headphones should  I be using?" The answer has two parts:
 
-1. If you are on a plane, use the Bose QC15 noise cancelling headphones. These sounds like crap, but at least you can hear the music on the plane. There is no other reason to buy these. So that's all I will say about them. They are *just* good enough to use on trips.
+1. If you are on a plane, use the Bose QC15 noise cancelling headphones. These sound like crap, but at least you can hear the music on the plane. There is no other reason to buy these. So that's all I will say about them. They are *just* good enough to use on trips.
 
 2. If you are not on a plane, use the <a href="http://www.amazon.com/Sony-MDRV6-Studio-Monitor-Headphones/dp/B00001WRSJ">Sony MDR-V6</a> headphones, or their twins the <a href="http://www.amazon.com/gp/product/B000AJIF4E/">Sony MDR-7506</a> headphones. Get the V6 if you want red trim. Get the 7506 if you want blue.
 
@@ -21,7 +21,7 @@ Done and done. I have a bit more to say about the Sony though. There are three b
 
 So for years I have had this happy arrangement. Bose QC-15 on the road. Sony at home. Being a dork though, I started to think: "I wonder if there are any headphones that are truly better in every way than these V6's?"
 
-A guy at the office started me on this when he bought the Beyerdynamic DT-880s. These are super comfy headphones that sound really really good. While the Sonys are very comfortable, they do sometimes do pinch a bit. The Beyer have these soft velous ear cups that are like wearing soft mittens on your ears. They also sound amazing, especially on the detailed acoustic and Classical music that I like. You can really hear the edges of those violin strings shaking back and forth. This was the first time I had really heard something *better* than the Sony.
+A guy at the office started me on this when he bought the Beyerdynamic DT-880s. These are super comfy headphones that sound really really good. While the Sonys are very comfortable, they do sometimes do pinch a bit. The Beyer have these soft velour ear cups that are like wearing soft mittens on your ears. They also sound amazing, especially on the detailed acoustic and Classical music that I like. You can really hear the edges of those violin strings shaking back and forth. This was the first time I had really heard something *better* than the Sony.
 
 But I stopped using them. Why? First, they don't play well out of the laptop or the iPhone. You sort of need an amp. Second, they have a 10 foot cable. Which is stupidly long and super inconvenient. These are petty concerns but were annoying enough that the moderate improvement in sound was not really worth the extra hassle.
 

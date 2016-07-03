@@ -1,5 +1,5 @@
 Title: The Classical Style
-Date: 2016-05-29
+Date: 2016-05-30
 Category: Things
 Author: psu
 
@@ -28,7 +28,7 @@ That's part of a very good film about Wagner. Recommend you watch it on Netflix.
 
 Finally, for some deep dives, I bring you to an excellent series of lectures about chamber music given by one Bruce Adolphe at Lincoln Center. He has the luxury of a *live band* at his beck and call to actually play all the examples that he discusses. 
 
-Here he is talking about Mozart again. The piece is one of my all-time favorites, a late string quintet. Note how the idea of "the tune not ending" comes up over and over again.
+Here he is talking about Mozart. The piece is one of my all-time favorites, a late string quintet. Note how the idea of "the tune not ending" comes up over and over again.
 
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/_h65g_WnQTU" frameborder="0" allowfullscreen></iframe>
 
