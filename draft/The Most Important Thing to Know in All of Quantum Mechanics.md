@@ -3,6 +3,8 @@ Date: 2015-07-04
 Category: Things
 Author: psu
 
+https://youtu.be/Ei8CFin00PY?t=37m58s
+
 Prelude
 
 Quantized Energy

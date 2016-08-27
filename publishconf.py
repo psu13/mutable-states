@@ -24,8 +24,8 @@ DEFAULT_PAGINATION = False
 GOOGLE_ANALYTICS='UA-41781936-1'
 
 #publish only
-FEED_ATOM=('feeds/all.atom.xml')
-FEED_RSS =('feeds/all.rss.xml')
+FEED_ALL_ATOM=('feeds/all.atom.xml')
+FEED_ALL_RSS =('feeds/all.rss.xml')
 RELATIVE_URLS = False
 FILES_TO_COPY=(('.htaccess', '.htaccess'),)
 # Blogroll

@@ -31,7 +31,7 @@ Let us review how film works.
 
 4. If the film is a color film, then the emulsion and development are even more complicated. First, you need multiple layers of emulsion, one for each primary color that you want to capture. Second, color films incorporate dyes either into the film itself or in the chemical baths used to develop them. These dyes react to coupling agents, again either in the film or in the development baths, that make the dye "stick" to the more developed parts of the silver film emulsion. The silver is then washed away and you get either a negative or positive color picture. Again, the exact details of how color films are formulated and how the color works are in general proprietary. They died with Kodak (but still live on at Fuji).
 
-Digital imaging systems work on principles that are both simpler and more complicated. Digital sensors are pretty complicated. But once you have the data off of them getting a picture out is comparatively simple. You don't need giant industrial factories designed and run by PhDs in chemical engineering to make it work.
+Digital imaging systems work on principles that are both simpler and more complicated. Digital sensors are pretty complicated. But once you have the data getting a picture out is comparatively simple. 
 
 1. A sensor is a semiconductor chip made up of millions of imaging sites. Each site is a piece of light sensitive electronics, like a well. Photons fall into this well and a voltage leaks out the bottom (I simplify for space, and because I don't really know how it works).
 

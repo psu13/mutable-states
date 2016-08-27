@@ -1,0 +1,9 @@
+This turned out too long, but oh well.
+
+Singling out the NFL has haveing a "culture of violence" that is separate from the culture that prevails in the U.S. is a bit misleading. The game is big and popular because people enjoy watching it (and so some extent playing it or pretending to play it (ala Madden Football)). Of course the money and the lifestyle make it hard for "normal" people to see this connection, but without that connection the game, the money and the problems would not exist, or at least would not exist in this form. It would be some other game, presumably.
+
+The level of violence aside, American Football as a game has a lot of appeal to certain parts of the American psyche (military-like team structures, precise execution of a single idea by 11 people all at once, the idea of an all-knowing general (head coach) and his staff, etc). These are all aspects of the larger culture that are also reflected in the game. I think the violence is the same. The mental conflict for fans is that they probably do not to think of themselves as physically violent people, and this is a source of cognitive dissonance. People don't like to think of themselves as enjoying violence, but what other explanation is there?
+
+In conclusion, my problem with accusing the NFL itself as having a "culture of violence" is that it might just be a way to isolate the responsibility for what we don't like about the game on "them" rather than on "us" (if you don't watch football, then obviously you are not part of "us" :)). 
+
+Disclaimer: i'm a Pats fan who lives in Pittsburgh, so I'm obviously evil and you should not pay attention to me.

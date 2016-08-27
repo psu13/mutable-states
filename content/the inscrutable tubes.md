@@ -45,7 +45,7 @@ And so on.
 
 The problem is that while computers would be useless without these kinds of states, the existence and overuse of state to implement the building blocks of computer systems inevitably leads to trouble. If you use state in the implementation of the function "foo" above, that means that when I call foo(x, y, z) *now* it may not do the same thing as when I call foo(x, y, z) *one microsecond from now*. This is why some large percentage of horrible bugs happen in the software systems that you use every day.
 
-The eminent computer scientist John Backus figured this out in 1977 and made it the subject of his <a href="http://web.stanford.edu/class/cs242/readings/backus.pdf">Turing Award</a> lecture. That means it's a pretty important idea. So go read that paper. Here is a smart thing he said about the nature of state in large programs:
+The eminent computer scientist John Backus figured this out in 1977 and made it the subject of his <a href="https://www.cs.ucf.edu/~dcm/Teaching/COT4810-Fall%202012/Literature/Backus.pdf">Turing Award</a> lecture. That means it's a pretty important idea. So go read that paper. Here is a smart thing he said about the nature of state in large programs:
 
 > The second world of conventional programming languages is the world of statements. The primary statement in that world is the assignment statement itself. All the other statements of the language exist in order to make it possible to perform a computation that must be based on this primitive construct: the assignment statement. 
 

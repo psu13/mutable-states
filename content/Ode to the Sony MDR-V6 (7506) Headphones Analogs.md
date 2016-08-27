@@ -37,7 +37,7 @@ Now the game was on. I tried several more headphones and each one was OK, but al
 
 5. Beyer Tesla-T7p. A fancy new sort of closed headphone from Beyer. Cost $100 more than the DT-880 and out of the box one of the channels was flakey. I don't need that hassle. Flat cable is also too stiff. Returned them. At this point I realized why coiled cables are better. They give the cable a bit of spring and flexibility that keeps it out of your way even if you are using thicker wire. The Sonys had done the right thing this whole time.
 
-6. Audio Technica AT-50x. These are the Audio Technica version of the V6. Sound is a bit better, and they get the cable right (finally) but the things clamp on my head too right.
+6. Audio Technica AT-50x. These are the Audio Technica version of the V6. Sound is a bit better, and they get the cable right (finally) but the things clamp on my head too tightly.
 
 My lesson: stick with the Sony MDR-V6. You can spend a lot more money and try lots of different things, but no one has really improved on the whole package yet. You might get better sound, or more comfortable ear pads, or some other single improvement, but you always give up something else. The Sonys don't do any particular thing better than anyone else, but they are still the best combination of cost, sound *and* ergonomics that you can buy. That's a rare thing. So, go get some. Or, if you were going to blow the college fund on those $1500 electrostatic monsters, get 15 pair of these instead and you'll be set for life.
 

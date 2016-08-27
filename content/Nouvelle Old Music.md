@@ -3,7 +3,7 @@ Date: 2014-09-28
 Category: Things
 Author: psu
 
-When people talk about "movements" they usually refer to something that has come into being as a reaction to, or in opposition of, something else that has existed for a long time. If you were a foodie the 1960s (through the 70s and 80s) you would know that the so-called "Nouvelle cuisine" was a reaction to the heavy and often stultifying traditional style of French cooking. Large portions of cream sauce were replaced by tiny little portions of very fresh ingredients cut into interesting geometric shapes.
+When people talk about "movements" they usually refer to something that has come into being as a reaction to, or in opposition of, something else that has existed for a long time. If you were a foodie in the 1960s (through the 70s and 80s) you would know that the so-called "Nouvelle cuisine" was a reaction to the heavy and often stultifying traditional style of French cooking. Large portions of cream sauce were replaced by tiny little portions of very fresh ingredients cut into interesting geometric shapes.
 
 During a similar time period some people with a historical interest in music started to propose that one should re-think how "early" music was played. In this context what I mean by "early" music is music from the European Renaissance and Baroque periods, roughly between 1400 and 1700. Think Dufay to Bach. I am primarily interested in music beginning with the Baroque composers, since those guys were all popular enough to have relatively modern recordings made of their music. It's also where the first signs of conflict arose with respect to how the music should be played.
 
