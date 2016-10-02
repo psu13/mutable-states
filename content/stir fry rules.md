@@ -24,7 +24,8 @@ No one wants to eat a mashup of tofu, sweet potatoes, bok-choy, bell peppers, mu
 #### Don’t fill the pan
 
 Never cook more food than will fit in your pan with enough room left over to toss it around. This is very important. You have to be able to move the food around while it cooks in order for anything to work. Always adjust all quantities with the size of your pan in mind. Even if the final product will fill your pan, you can always do the intermediate steps in stages so things fit, and then just mix it together at the end.
-Heat is nice, but not necessary
+
+#### Heat is nice, but not necessary
 
 My mom made better stir fry than you have ever had in almost any restaurant you ever went to. She used nothing but an anemic electronic burner and a cast iron skillet. A flaming 50,000 BTU gas burner is cool to play with, but you don’t need it.
 

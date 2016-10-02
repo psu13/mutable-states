@@ -13,6 +13,9 @@ DEFAULT_LANG = u'en'
 
 THEME = "./psu_tux"
 
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ["render_math"]
+
 #pages
 DISPLAY_PAGES_ON_MENU = False
 
