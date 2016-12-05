@@ -35,7 +35,7 @@ Anyway, I've been at this for a couple of years now (this is the other nice thin
 
 	I also have to give a shout out to the book <em><a href="https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X">Quantum field theory for the gifted amateur</a></em>. I have not worked my way through it all yet, but it is a nice introduction to the material that tries to explain many notations and assumptions that other texts take for granted. Recommended. The Kindle book is also an embedded PDF, which means the math looks good.
 
-- The Standard Model. This is actually where I started my top town survey. Stanford has a bunch of video material given by Leonard Susskind, who is a big wig. His <a href="https://www.youtube.com/playlist?list=PLC63E1F4BA17495B3">lectures on the Standard Model</a> almost reach the point where he tells you something, but you are never quite sure. I was hoping to find a high level but almost mathematical explanation of where the idea for the Higgs field comes from, but never quite got there. I guess I will keep looking.
+- The Standard Model. This is actually where I started my top down survey. Stanford has a bunch of video material given by Leonard Susskind, who is a big wig. His <a href="https://www.youtube.com/playlist?list=PLC63E1F4BA17495B3">lectures on the Standard Model</a> almost reach the point where he tells you something, but you are never quite sure. I was hoping to find a high level but almost mathematical explanation of where the idea for the Higgs field comes from, but never quite got there. I guess I will keep looking.
 	
 - Special and General Relativity. Special relativity is generally taught in high school and undergraduate physics. So I had seen that before. I always avoided GR because the math seemed too hard. Actually though if you stare at it enough it's not too hard, and very pretty. Start with <a href="https://www.preposterousuniverse.com/grnotes/">Sean Carroll's notes</a>, and maybe his book too, which is a nice presentation of the subject with (I think) just the right mix of physics and math. More on this subject later.
 	
@@ -78,7 +78,7 @@ This transform language extends to more complicated mathematical objects too, in
 > A rank $(p,q)$ tensor $T$ is a set of components (like a matrix) that transform using the following sort of rule when you change coordinate systems:
 	
 $$
-	T^{\mu'_1, \mu'_2, \cdots, \mu'_p}\,{}_{\nu'_1, \nu'_2, \cdots, \nu'_q} = {\partial \mu'_1 \over \partial \mu_1} \cdots {\partial \mu'_p \over \partial \mu_p} {\partial \nu_1 \over \partial \nu'_1}\cdots{\partial \nu_q \over \partial \nu'_q} T^{\mu_1, \mu_2, \cdots, \mu_p}\,{}_{\nu_1, \nu_2, \cdots, \nu_q}
+	T^{\mu'_1, \mu'_2, \cdots, \mu'_p}\,{}_{\nu'_1, \nu'_2, \cdots, \nu'_q} = {\partial \mu'_1 \over \partial \mu_1} \cdots {\partial \mu'_p \over \partial \mu_p} {\partial \nu_1 \over \partial \nu'_1}\cdots{\partial \nu_q \over \partial \nu'_q} T^{\mu_1, \mu_2, \cdots, \mu_p}\,{}_{\nu_1, \nu_2, \cdots, \nu_q}.
 $$
 	
 which just makes the mathematician say **what?**. 
@@ -89,11 +89,11 @@ What's actually going on here is that vectors and tensors really belong to speci
 
 Another thing that makes learning how to read physics texts difficult is that they leave out summation signs. In relativity you find that you write a lot of sums that look like this
 
-$$S = \sum_{i=1}^n x_i y^i$$
+$$S = \sum_{i=1}^n x_i y^i.$$
 
 Don't worry about why some indexes are on top and some on the bottom. That is just another weird convention that everyone understands. Anyway, Einstein's convention says that whenever you have the *same index* on the top and bottom in any given term, you can write the sum this way:
 
-$$S =  x_i y^i$$
+$$S =  x_i y^i.$$
 
 And the sum is implicit. This is sort of like how the "while(<>)" is implicit if you call "perl -n". In addition in general the indices are understood to always run from 0 to 3, or 1 to 3, or 0 to 2 depending on the context and also whether the indexes are latin ($a$, $b$, $c$, etc) or greek ($\mu$, $\nu$, $\rho$, etc).
 
@@ -114,7 +114,7 @@ This notation is also responsible for all the formulas related to relativity and
 Although I like to complain about the strange language that physicists use to write mathematics, I also have to admit that mathematics underlying the theories have a certain beauty to them. This is especially true of General Relativity. Sean Carroll's notes put it best:
 
 > General relativity (GR) is the most beautiful physical theory ever invented. Nevertheless, it has a reputation of being extremely difficult, primarily for two reasons: tensors are everywhere, and spacetime is curved ... GR can be summed up in two statements: 1) Spacetime is a curved pseudo-Riemannian manifold with a metric of signature (−+++). 2) The relationship between matter and the curvature of spacetime is contained in the equation	
-$$R_{\mu\nu} − {1 \over 2}Rg_{\mu\nu} = 8 \pi G T_{\mu\nu}$$
+$$R_{\mu\nu} − {1 \over 2}Rg_{\mu\nu} = 8 \pi G T_{\mu\nu}.$$
 	
 > However, these statements are incomprehensible unless you sling the lingo. So that’s what we shall start doing.
 
@@ -140,7 +140,7 @@ The availability of extensive lecture notes, and even in some cases whole textbo
 
 - In physics, the stupidity of for-profit academic publishing is to a large extent ameliorated by the existence of the <a href="https://arxiv.org/">arXiv.org</a> web site where almost all of the recent (since the 90s) literature lives.
 	
-- Read as many different approaches to a given subject as you can find. Usually if one angle makes no sense, finding a writer who looks at things different can help. This is especially true when the physicists start leaving out huge bits of math and nothing makes sense. Also, one of the great things about modern physics is the extent to which you can read all the way back to the original material, and much of it is still in a language that is reasonably close to our own.
+- Read as many different approaches to a given subject as you can find. Usually if one angle makes no sense, finding a writer who looks at things differently can help. This is especially true when the physicists start leaving out huge bits of math and nothing makes sense. Also, one of the great things about modern physics is the extent to which you can read all the way back to the original material, and much of it is still in a language that is reasonably close to our own.
 
 - The math and physics stack exchange sites aren't bad. Surprisingly.
 
