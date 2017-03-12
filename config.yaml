@@ -1,0 +1,14 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "output"
+builddrafts = false
+baseurl = "http://mutable-states.com/
+canonifyurls = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Mutable States"
+  author = "psu"

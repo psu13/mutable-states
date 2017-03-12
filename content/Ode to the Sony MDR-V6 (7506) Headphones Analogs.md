@@ -27,7 +27,7 @@ But I stopped using them. Why? First, they don't play well out of the laptop or 
 
 Now the game was on. I tried several more headphones and each one was OK, but also wrong:
 
-1. Grade SR-80: nice but a bit tizzy. These don't get too much wrong, though I could do without the two sided cable. They are also not a lot better than the Sony. No real point but if you want a nice open back headphone with hipster cred, these are it.
+1. Grado SR-80: nice but a bit tizzy. These don't get too much wrong, though I could do without the two sided cable. They are also not a lot better than the Sony. No real point but if you want a nice open back headphone with hipster cred, these are it.
 
 2. PSB M4U2. These sound great. But on my head they feel like they weigh 10 pounds. Cable is also too stiff.
 

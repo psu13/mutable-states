@@ -23,7 +23,7 @@ Speaking of the Internet, one of the joys of the autodidact on the modern Intern
 
 Anyway, I've been at this for a couple of years now (this is the other nice thing about Internet learning, you can spend as much time at it as you want), and have poked into a wide variety of areas, though none every deeply:
 
-- Basic Quantum Mechanics. Here I highly recommend <a href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">this series of lectures from MIT</a>. Something in this material finally tickled the right parts of my brain and made me able to understand the conceptual framework. I was proud to be able to answer most of the in-class quiz questions given about 8 or 9 lectures in.
+- Basic Quantum Mechanics. Here I highly recommend <a href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">this series of lectures from MIT</a>. Something in this material finally tickled the right parts of my brain and made me able to understand the conceptual framework. In particular, if you want to know what the *most important fact about quantum mechanics* is, <a href="https://youtu.be/Ei8CFin00PY?t=37m58s">start here</a>. I was proud to be able to answer most of the in-class quiz questions given about 8 or 9 lectures in. 
 
 	<a href="https://www.youtube.com/playlist?list=PLB3CF07ACB3DBC849">This class by James Binney</a> is also great, but the video on youtube is the wrong aspect ratio. Watch it on iTunes instead. Binney's book is also one of the better ones, and is nicely typeset even in its Kindle form.
 
