@@ -47,7 +47,15 @@ I eventually got to the point where I was getting to phase two consistently. I'd
 
 > <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/FcL-bi43Td4?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
-The thing that makes the second half of this fight so hard is that his moves are random, deadly, have variable timing, are incredibly fast, and they can cover the whole arena. I slowly got better at controlling my spacing and recognizing when to delay dodging and when to dodge early. But I still get it wrong about half the time and each mistake means doing the fight over again. There are four basic classes of attacks to watch for:
+The second half of this fight is a worst case for me:
+
+1. His moves are fast and have variable timing. I suck at learning timing.
+
+2. One hit kills you.
+
+3. He moves arbitrarily fast and has infinite range. In particular he will often hit you with a charge from the opposite side of the arena when you are not looking. This happened over and over to me when I was running away from the lightning attack.
+
+After dozens (or hundreds, who knows) of tries I slowly got better at controlling my spacing, recognizing when to delay dodging and when to dodge early, and keeping an eye out for a trans-atlantic missile attack. But I still get it wrong about half the time and each mistake means doing the fight over again. There are four basic classes of attacks to watch for:
 
 1. Spinny shrimp combos. Dodge back if you can, dodge through the first one then away if you don't have the right spacing.
 
@@ -57,7 +65,9 @@ The thing that makes the second half of this fight so hard is that his moves are
 
 4. Attacks where other people can backstab, but I can't. There are two of these. There is the straight leap over you, similar to phase one. And there is the *slam-slam-slam-slam-leap* move where you can walk under and then deliver the backstab. Except I can't. I get behind and the backstab only lands once in ten tries.
 
-I didn't have the energy to build, and you would not be interested in seeing, a montage of all the ways to die in phase two. I just knew that I would have to finally get a fight where 
+Oh, and that screaming lightning summon thing. The lightning comes from the shore, so unlock and run away from it. But be careful, sometimes he'll charge you from behind and kill you.
+
+I didn't have the energy to build a death reel montage, and you would not be interested in seeing it anyway. I died a lot. Eventually, I knew that I would have to finally get a fight where: 
 
 1. The phase one RNG was good, so I could take off a good bit of health and have some beasthood left.
 
