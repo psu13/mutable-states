@@ -21,11 +21,11 @@ The way you want to fight this guy is by keeping your distance and then going in
 
 1. The Saw Cleaver has no range. So you die a lot running in to get a hit and not getting out again.
 
-2. At low level, visceral attacks are garbage. They barely do more than an R2. And they do a *lot less* than a charged R2 if you are using Beast Pellets. You will get about 3x the damage by doing a charged R2 to get a backstab and then hitting with another charged R2. There is a bit more risk, but it's a lot faster. If you add Beast Pellets to this you can get through phase one in just a few backstabs. Like this:
+2. At low level, visceral attacks are garbage. They barely do more than an R2. And they do a *lot less* than a charged R2 if you are using Beast Pellets. You will get about 3x the damage by doing a charged R2 to get a backstab and then hitting with another charged R2. There is a bit more risk, but it eats away the health bar a lot faster. If you add Beast Pellets to this you can get through phase one in just a few backstabs. Like this:
 
 > <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/f2hvI4hz-Tw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
-You can see from the video that the two moves to backstab on are:
+You can see from the video that the two moves to use to get a backstab are:
 
 1. When he leaps over you and slams the yo-yo shrimp down.
 
@@ -53,11 +53,11 @@ The second half of this fight is a worst case for me:
 
 2. One hit kills you.
 
-3. He moves arbitrarily fast and has infinite range. In particular he will often hit you with a charge from the opposite side of the arena when you are not looking. This happened over and over to me when I was running away from the lightning attack.
+3. His moves can be arbitrarily fast and have infinite range. In particular he will often hit you with a charge from the opposite side of the arena when you are not looking. This happened over and over to me when I was running away from the lightning attack.
 
-After dozens (or hundreds, who knows) of tries I slowly got better at controlling my spacing, recognizing when to delay dodging and when to dodge early, and keeping an eye out for a trans-atlantic missile attack. But I still get it wrong about half the time and each mistake means doing the fight over again. There are four basic classes of attacks to watch for:
+After dozens (or hundreds, who knows) of tries I slowly got better at controlling my spacing, recognizing when to delay dodging and when to dodge early, and keeping an eye out for a trans-atlantic missile attack. But I still get it wrong about half the time and each mistake means doing the fight over again. There are five basic classes of attacks to watch for:
 
-1. Spinny shrimp combos. Dodge back if you can, dodge through the first one then away if you don't have the right spacing.
+1. Spinny yo-yo shrimp combos. Dodge back if you can, dodge through the first one then away if you don't have the right spacing. These will also be combined with the deadly double charge attack that you will always kill you as you try to dodge *back* rather than *through*. Or it will kill you because you timed your dodge through it incorrectly and got sliced in half by the shrimp.
 
 2. Leap up in the air and back down again moves. Here the thing is to unlock and roll *just* as he lands. This was really hard for me to learn. I still get crushed about 25% of the time.
 
@@ -65,11 +65,11 @@ After dozens (or hundreds, who knows) of tries I slowly got better at controllin
 
 4. Attacks where other people can backstab, but I can't. There are two of these. There is the straight leap over you, similar to phase one. And there is the *slam-slam-slam-slam-leap* move where you can walk under and then deliver the backstab. Except I can't. I get behind and the backstab only lands once in ten tries.
 
-Oh, and that screaming lightning summon thing. The lightning comes from the shore, so unlock and run away from it. But be careful, sometimes he'll charge you from behind and kill you.
+5. Finally, that screaming lightning summon thing. The lightning comes from the shore, so unlock and run away from it. But be careful, sometimes he'll charge you from behind and kill you.
 
 I didn't have the energy to build a death reel montage, and you would not be interested in seeing it anyway. I died a lot. Eventually, I knew that I would have to finally get a fight where: 
 
-1. The phase one RNG was good, so I could take off a good bit of health and have some beasthood left.
+1. The phase one RNG was good, so that just before he transforms I could take off a good bit of extra health and have some beasthood left.
 
 2. My phase two reflexes were good, and I stayed alive along enough to maybe get two lucky backstabs.
 

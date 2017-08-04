@@ -41,7 +41,7 @@ Starting with Jedi (which is actually OK through about the first half) and movin
 
 You don't need me to tell you the obvious. All of the later movies make you question how the original *Star Wars* ever ended up being as good as it was. By the time *Revenge of the Sith* came out in 2005 there was precious little evidence that Lucas was competent to do anything with movies besides make merchandising deals for them. 
 
-At least that's what I think. I think this is partly true and partly a result of the fact that while I was between the ages of 18 and 35 when *Star Wars* evolved in this way Lucas was still making movies for the next generation of 12 year olds.
+At least that's what I think. I think this is partly true and partly a result of the fact that I was between the ages of 18 and 35 when Lucas decided he'd make the *Star Wars* movies for twelve year olds forever.
 
 #### A New Hope
 
