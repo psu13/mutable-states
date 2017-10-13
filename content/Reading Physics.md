@@ -150,13 +150,13 @@ The availability of extensive lecture notes, and even in some cases whole textbo
 
 To me blackboards are the bane of the youtube physics lecture. On the one hand, there is something about the rhythm and pace of information being written on to a blackboard that seems to be just right for actually reading an absorbing the material. Whether this is due to some inherent attribute of the device just our long years of sitting in front of them is unclear to me.
 
-On the other hand, the *mechanics* of the blackboards are horrible. How many hours of youtube, I wonder, are taken up with professors erasing the boards, or writing the wrong thing on the board, erasing it, and then writing another wrong thing? What is the aggregate time that professors have spent on youtube raising the lowering blackboards? I've seen the most brilliant minds in modern physics utterly defeated by the automatic blackboard movement systems in their lecture halls.
+On the other hand, the *mechanics* of the blackboards are horrible. How many hours of youtube, I wonder, are taken up with professors erasing the boards, or writing the wrong thing on the board, erasing it, and then writing another wrong thing? What is the aggregate time that professors have spent on youtube raising and lowering the blackboards? I've seen the most brilliant minds in modern physics utterly defeated by the automatic blackboard movement systems in their lecture halls.
 
 Watching a poor professor staring at his mu's and nu's, wondering where the sign went wrong, I fantasize about software that could take his notes and automatically transcribe them to the board, Keynote-animation-like, while he talks over the robot writing. Maybe some enthusiastic graduate student could make a TeX display system that does this.
 
 I do have two favorite youtube blackboards.
 
-First, in the <a href="https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_">Frederic Schuller lectures on GR</a>, watch the minions wet-erasing the boards as the speaker moves from board to board. I've never seen real-time wet erasing before.
+First, in the <a href="https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_">Frederic Schuller lectures on GR</a>, watch the helpers wet-erasing the boards as the speaker moves from board to board. I've never seen real-time wet erasing before.
 
 Second, a shout out to the infinite sheets of blackboards in the lecture halls at Oxford. In <a href="https://www.youtube.com/playlist?list=PLB3CF07ACB3DBC849">the class on basic QM by James Binney</a> it's a joy every time he grabs a sheet of board and just rolls up into the ceiling, revealing more writing surface down near the floor.
 

@@ -1,6 +1,6 @@
 Title: Welcome to Rapture
 Date: 2007-09-03
-Category: Things
+Category: Video Games
 Author: psu
 
 <p>I was skeptical about <em>Bioshock</em>. I remember watching some demo reel that
