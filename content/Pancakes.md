@@ -26,8 +26,11 @@ depending on how big you make them.</p>
 
 <p>In bowl #1, mix:</p>
 
-<p>2 cups flour between <sup>1</sup>&frasl;<sub>2</sub> and 1 teaspoon of baking soda between 1 and 2
-teaspoons of baking powder 2 teaspoons of sugar 1 teaspoon of salt</p>
+1. 2 cups flour.
+2. 1 teaspoon of baking soda.
+2. 2 teaspoons of baking powder.
+3. 2 teaspoons of sugar.
+4. 1 teaspoon of salt
 
 <p>Mix this up with a whisk so that everything is combined very evenly. This is
 important.</p>
