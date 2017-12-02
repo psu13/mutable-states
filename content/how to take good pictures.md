@@ -33,6 +33,4 @@ Author: psu
 <p><strong>Resources</strong></p>
 <p><a href="http://theonlinephotographer.typepad.com/the_online_photographer/blog_index.html">The Online Photographer</a> is probably my favorite current general purpose photo enthusiast web site. A good balance of discussion and, miracle of miracles, decent comments.</p>
 <p><a href="http://lenswork.com/">LensWork</a> is a nice magazine about photography. They are a bit pretentious.</p>
-<p><a href="http://digitaljournalist.org/contents.html">The Digital Journalist</a> is a nice web site about the modern state of photojournalism.</p>
-<p><a href="http://photo.net/">photo.net/</a> is a good all purpose photo web site, although it&#8217;s mostly about shopping and bizarre forum posts these days.</p>
 <p><a href="http://www.mountainlight.com/">Mountain Light</a> is where you can buy Galen Rowell books and pictures.</p>
