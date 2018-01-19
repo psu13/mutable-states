@@ -13,7 +13,7 @@ Fast forward to 2012. In 2012 this graph was all over the nerd Internet. It is t
 
 > <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/29656270041/in/photostream" title="higgs-boson-graph"><img src="https://c2.staticflickr.com/9/8124/29656270041_b9dc8ff049_z.jpg" width="640" height="596" alt="higgs-boson-graph"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The bump tells you that they found the data they wanted. I had read a lot of the popular press accounts of where the Higgs comes from how the experiments at the LHC were searching for it. One thing that struck me about this search was the heavy use of computing and simulation to both direct the experiments and collect and reduce the data. So I got curious about the nature of this bump and the where our confidence in its meaning comes from. 
+The bump tells you that they found the data they wanted. I had read a lot of the popular press accounts of where the Higgs comes from and how the experiments at the LHC were searching for it. One thing that struck me about this search was the heavy use of computing and simulation to both direct the experiments and collect and reduce the data. So I got curious about the nature of this bump and the where our confidence in its meaning comes from. 
 
 I should note here that I did not actually expect to figure out this answer on my own and with my limited background. And I certainly wasn't going to be one of those <a href="http://backreaction.blogspot.com/p/talk-to-physicist_27.html">loons who works out his own theory of everything</a> and then starts pestering real physicists about how the unified theory of quantum gravity is obvious just sitting right in front of them. I approached this project like I approach reading a large body of unfamiliar code, or learning a strange new language/runtime. The trick is to follow a "need to know" heuristic. Don't try to understand everything at once, that's impossible. Instead, accept that large swaths of the material will be beyond you, and turn those bits into virtual black boxes. Then pick one or two small questions to understand, and dig into those until you are comfortable, then go back and look again. Most of all let your interest and intuition guide what you investigate more deeply. Over time you will generally find that you  start to fill in the gaps of understanding that are within the bounds of what you can practically learn on your own by browsing the Internet.
 
@@ -57,7 +57,7 @@ Physicists are well known to be sloppy about the math, and this makes physics bo
 
 For example, in mathematics vectors are simple objects. They are members of what is called *vector space* or *linear space*. This is a set whose objects obey certain rules of computation. 
 
-To make a vector space first you need a set $V$ of vectors and another set of scalar values which is usually either the real numbers (${\bf R}$) or the complex numbers (${\bf C}$). Then for elements of the vector space $v \in V$ we have:
+To make a vector space first you need a set $V$ of vectors and another set of scalar values which is usually either the real numbers (${\bf R}$) or the complex numbers (${\bf C}$). Then for elements of the vector space $v \in V$ we postulate the following rules:
 	
 1. A scalar multiplied by a vector is a vector, then $av \in V$ for every scalar $a$.
 

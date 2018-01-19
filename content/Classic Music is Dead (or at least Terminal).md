@@ -10,7 +10,7 @@ Author: psu
 
 <p>I, of course, did not remain immune to the pop music of the day, but as I got into college and especially graduate school, my music taste tended to drift towards "serious" music, as opposed to "pop" music. So while  I try to keep my feet in the pop arena as well, I buy mostly jazz and classical. I go to jazz and classical concerts. I subscribe to the Pittsburgh Symphony Orchestra. And so on.</p>
 
-<p>First, let's get some terms out of the way. When I say "classical" music, I mean specifically music that has evolved from the Western European art music tradition. But I also mean the more modern incarnations of such: orchestral film music, some show music, and so on. Generally anything that would be played at a subscription concert at the PSO falls in line here, except maybe for the Drek that they hoist on the audience for the "Pops" series.</p>
+<p>First, let's get some terms out of the way. When I say "classical" music, I mean specifically music that has evolved from the Western European art music tradition. But I also mean the more modern incarnations of such: orchestral film music, some show music, and so on. Generally anything that would be played at a subscription concert at the PSO falls in line here, except maybe for the drek that they hoist on the audience for the "Pops" series.</p>
 
 <p>You don't have to go much further than a PSO concert to get a picture of what the classical music scene is like these days. It's old. I'm not sure I've met a regular concert goer (by regular, I mean at least 12 shows a year, which I used to do before I had a son) younger than me.</p>
 

@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'psu'
 SITENAME = u'Mutable States'
-COPYRIGHT = u'Copyright (c) 2003-2016'
+COPYRIGHT = u'Copyright (c) 2003-2017'
 SITEURL = 'http://mutable-states.com'
 
 TIMEZONE = 'America/New_York'
