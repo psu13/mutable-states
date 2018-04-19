@@ -35,4 +35,3 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-GOOGLE_ANALYTICS='UA-41781936-1'

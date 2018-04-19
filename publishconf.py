@@ -24,8 +24,6 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = False
 
-GOOGLE_ANALYTICS='UA-41781936-1'
-
 #publish only
 FEED_ALL_ATOM=('feeds/all.atom.xml')
 FEED_ALL_RSS =('feeds/all.rss.xml')
