@@ -119,5 +119,15 @@ With all these tips in mind, I leave you with one final video where the group do
 
 This fight also also contains a rare sighting of me backstabbing someone. Given how common this tactic is in Dark Souls PVP and how easy it apparently is to exploit, I am really bad at getting backstabs and hardly ever land one. But here I land not one but *two*, and the final one is also the killing blow. WOG into backstab for the win. Yay.
 
+**Last Tip That I Forgot**
+
+I remembered this one after I pushed the publish button, so it has to go down here.
+
+**Tip #7:** Don't use Firestorm. It doesn't work.
+
+In this video it's actually the other red phantom that casts the spell. But the spell hits nothing so it illustrates that if you just stand out of the way you are never in any danger. So when squads try to use it on me the result is basically the same as here:
+
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/x84vG578h1Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 

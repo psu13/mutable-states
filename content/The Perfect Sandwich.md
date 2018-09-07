@@ -101,3 +101,5 @@ and get a $6 Porchetta sandwich that will change your life. As far as I can tell
 We also went to a third sandwich shop called <a href="https://www.tripadvisor.com/Restaurant_Review-g187895-d6740021-Reviews-SandwiChic-Florence_Tuscany.html">SandwiChic</a> that was very good but also in a different style. More panini than single handed stuffed roll perfection.
 
 And finally, as I was writing this we headed over to the local summer farmer's market where a new bagel bakery in town, Pigeon Bagels, was selling a bagel sandwich with cream cheese, fresh local tomatoes, lettuce, and anchovy. This, I thought, would not have been completely out of place in Florence. So maybe there is yet hope for the sandwich in the States.
+
+**Editorial Note:** I realized after I hit publish that there should be one more entry on the list of great sandwiches: a well made *milanesa*. There used to be a Mexican restaurant in Pittsburgh that did this really well, but I have not had a really good once since then.
