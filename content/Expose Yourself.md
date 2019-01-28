@@ -206,7 +206,3 @@ decreasing the exposure appropriately.</p>
 <p>With enough practice, you will get used to reading the light in front of you
 and doing the right thing by reflex. Then you can forget about all the
 complicated details in this article and just shoot pictures.</p>
-
-  </div>
-</div>
-
