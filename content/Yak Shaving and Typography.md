@@ -9,7 +9,7 @@ There are few things you know for sure in this world. But here is one that has b
 
 If you've used $\rm\TeX$ or done any computer programming in the last 40 years, you probably know what I'm going to say. But for the younger people in the audience (and because I like the story) here is the story.
 
-##### Part 1: Prehistory
+#### Part 1: Prehistory
 
 In 1968, at the tender age of thirty, Donald Knuth published the first volume of a book that was supposed to be about compilers. Volume 1 of <a href="https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming">_The Art of Computer Programming_</a> instead formed the basis for what would become the first systematic and theoretical investigation of techniques for designing and analyzing *algorithms*$^{\sf 1}$ in the future field of academic computer science. 
 
@@ -17,13 +17,13 @@ Over the next ten years he would publish three volumes (1. _Fundamental Algorith
 
 It's hard to overstate the influence of these books, especially at the time. Over the years, at least in my opinion, they have become more of an extremely well written semi-historical survey than something a working programmer, or even working academic, would look at on a day to day basis. But still, it is an incredible work.
 
-Then in 1977 he started to update volume 2. And here is where our story really starts.
+Then in 1976 he started to update volume 2. And here is where our story really starts.
 
-##### Part 2: The Shaving Begins
+#### Part 2: The Shaving Begins
 
 The original printings of TAOCP were done on semi-automatic mechanical typesetting devices built by a company called *Monotype* beginning in the late 19th century. Someone would actually type all the text on a keyboard where it was recorded on paper tape. Then a second machine would read the tape and *cast metal type in real time from hot metal*$^{\sf 2}$ into galleys, one for each page. Then you make paper prints from the galleys and offset plates from the master pages and then you use the plates to print the books. For complicated technical books the typographer would also have to do a lot of hand-setting of type for the mathematical formulas and programs and whatnot. It was exactly as tedious and time consuming as it sounds.
 
-In the late 70s the mechanical machines were starting to be phased out and replaced with machines that made the offset plates directly using a photographic system to place the text on the plates. In 1977 Knuth made enough changes to his second volume that all the text had to be reset ... but the old mechanical Monotype machines at his publisher had been retired and the new photo-based machines did not generate text that looked the same. Knuth was left with the following choices:
+In the late 70s the mechanical machines were starting to be phased out and replaced with machines that made the offset plates directly using a photographic system to place the text on the plates. In 1976 Knuth made enough changes to his second volume that all the text had to be reset ... but the old mechanical Monotype machines at his publisher had been retired and the new photo-based machines did not generate text that looked the same. Knuth was left with the following choices:
 
 1. Have the new edition of Volume 2 look different and weird.
 2. Have the new edition of Volume 2 printed in England, where the mechanical machines still existed, at much higher cost.
@@ -37,7 +37,7 @@ The first large scale test of this new system was the 1981 second edition of Vol
 
 That said, even if the fonts did not look right the *typesetting* was a triumph. The first final version of the $\rm\TeX$ as we know it was finished in 1982 and released out to the world. While Knuth worked to improve his amateur font designs (with the help of many people who knew a lot more than he did) $\rm\TeX$ (mostly in the form of $\rm\LaTeX$) became the standard way to write and publish technical text, especially in academic circles.
 
-##### Part 3: Knuth and Me
+#### Part 3: Knuth and Me
 
 I first looked at the Knuth books in high school just as I was getting interested in computer programming. What confused me at the time was why all that math was in there. My feeling was that math did not have much to do with computer programming. I was young, ignorant, and very much overestimated how much I understood about computer programming at the time. If I had lived in 2018 I would have posted a lot of stupid shit on twitter about this. Happily I didn't, and by the time I graduated from college and went to study computer science in graduate school I had a better understanding of what Knuth was going on about and I had my own copy of the books.
  
@@ -45,7 +45,7 @@ I first came across $\rm\TeX$ in college, but didn't really do battle with it in
 
 But I do not print things or write books, so for twenty five happy years I did not think about $\rm\TeX$. Knuth, meanwhile, finished **METAFONT** and his fonts got back to writing his books in 1986, after shaving the yak for almost ten years. Just kidding the new editions of his books did not appear until the late 90s. I lost track of why. He is *now* about a third of the way through the material for Volume 4, but he has a long way to go before even getting to the section on NP ... so don't hold your breath. The shaving will continue for the foreseeable future.
 
-##### Part 4: Modern $\rm\TeX$
+#### Part 4: Modern $\rm\TeX$
 
 These days $\rm\TeX$ has become almost a standard wire format, if you will, for the expression of mathematical formulas in printed or more recently in electronically printed form. You can even put $\rm\TeX$ commands into <a href="http://mutable-states.com/reading-physics.html">web pages now</a>. But the $\rm\TeX$ engine and user model remain mostly the same: you edit a plain text file with markup in it and $\rm\TeX$ compiles that and spits out something you can preview on your screen, or print to your printer. These days you can edit your text on the Internet if you want, and you can format it on your iPhone, if you want, but the basic system remains the same. It turns out there isn't a huge audience for anything else.
 
@@ -57,7 +57,7 @@ I came back to $\rm\TeX$ for the dumbest of all possible reasons. I like to read
 
 So if I find a paper, and if the source code for the paper is available (and it usually is at the arXiv, which is amazing), then I will noodle with it for 10 minutes to try and make it better. Or give up. What is remarkable is that about 90% of the time you can take a ten or twenty year old paper that was originally written in some journal format and redo it without much trouble. The fact that $\rm\TeX$ and its surrounding tools (esp. the $\rm\LaTeX$ macros) have been stable enough over such a long period of time to make this possible turns out to be one of the most important parts of the Knuth legacy, IMHO. For better or worse, he froze the software and its formats and they have become a semi-accidentally archival in a way that no one would have considered possible.
 
-##### Part 5: Knuth and Me, Revisited
+#### Part 5: Knuth and Me, Revisited
 
 Inevitably using $\rm\TeX$ even casually brought my brain back around to checking in on Knuth. You can't really avoid it. In the twenty five years since I looked last he had apparently:
 
@@ -79,7 +79,7 @@ In contrast the new editions of the $\TeX book$ and its companions look awful. T
 
 Having come full circle, my only regret now is that I lost the source code to my PhD dissertation twenty years ago in a bad laptop move. It would have been cool to see how it looks in Palatino, with modern outline fonts.
 
-##### Part 6: $\rm\TeX$ and Me, Redux
+#### Part 6: $\rm\TeX$ and Me, Redux
 
 The rest of the story is mostly about fonts. In 1990 when I did my PhD thesis the main set of typefaces available for $\rm\TeX$ that would support both text and mathematics was Computer Modern. There were a few sets of fonts that you could buy for money, but no graduate student has enough money to do that. it turns out that creating a set of typefaces that work well for both text and math in TeX is a lot of hard detail work. Very few font sets even today get everything right. It's long been my opinion that Computer Modern, especially before the later improvements, has never had the nicest set of letters to look at. But you have to admire all of the meticulous work that Knuth (and the folks at the AMS) did do get its support for $\rm\TeX$'s mathematical alphabets and layout right.
 
@@ -97,7 +97,21 @@ To sum up, I have realized that it's not really fair to call $\rm\TeX$ a Yak Sha
 
 >A personal anecdote to support that claim: My neighbor is a retired mathematician, Norman Alling. He wrote a book on real elliptic curves and taught himself $\rm\TeX$ in his 50s, so he could compose his book and papers himself, and he still uses $\rm\TeX$ now, in his 80s. He says $\rm\TeX$ liberated math journals and authors from dependence on commercial math typesetting, which was slow, expensive, and fraught with typographical errors needing proofreading and correction. When I told him that some people suggested that Knuth could have better spent his time finishing the _Art of Computer Programming_ books instead of spending a decade developing $\rm\TeX$, he replied: Oh no, $\rm\TeX$ liberated so many mathematicians and scientists from the bottleneck of typesetting that it was a great boon to all of math and science, more important for the world-wide science and technical professions than Knuth’s unpublished books on computing, however excellent they might be${}^{\sf 5}$.
 
-**Notes**
+#### Further Reading
+
+You can read more about various aspects of the history of $\rm\TeX$ from the early days until now in the PDFs linked below:
+
+3. <a href="https://www.math.utah.edu/~beebe/talks/2003/tug2003/beebe.pdf">25 Years of $\rm\TeX$ and METAFONT</a>
+ 
+4. <a href="https://www.tug.org/TUGboat/tb34-1/tb106mitt.pdf"> $\rm E$-$\rm\TeX$: Guidelines for Future $\rm\TeX$ Extensions -- revisited</a>
+
+1. <a href="http://walden-family.com/ieee/dtp-tex-part-1.pdf">$\rm\TeX$: A Branch in Desktop Publishing Evolution Part 1</a>
+
+2. <a href="http://walden-family.com/ieee/dtp-tex-part-2.pdf">$\rm\TeX$: A Branch in Desktop Publishing Evolution Part 2</a>
+
+
+
+#### Notes
 
 1. By *algorithms* here I do not mean the current usage where what we mean by an "algorithm" is some intern-built glorified gradient following engine driven by terabytes of data collected by automatically surveilling the actions of millions of people while they innocently use their computers on a world-wide information network. No, I mean specific programs written to do specific tasks, which are usually specified in some semi-formal mathematical language. You can then ask the question "how fast will these programs run?" ... and this is question that the Knuth books explore in incredible detail and with incredible precision.
 
