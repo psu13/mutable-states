@@ -101,8 +101,10 @@ To sum up, I have realized that it's not really fair to call $\rm\TeX$ a Yak Sha
 
 You can read more about various aspects of the history of $\rm\TeX$ from the early days until now in the PDFs linked below:
 
-3. <a href="https://www.math.utah.edu/~beebe/talks/2003/tug2003/beebe.pdf">25 Years of $\rm\TeX$ and METAFONT</a>
- 
+3. <a href="http://tug.org/TUGboat/Articles/tb25-1/beebe-2003keynote.pdf">25 Years of $\rm\TeX$ and METAFONT</a>
+
+1. <a href="https://www.ams.org/notices/200903/tx090300348p.pdf">The $\rm\TeX$ Family in 2009</a>
+
 4. <a href="https://www.tug.org/TUGboat/tb34-1/tb106mitt.pdf"> $\rm E$-$\rm\TeX$: Guidelines for Future $\rm\TeX$ Extensions -- revisited</a>
 
 1. <a href="http://walden-family.com/ieee/dtp-tex-part-1.pdf">$\rm\TeX$: A Branch in Desktop Publishing Evolution Part 1</a>
