@@ -76,3 +76,4 @@ overflow: auto;
 }
 
 blockquote { border-left: none }
+.columns.large-uncentered { margin-left: 1% }
