@@ -61,9 +61,9 @@ Teams that develop software have long used various tools to deal with conflicts 
 
 Version control systems add another layer of indirection on to the idea of the file system. Now the file system you _see_ is just a snapshot in time of the real shared artifact. You have to keep it in your head that you are working on a copy and you have to remember to send the changes back to the central server in order for everyone else to see it.
 
-So, just as we got comfortable with the spooky idea of files, in come systems where the _file_ is now just a proxy for something more complicated.
+So, just as we got comfortable with the spooky idea of files, in some systems where the _file_ is now just a proxy for something more complicated.
 
-But, even this has annoying limitations. Versioning systems that use a snapshot checkout model limit you in various ways. It's hard to work on multiple lines of development at the same time (you need one snapshot per line). They also make it hard to make local snapshots of your work since if you checkin from your sandbox the changes go back to the central repository. The model in use here is this:
+But, even this has annoying limitations. Versioning systems that use a simple checkout model limit you in various ways. It's hard to work on multiple lines of development at the same time (you need one checkout per line). They also make it hard to make local snapshots of your work since if you checkin from your sandbox the changes go back to the central repository. The model in use here is this:
 
 1. Checkout
 

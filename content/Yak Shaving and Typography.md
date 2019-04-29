@@ -53,6 +53,8 @@ I came back to $\rm\TeX$ for the dumbest of all possible reasons. I like to read
 
 1. Two column layouts are the standard for journals, but are a pain to read on screens.
 2. Most older papers do not have hyperlinks for various things like references. Most newer papers *do* have hyperlinks but they use the default formatting for them, which is hideous.
+3. Most papers use teeny tiny little letters and are better to read on screen if changed to use larger typefaces.
+4. Lot's of little picky things like using the right kinds of quotes, or using the \cite macro correctly.
 3. I've never really liked Knuth's typefaces (more on this later). I did my dissertation in Times. More modern $\rm\TeX$ lets you use my favorite font of all time, Palatino, for both text and math. It is glorious.
 
 So if I find a paper, and if the source code for the paper is available (and it usually is at the arXiv, which is amazing), then I will noodle with it for 10 minutes to try and make it better. Or give up. What is remarkable is that about 90% of the time you can take a ten or twenty year old paper that was originally written in some journal format and redo it without much trouble. The fact that $\rm\TeX$ and its surrounding tools (esp. the $\rm\LaTeX$ macros) have been stable enough over such a long period of time to make this possible turns out to be one of the most important parts of the Knuth legacy, IMHO. For better or worse, he froze the software and its formats and they have become a semi-accidentally archival in a way that no one would have considered possible.
@@ -62,9 +64,10 @@ So if I find a paper, and if the source code for the paper is available (and it 
 Inevitably using $\rm\TeX$ even casually brought my brain back around to checking in on Knuth. You can't really avoid it. In the twenty five years since I looked last he had apparently:
 
 1. Finished off his software, mostly.
-2. He finally <a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html">redid Volumes 1 to 3, and started Volume 4</a>.
 3. He published 5 books about $\rm\TeX$ and the fonts.
-4. He <a href="https://www-cs-faculty.stanford.edu/~knuth/abcde.html#abcde">re-published those five books in 2000</a>.
+4. He co-wrote a <a href="https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/">textbook on math for Computer Science.</a>.
+4. He re-published the  <a href="https://www-cs-faculty.stanford.edu/~knuth/abcde.html#abcde">five books about $\rm\TeX$ and the fonts</a> in 2000.
+5. He finally <a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html">redid Volumes 1 to 3, and started Volume 4</a>.
 5. He published <a href="https://www-cs-faculty.stanford.edu/~knuth/selected.html">a large series of retrospective collections</a>, mostly about his academic work, and <a href="https://www-cs-faculty.stanford.edu/~knuth/dt.html">one is just about the $\rm\TeX$ project and its history</a>. That's where most of my story came from.
 6. He <a href="https://www-cs-faculty.stanford.edu/~knuth/mmixware.html">rebuilt the fake computer and assembly language</a> used in his books to study "real" code.
 7. Who knows what else.

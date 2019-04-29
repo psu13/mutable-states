@@ -95,7 +95,7 @@ Notes
 
 A few links to similar thoughts about *Dark Souls*:
 
-[Tom Bissell](http://www.grantland.com/story/_/id/7290527/one-night-skyrim-makes-strong-man-crumble)
+[Tom Bissell](http://grantland.com/features/one-night-skyrim-makes-strong-man-crumble/); [also here](https://web.archive.org/web/20171224131111/http://grantland.com/features/one-night-skyrim-makes-strong-man-crumble/)
 
 [The Brainy Gamer](http://www.brainygamer.com/the_brainy_gamer/2011/10/soul-dojo.html)
 
