@@ -19,7 +19,7 @@ Here is an example from a late temple area. Let the spoilers begin!
 
 > <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/47078793414/in/dateposted-public/" title="Temple"><img src="https://live.staticflickr.com/65535/47078793414_beaff31f71_z.jpg" width="640" height="360" alt="Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Anyway. The summary of the game is as follows: you play as *Sekiro* (there is no character builder, although on the PC there are mods that change the main character's model around) a Ninja/Samurai type warrior for hire who, as per usual for these games, dies in the tutorial and then comes back for the rest of the game. You are protecting a small boy, there is a war going on, there are a lot of random enemies and hard bosses to kill. 
+Anyway. The summary of the game is as follows: you play as Sekiro (there is no character builder, although on the PC there are mods that change the main character's model around) a ninja/samurai type warrior for hire who, as per usual for these games, dies in the tutorial and then comes back for the rest of the game. You are protecting a small boy, there is a war going on, there are a lot of random enemies and hard bosses to kill. 
 
 The game takes place around some castle grounds in an old Japanese kingdom ("Ashina" ... Land of Ash?). There are four or five other side areas ... mountains, valleys, lakes, poison swamps. The usual stuff. There are also two temple areas, which are my personal favorites. A few of the main areas get recycled as the game goes on. The map stays the same but the enemies change, and things get set on fire. There is a lot of fire in this game. The fire is mostly inconsequential. Although I did accidentally cheese a mini-boss with it:
 
@@ -78,7 +78,7 @@ There are other ways that *Sekiro* undermines your previous *Souls* muscle memor
 
 2. Many bosses have wide sweeping attacks that murder you when you dash, because the i-frame windows are not long enough.
 
-I spent hours dying this way to a couple of hard mid-game bosses before slowly getting better at remembering not dodge away, but to stand in there and then block and parry instead. In fact often the move is to force the action by swinging with an R1 when you would normally back off because then the you control the action that follows and enemy counters to your actions are often more predictable than if you just wait for them to act on their own. That sort of move would get your murdered in *Souls* because of the stamina bar ... but there is no stamina bar in this game. So R1-away.
+I spent hours dying this way to a couple of hard mid-game bosses before slowly getting better at remembering not dodge away, but to stand in there and then block and parry instead. In fact often the move is to force the action by swinging with an R1 when you might normally back off in *Souls*. Attacking forces the enemy to counter, and this is often in a more predictable rhythm than if you stood back and waited for any random attack to come out. That sort of move might get your murdered in *Souls* because of the stamina bar ... but there is no stamina bar in this game. So R1-away.
 
 To summarize: combat in Sekiro favors the aggressive player with good timing and reflexes. The fights often have a dance-like rhythm to them, leading some to complain that the game is really a rhythm game rather than an action RPG. The game rewards both speed and precision ... skills I am sadly lacking. So I lose a lot. On the other hand, when you get the rhythm of a fight right, it's beautiful and satisfying.
 
@@ -170,7 +170,7 @@ But also there is this woman, the best NPC in video game history.
 
 Everything I learned above shows up in this long video of the final fight in the game (assuming you did the long ending).
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/gYjCqi8n3wE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/LqYJxvNg5GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is a really well designed fight that makes you use all the tools that are in the game for you. Plus, some dude turns out to be wearing another dude as a suit (spoiler)! You can't beat that.
 
