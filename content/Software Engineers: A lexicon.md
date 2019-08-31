@@ -29,7 +29,7 @@ I’ve been working at software companies for the last 15 or so years of my life
 
 5. **The Moron**
 
-	Checks in code that doesn’t build and then when it does build it doesn’t work and causes regressions in other people’s code. Will change, and break, other people’s code. Constantly three steps behind in the design meetings but take 45 minutes to get caught up because they have to explain all the points that everyone understands to everyone else. Not the guy you want to give a vague specification to if you want the code to have any chance of being right.
+	Checks in code that doesn’t build and then when it does build it doesn’t work and causes regressions in other people’s code. Will change, and break, other people’s code. Constantly three steps behind in the design meetings but take 45 minutes to get caught up because they have to explain all the points that everyone understands to everyone else. Not the person you want to give a vague specification to if you want the code to have any chance of being right.
 
 6. **The Slacker**
 
