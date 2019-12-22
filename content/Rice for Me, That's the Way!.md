@@ -17,7 +17,7 @@ While the heavy emphasis on the combat engine is definitely still evident, I wou
 
 Here is an example from a late temple area. Let the spoilers begin!
 
-> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/47078793414/in/dateposted-public/" title="Temple"><img src="https://live.staticflickr.com/65535/47078793414_beaff31f71_z.jpg" width="640" height="360" alt="Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a href="images/47078793414_2619420cf3_o.png" title="Temple"><img src="images/47078793414_2619420cf3_o.png" width="640" height="360" alt="Temple"></a>
 
 Anyway. The summary of the game is as follows: you play as Sekiro (there is no character builder, although on the PC there are mods that change the main character's model around) a ninja/samurai type warrior for hire who, as per usual for these games, dies in the tutorial and then comes back for the rest of the game. You are protecting a small boy, there is a war going on, there are a lot of random enemies and hard bosses to kill. 
 
