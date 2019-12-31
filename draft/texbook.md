@@ -1,0 +1,13 @@
+The story of my TeXBook. In several parts.
+so recently i found a box in the basement that had a lot of my old text books in it, in particular an old complex analysis book that I could not imagine that i sold, but which I also could not find. this made me happy.
+In parallel with this, I had been collecting physics papers... and physics papers at the arxiv are often formatted in less than enjoyable ways. but they are also almost always in LaTeX ... and so it's pretty easy to do a few small edits and make them look better. So I had installed TeXshop on my laptop for this...
+But the old book reminded me that I also used to have a TeXbook. Which I remembered bringing to the office and maybe trying to pawn off on you. But you told me that I did not do this. So then I was a bit confused about where it went.
+Interleaved with all of this I also re-opened some of the old TeX history brain holes ... and some other stuff related to Knuth. And realized that maybe I should try to look back into some of the old and newer things that he had written ...
+The old math book also tickled a different brain hole related to Knuth, because the book has a notation in the font that it was typeset in Monotype Modern 8 ... Monotype Modern 8, you might remember, is the type family that the original TAOCP books were set in, and thus were the inspiration for the Computer Modern fonts. (edited) 
+Anyway, since the last time I looked, all of the TeX/metafont literature had been updated several times, so I thought ... what the hell, for christmas vacation I'll do something stupid and get a bunch of Knuth books, including some of the historical stuff on the TeX project, and a TeXBook (edited) 
+so I'm telling this story to Ben in his office. And my eye scans over his desk, which he has re-arranged because over break they were doing office cleaning or something ... and I see a blue book jacket ...
+it's a TeXBook
+and, it has an embossing in it that says PSU ... I had a stamp like that in graduate school because it's sort of a cool thing to do to books.
+so anyway. I gave him my new edition TeXBook and took the old one back. And here is the weird thing.
+all the new Knuth books are very very well produced. TAOCP especially. But also this other series of retrospectives from Stanford (edited) 
+But the Computers and Typesetting volumes are AWFUL. It's like they printed them on an old Laserwriter or something. Who knows why.

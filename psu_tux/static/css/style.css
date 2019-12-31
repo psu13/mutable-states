@@ -1,5 +1,5 @@
 /* Misc */
-body { word-wrap:break-word; color:#000;}
+body { word-wrap:break-word; color:#111; background:#fffffd}
 
 ol li ul, ol li ol { 
 margin-bottom: 1.25em;
@@ -7,7 +7,7 @@ margin-bottom: 1.25em;
 
 article { padding-left:1em; }
 
-p, li { font-family:"Georgia", "Times", sans-serif; font-size:1.1rem; color:#000;}
+p, li { font-family:"Georgia", "Times", sans-serif; font-size:1.1rem; color:#111;}
 
 /* Base.html - top navigation */
 .top-bar {
@@ -28,7 +28,7 @@ font-weight: bold;
 text-transform: uppercase;
 }
 
-.side-nav li a { color: #000}
+.side-nav li a { color: #111}
 .side-nav { padding: 0.5em 0; }
 
 blockquote { color: #666 }
