@@ -1,0 +1,42 @@
+diff --git a/psu_tux/static/css/style.css b/psu_tux/static/css/style.css
+index 2882b16..68ade69 100644
+--- a/psu_tux/static/css/style.css
++++ b/psu_tux/static/css/style.css
+@@ -1,5 +1,5 @@
+ /* Misc */
+-body { word-wrap:break-word; color:#000;}
++body { word-wrap:break-word; }
+ 
+ ol li ul, ol li ol { 
+ margin-bottom: 1.25em;
+@@ -7,7 +7,6 @@ margin-bottom: 1.25em;
+ 
+ article { padding-left:1em; }
+ 
+-p, li { font-family:"Georgia", "Times", sans-serif; font-size:1.1em; color:#000;}
+ 
+ /* Base.html - top navigation */
+ .top-bar {
+@@ -28,10 +27,9 @@ font-weight: bold;
+ text-transform: uppercase;
+ }
+ 
+-.side-nav li a { color: #000}
++.side-nav li a { color: #222}
+ .side-nav { padding: 0.5em 0; }
+ 
+-blockquote { color: #666 }
+ 
+ /* Index.html - posts */
+ h3.article-title {
+@@ -45,8 +43,8 @@ color: #2B76E3;
+ }
+ 
+ /* Article infos | infos_bottom.html */
+-.subheader { color: #555; margin-bottom: 1.2em; }
+-a.article-info { color: #555; }
++.subheader { color: #aaa; margin-bottom: 1.2em; }
++a.article-info { color: #aaa; }
+ 
+ 
+ /* Archives.html */
