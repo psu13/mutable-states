@@ -3,7 +3,9 @@ Date: 2020-02-09
 Category: Food
 Author: psu
 
-Today I noticed that the NYT cooking section had a recipe for something they were calling the "Fastest Sesame Noodles". Strangely, the headline blurb went on to say that you could make these noodles in the incredibly short time of "30 minutes". This was strange to me because sesame (really peanut butter) noodles should not take any longer than about five minutes plus however long it takes you to cook a box of noodles. Here is what you do.
+It is strange to me that the NYT food section consistently makes easy things so much more complicated than they have to be. For example, today I noticed that they had a recipe for something they were calling the "Fastest Sesame Noodles". Strangely, the headline blurb went on to say that you could make these noodles in the incredibly short time of "30 minutes". This was strange to me because sesame (really peanut butter) noodles should not take any longer than about five minutes plus however long it takes you to cook a box of noodles. Everyone should know how to do this ... so here I am to help.
+
+Here is what you do.
 
 1. Boil water to cook a box of noodles. Any noodles you like will do. My parents used to just make spaghetti that they had torn in half as they dropped it in the boiling water. Chinese noodles are a bit shorter than spaghetti, so while this mutilation would be disturbing to some, it makes sense in context.
 
@@ -20,3 +22,4 @@ Today I noticed that the NYT cooking section had a recipe for something they wer
 4. When the noodles are done drain them and cool them off. Mix in the sauce. Put your toppings on top. Add more hot sauce if that's your thing. I have recently discovered the wonders of "Lao Gan Ma" chili crisp. You should put that on the noodles too.
 
 There. You are done. And if you made most normal noodles, which take about 10min to cook, you should have 15min left over from the NYT time window to go play Halo. Have fun.
+

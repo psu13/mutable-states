@@ -48,11 +48,11 @@ Author: psu
 
 2. If you have to explain the music to people in real time to keep them interested, you've already lost. The problem here is not that the show is no good, the problem is that the people never had an interest in the first place.
 
-<p>This brings us to the third piece of media on this subject, the current episode of <a href="http://www.wnyc.org/studio360/show.html">STUDIO 360</a> , which is about the future of the Orchestra. Here, among other things, Daniel Baranboim and Greg Sandow argue over tiny little semantic quibbles, never realizing that they both agree on a central premise: classical music these days is culturally irrelevant.</p>
+<p>This brings us to the third piece of media on this subject, the current episode of <a href="http://www.wnyc.org/studio360/show.html">STUDIO 360</a> , which is about the future of the Orchestra. Here, among other things, Daniel Barenboim and Greg Sandow argue over tiny little semantic quibbles, never realizing that they both agree on a central premise: classical music these days is culturally irrelevant.</p>
 
 <p>Barenboim observed, correctly, that even the elite of our time, the most educated and succesful could get to be 30 or 40 and know nothing about classical music. He phrased this as "knowing nothing about music", which isn't quite right. But the point stands. This music is not the central pillar of the culture the way it used to be.</p>
 
-<p>Sandow then "disagreed" with Baranboim while having made exactly the same point: he said that people in his audiences with degrees in English literature didn't seem to understand that there could be this music with a complex narrative structure, like a novel or film... but that these same people could be serious consumers of jazz, pop, folk music, and so on.</p>
+<p>Sandow then "disagreed" with Barenboim while having made exactly the same point: he said that people in his audiences with degrees in English literature didn't seem to understand that there could be this music with a complex narrative structure, like a novel or film... but that these same people could be serious consumers of jazz, pop, folk music, and so on.</p>
 
 <p>I think that this is basically the same point, and the basic reason why classical music is dead. We live in a world where even if you have great interest in music overall, classical music can completely miss your radar screen.</p>
 
