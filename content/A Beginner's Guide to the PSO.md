@@ -57,11 +57,13 @@ I should make the obvious note here that the longer pieces are not single works 
 
 Apparently the greatest modern sin that you can commit at an orchestra concert is not keeping track of how many movements have gone by, or just getting too excited and showing any kind of appreciation for the piece before it is actually over. I myself have been guilty of glaring at early clappers, but only because they took me out of my zone before the slow movement.
 
-My biggest single piece of advice for listening to classical music is to keep in mind that in almost every really great piece it's the *slow* movements that form the emotional core of the music. The fast and loud music looks and sounds great but to me are mostly just about showing off. Which is fine. But the real music is in the slow stuff.
+My most important piece of advice for listening to classical music is to keep in mind that in almost every really great piece it's the *slow* movements that form the emotional core of the music. The fast and loud music looks and sounds great but to me is mostly just about showing off. Which is fine. But the real music is in the slow stuff.
 
 Most orchestra shows that you go to will have two or three shorter things in the first half and one or two longer things in the second half. The first half is also usually used for mindless filler, the already mentioned solo pieces, occasional feature pieces for members of the orchestra to show off, and all the “new music” that everyone thinks they should play and that you should listen to, but which no one really likes. There are of course happy and surprising exceptions in this last bucket once in a while.
 
-If I have one overall gripe about the structure of the mainline classical music shows at the PSO it's not that they are too long. My complaint is that for the sake of maintaining what people think of as the standard set length they add filler. These are those short little pieces of fluffy nonsense that no one will remember five minutes into the first solo of the concerto that is the real point of the first half of the show. For a while at the PSO shows the band was playing small encore pieces from the tours after the the big piece at the end of the show, when everyone was in the mood for more. I think we should make this standard practice and move the filler from the start to the end.
+If I have one overall gripe about the structure of the mainline classical music shows at the PSO it's that they *feel* too long. It's not that I mind the show going for about two hours or more. If the program is engaging and I'm locked in I'll gladly stay in my seat that long. I loves me a great Bruckner 9, or Mahler 2 after all.
+
+The problem is that such shows are relatively rare. But, for the sake of maintaining what people think of as the standard length of a concert, there is often a lot of filler. These are those short little pieces of fluffy nonsense that no one will remember five minutes into the first solo of the concerto that is the real point of the first half of the show. For a while at the PSO shows the band was playing small encore pieces from the tours after the the big piece at the end of the show, when everyone was in the mood for more. I think we should make this standard practice and move the filler from the start to the end.
 
 **What To Go See**
 
@@ -98,6 +100,10 @@ Besides the movie music my other suggestion is to seek out the Russian and centr
 The problem will be that the PSO does not play this music that much. But they do often enough for you to find a show or two like this every year. And in my experience these shows are almost always interesting and good. Along these lines another suggestion that I make to people is to go see the <a href="http://www.chambermusicpittsburgh.org">Chamber Music series</a> at Carnegie Music Hall. These small groups are more intimate, less intimidating,  and they also have more room for more experimental forms.
 
 But again, this is just what I think, and might not be right for you. Maybe what I think of as tired and oversold warhorses will turn out to be more your thing. *That's fine too*. The goal is to find something you want to hear live, because hearing it live will (hopefully) be great. I tend to think it's easier to connect with music that happened more recently, but this is by no means a universal rule. And really, for all my posturing ... the Beethoven 5th (or 3rd or 7th, or 6th) slaps. You really cannot go wrong.
+
+**Digression: Where to Sit**
+
+My favorite seats are at the front of Family Circle. Great blended sound with a lot detail and a good view of the whole stage. Decent leg room. The middle rows from around L to around R on the floor are also good. Just stay out from under ”the overhang”. The local paper ran a good <a href="https://www.post-gazette.com/ae/music/2019/10/14/Heinz-Hall-best-worst-seats-orchestra-concert-pittsburgh-symphony-acoustics/stories/201910070104">overview</a> a while back.
 
 **Final Thoughts**
 

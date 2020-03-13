@@ -31,6 +31,7 @@ depending on how big you make them.</p>
 2. 2 teaspoons of baking powder.
 3. 2 teaspoons of sugar.
 4. 1 teaspoon of salt
+5. Grated nutmeg. Just slide that whole nutmeg over your microplane grater ten or fifteen times. This makes a *big* difference.
 
 <p>Mix this up with a whisk so that everything is combined very evenly. This is
 important.</p>
