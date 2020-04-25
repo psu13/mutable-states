@@ -75,7 +75,7 @@ All of this seems hopeless, but if you stick with it and learn the right lessons
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/EPzVEnuXCEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-to not a bad hero:
+to at least a decent hero:
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/LqYJxvNg5GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
