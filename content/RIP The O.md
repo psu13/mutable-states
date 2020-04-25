@@ -43,5 +43,11 @@ Pause.
 
 And that's what happened. In the more than 30 years since then I've never had the courage to try that. What a shame.
 
+**Addendum**
+
+<a href="https://www.youtube.com/watch?v=vzE41a8mrGA">Rick Sebak confirms the story</a>, so it's true.
+
+
+
 
 
