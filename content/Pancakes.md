@@ -81,3 +81,7 @@ anything better to eat for breakfast.</p>
 to try and get closer to the spicy flavor in
 <a href="http://tleaves.com/2008/04/28/dotties-true-blue-cafe/">Dottie&rsquo;s</a> pancakes.
 But I&rsquo;m not there yet.</p>
+
+#### Update
+
+A few years after writing this recipe I started adding a bit of vanilla in the wet side. Just a dash. It makes a difference.
