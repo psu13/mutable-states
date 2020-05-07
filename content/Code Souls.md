@@ -93,7 +93,27 @@ So I'm trying again. And it's going really well:
 
 I should have it in no time ... or at least by the time the world opens up again in 2022.
 
-### Foonotes
+#### Update on 4/28
+
+I managed it:
+
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/tQ_oXNJjRo0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+But not after a lot of humiliation, like this:
+
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Ijgr0QGfojM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+and this
+
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/ojTVLoFH7xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And a whole shit ton of this:
+
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/_KYtVuiRs6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+See? Anything is possible.
+
+#### Foonotes
 
 1. For readers from the distant future, this page was written during the COVID-19 lockdown, where a lot of people had a lot of time to sit in their homes with mostly their thoughts to keep them company. Was an interesting time. Would not recommend.
 
