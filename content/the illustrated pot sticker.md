@@ -7,10 +7,11 @@ Author: psu
 
 <p>It&#8217;s best to have a good system for this. So I&#8217;ve broken the recipe up into stages.</p>
 <h4>Dough, Stage 1</h4>
-<p>1. Start with 2-3 cups of flour and one cup of <em>cold</em> water.</p>
+<p>1. Start with 2-3 cups of flour and one cup of <em>cold</em> water. Or, if you want to be more accurate, in our experience the final ratio of flour to water <em>by weight</em> tends to settle at around 1.9 to 2. So (say) 400 grams of flour to 200 grams of water. These things will vary a lot based on the flour you use, your humidity, etc. So take these as starting points.</p>
 <p>2. You <em>must</em> use crappy bleached bad for you Pillsbury all purpose flour. The fancy-ass organic whole wheat stuff will make you crappy dough. Trust me.</p>
-<p>3. Put most of the flour in a bowl. Add 3/4ths of the water but not all and stir it around with chopsticks.</p>
+<p>3. Put most of the flour in a bowl. Add most of the water but not all and stir it around with chopsticks.</p>
 <p>4. If the flour does not soak up all the water, add flour. If it is too dry, add water. Stir some more, check again. Turn the mixture out on to a board and knead it until it holds together. Don&#8217;t worry about making the ball smooth.</p>
+<p>5. Because of the variance in our the dough comes out it's a good idea to make an extra dough ball or two for each batch. Then you can pick the ones you like later.</p>
 <p>Obviously I can&#8217;t tell you how to tell when the dough is right. That is what you need my mom for. But, what you are after is a dough that is pretty stiff, but soft enough to still be workable. It should take some work to poke it with your finger, but it should eventually bounce back. And, there should be enough moisture in the dough to hold it together. The rest time in the fridge will relax the dough and even out the wet, making the dough softer when you finally work with it.</p>
 <p>Having had more experience with this, I think it might work better to measure the flour by weight to try and get a more consistent behavior. But we have not experimented with this yet.</p>
 <p>5. Put the ball into a ziploc bag and stick it in the fridge for a few hours.</p>
@@ -45,11 +46,11 @@ I usually use the smell and look of the meat mixture to figure out how to adjust
 
 <p>Now set this side and start to get the dough ready for filling.</p>
 <h4>Dough, Stage 2</h4>
-<p>Get the dough out of the fridge about an hour before you start to work in earnest. Cut the ball into three pieces and roll each out into a long string about 1/4 inch in diameter. Then pull pieces of dough off this string by hand. Each piece should be maybe 1/2 an inch long. You can use a dough blade or a knife for this, but after you get good at it the pulling method is easier. If the dough is right the pieces should come off with a loud <em>snap</em>. Now squish them into small rounds with the heel of your hand, so they look like this:</p>
+<p>Get the dough out of the fridge about an hour before you start to work in earnest. Cut the ball into three pieces and roll each out into a long string about 3/4ths to 1 inch in diameter. Then pull pieces of dough off this string by hand. Each piece should be maybe 1/2 an inch long. You can use a dough blade or a knife for this, but after you get good at it the pulling method is easier. If the dough is right the pieces should come off with a loud <em>snap</em>. Now squish them into small rounds with the heel of your hand, so they look like this:</p>
 
 > <a href="http://www.flickr.com/photos/79904144@N00/3609320910/" title="P1010807 by psu13, on Flickr"><img src="http://farm4.static.flickr.com/3360/3609320910_164e8cb41b_m.jpg" width="240" height="160" alt="P1010807" /></a>
 
-<p>Each round should be around a half inch to an inch across. Do one &#8220;rope&#8221; at a time. About the time the first rope is done, finish the last stage of making the filling.</p>
+<p>Each round should be around about an 1.5 or 2 inches across. Do one &#8220;rope&#8221; at a time. About the time the first rope is done, finish the last stage of making the filling.</p>
 <h4>Filling, Stage 2</h4>
 <p>Now finish the filling by adding the cabbage. You want to add the cabbage last and then assemble immediately. The reason you want to do this is if you add the cabbage too soon and then let the meat sit, it will fall apart later. So, for one pound of pork add about 2 to 3 cups of the chopped cabbage from before depending on how much you like. Mix it into the meat. Then add a few tablespoons of cabbage juice. You want to get the filling to be a moist paste, but <em>not</em> too wet. So add the juice slowly until you get a feel for when the filling is right. It should look like this:</p>
 
