@@ -34,9 +34,11 @@ Like *Demon’s Souls* before it *Dark Souls* is the whole psu-hating package. E
 6. Friendly NPCs who are gigantic reptiles. And eat you without warning.
 
 7. Areas with enemies that you not only cannot kill, you can’t even hit them and you have to ask someone, or a walkthrough, why.
+
 I could go on all night, but I’d rather stop and go back downstairs and play some more.
 
 The second to last time I was this confused about a game was when, on the strength of a [Penny Arcade](http://www.penny-arcade.com/comic/2004/10/04) cartoon I picked up [*Shadow Hearts: Covenant*](http://tleaves.com/2005/02/15/shadow-hearts-covenant/index.html) on a whim. Here was as hard core J a JRPC as they came and I should have hated it, but it tickled some part of my fancy and I played it all the way to the end.
+
 The last time I was this confused about a video game was when I got into [*Resident Evil 4*](http://tleaves.com/2005/04/21/evil-in-residence/index.html). Here was a game where you must shoot zombies with a character who can’t walk and hold a gun at the same time. And yet I played the game through a half dozen times on multiple platforms.
 
 After 50 or 60 hours of *Dark Souls* I finally figured that what I like about the game is what it has in common from these two previous inscrutable favorites.
@@ -66,9 +68,10 @@ So yes, the game is unforgiving and sadistic the first few times through an area
 
 This would all be for nothing if the combat itself did not hold up under extreme repetition. But for me it does. It becomes familiar and comfortable. And then you zone out and the 20 foot tall knight crushes you under his shield, and you wake up and start concentrating again.
 
-The connection between RE4 and *Dark Souls* is, at least to me, fairly direct. The connection to Shadow Hearts is more spiritual than anything else. Both games make great use of their settings to communicate a certain mood and overall design sensibility to the player. What Shadow Hearts says to you is “we are batshit insane!”. What *Dark Souls* communicates is a sense of being completely alone in a hostile environment, and also that “our creature designers are batshit insane!”.
+The connection between *RE4* and *Dark Souls* is, at least to me, fairly direct. The connection to *Shadow Hearts* is more spiritual than anything else. Both games make great use of their settings to communicate a certain mood and overall design sensibility to the player. What *Shadow Hearts* says to you is “we are batshit insane!”. What *Dark Souls* communicates is a sense of being completely alone in a hostile environment, and also that “our creature designers are batshit insane!”.
 
 Perhaps the most remarkable aspect of the *Dark Souls* world is the sheer variety of locales and how they are all tied together. The game has prisons, sewers, prison sewers, ruined castles, gleaming castle cities, gardens, forests, lava pits, stone caves and a godforsaken poison swamp. But all of these disparate locations are connected. In the game’s map they are connected because you can and need to walk from one to the other to progress in the game. This aspect of the level design is actually brilliant because with only a few exceptions all of the connections make spatial sense. You will trek from the opening area up a hill and into a ruined city full of the undead. In this city you will fight your way to a small room with a bonfire in it where you can rest. From there you fight through more of the city and then to the top of a tower and across a long bridge. Under this bridge will be a room with a ladder in it and after you kick ladder out of the wall and climb down, you are back at the fire. Taking the short cut back up to the bridge, you eventually make your way into a church. In the church is an elevator that takes you … back to the original opening area.
+
 When you remap this all out in your head, you realize that both the original routes and the short cuts really do fit together. It’s a tour de force of maze design.
 
 But, the game’s world is also connected in a second, more important way. A lot of video games like to give lip service to a “sense of place” or a singular design sense. But to my mind *Dark Souls* really delivers. And it delivers not in a shallow way, but in that way where no matter where you are standing in the game, your location is obviously of the game. You could be sitting in a fetid and poisonous sewer full of gigantic frogs that breath cursed gas on you, or you could be strolling down a pristine hallway in a marble castle. All of the locales really feel like they are from a single world, or at least from the vision of a single world designer.
@@ -88,8 +91,10 @@ So, to summarize:
 5. Unforgiving failure conditions: yes, but for some reason in this case it all works.
 
 6. Ludicrous amounts of useless and tedious expository dia… oh wait. I got mixed up for a second and forgot that I’m not writing about a Bioware or Bethesda game. Never mind. There is hardly any NPC dialog at all and they don’t even try to do lip sync, so they can’t do that badly either. Kudos.
+
 I had to say number (6) over again, because it’s important. The lack of useless narrative is a feature. Video game narrative mostly sucks anyway, you won’t miss it.
-Anyway, I should stop now because the only place to go from here would be to make a gratuitous connection between *Dark Souls* and Madden. If you know me well you can already predict how that would go. I’ll spare you.
+
+Anyway, I should stop now because the only place to go from here would be to make a gratuitous connection between *Dark Souls* and *Madden*. If you know me well you can already predict how that would go. I’ll spare you.
 
 Notes
 
