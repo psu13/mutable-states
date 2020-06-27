@@ -7,7 +7,7 @@ Long time readers will remember that while I am a computer geek professionally i
 
 As we all know, the weird thing about quantum mechanics is that while you are allowed to imagine that some quantum system somewhere is in some state, you are not really allowed to know or talk about what that state *is* unless you actually *look* at it and find out. This is called the *measurement problem* although in some sense *measurement dilemma* might be a better way to put it.
 
-In the traditional way of talking about this, if you have some wave function $ | \psi \rangle$ (shout out to the Dirac notation), it can just float around in Hilbert space doing anything it wants until you hit it with some measurement operator to see where it really is. At this point the measurement will return some value $a$ and from then on the wave function is thought to be in the state that returns the value $a$ when measured.
+In the traditional way of talking about this, if you have some quantum wave function $ | \psi \rangle$ (shout out to the Dirac notation), it can just float around in Hilbert space doing anything it wants until you hit it with some measurement operator to see where it really is. At this point the measurement will return some value $a$ and from then on the wave function is thought to be in the state that returns the value $a$ when measured.
 
 This strange behavior is known, in the lingo, as the "*collapse of the wave function*"... the idea being that before you looked at it the quantum state was indeterminate and could be made up of a superposition of any number of wave-like components, but after you look it collapses down into just one thing that always gives just one answer.
 
