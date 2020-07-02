@@ -3,9 +3,9 @@ Date: 2020-06-27
 Category: Food
 Author: psu
 
-I have an <a href="http://www.tleaves.com/weblog/archives/000450.html">older page about how to make a BLT, but a recent <a href="https://podcasts.apple.com/us/podcast/the-dave-chang-show/id1375877915?i=1000479564171">Dave Chang</a> podcast inspired me to update the recipe at a horrific level of detail similar to the discussion in the show.
+I have an <a href="http://www.tleaves.com/weblog/archives/000450.html">older page</a> about how to make a BLT, but a recent <a href="https://podcasts.apple.com/us/podcast/the-dave-chang-show/id1375877915?i=1000479564171">Dave Chang</a> podcast inspired me to update the recipe at a horrific level of detail similar to the discussion in the show.
 
-In the Northeast (to the extent that PA is in the Northeast), late summer is the time for the BLT. You can't really good get tomatoes before August (don't argue with me, you can't) and it's also the peak of the corn on the cob season, which is key. I've broken the process of this sandwich down into some simple rules. They mostly mirror <a href="https://www.seriouseats.com/2016/08/blt-manifesto-how-to-make-best-bacon-lettuce-tomato-sandwich.html">all the correct things that Kenji says in his piece on this over at Serious Eats</a>. But I have a few quibbles with him too. 
+In the Northeast (to the extent that PA is in the Northeast), late summer is the time for the BLT. You can't really good get tomatoes before August (don't argue with me, you can't) and it's also the peak of the corn on the cob season, which is key. I've broken the process of this sandwich down into some simple rules. They mostly mirror <a href="https://www.seriouseats.com/2016/08/blt-manifesto-how-to-make-best-bacon-lettuce-tomato-sandwich.html">all the correct things that Kenji says in his piece on this over at Serious Eats</a>. But there are some small differences here too.
 
 **Rule 1: It's a Tomato Sandwich**
 
@@ -35,7 +35,7 @@ I have made bacon for these sandwiches in the oven, in the microwave, and on the
 
 **Rule 4: Iceberg**
 
-There is not much to say about this rule. What you want from the lettuce is a nice wet crunch. This is not the place for the the artisanal bitter salad greens that will just fall out of the sandwich when you bite into them. It's about some contrasting texture to go along with the tomato and a bit of bland to contrast with all the salt coming from everywhere else. Iceberg is perfect. It's always been the perfect sandwich green. Just go get some.
+There is not much to say about this rule. What you want from the lettuce is a nice wet crunch. This is not the place for the the artisanal bitter salad greens that will just fall out of the sandwich when you bite into them. It's about some contrasting texture to go along with the tomato and a bit of bland to contrast with all the salt and acid coming from everywhere else. Iceberg is perfect. It's always been the perfect sandwich green. Just go get some.
 
 **Rule 5: A Bit of Mayo**
 
