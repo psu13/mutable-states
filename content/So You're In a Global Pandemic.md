@@ -38,7 +38,7 @@ One of the few highlights to come out of this extended hellscape has been <a hre
 
 **Pie Crust**
 
-Unquestionably my biggest cooking victory in this time has been accidentally figuring out pie crust. Pie crust has always made me nervous because I have repeatedly failed at making it at many times in my life. But, we had the spring rhubarb in the house, and trekking to the store for the pre-made seemed like not the thing to do right now. So I got a recipe from a friend of mine and remembered that I had a lot of farmer's market lard in the freezer. So here is what you do (shout out to Penelope, whose recipe ended up with Elizabeth, who gave it to me ... and then I mutated it a bit):
+Unquestionably my biggest cooking victory in this time has been accidentally finding a pie crust method that works. Pie crust has always made me nervous because I have repeatedly failed at making it at many times in my life. But, we had the spring rhubarb in the house, and trekking to the store for the pre-made seemed like not the thing to do right now. So I got a recipe from a friend of mine and remembered that I had a lot of farmer's market lard in the freezer. So here is what you do (shout out to Penelope, whose recipe ended up with Elizabeth, who gave it to me ... and then I mutated it a bit):
 
 1. 300g of all purpose flour (around 2 1/2 cups, or a bit more)
 2. 1 stick of frozen butter that you thaw just enough to cut it up into small cubes.
@@ -47,9 +47,12 @@ Unquestionably my biggest cooking victory in this time has been accidentally fig
 
 Cut the fat into the flour a bit at a time in a food processor. You don't want giant chunks of butter when you finish, but you also don't want them to be too small. Dribble the water into the result and mix it around. Add just enough for the dough to stick together (around half a cup usually does it for me). Split the dough into two equal balls, flatten, and put in the fridge. This makes a top and bottom crust for a 9 inch pie.
 
+Yes I know I'm mixing unit conventions. This is just how it worked out. Go find your own recipe.
+
+The real genius though is getting someone else to roll out the crusts and put them in the pan. In this case Karen does it for me, and I still get the credit for mixing everything correctly. Win Win.
+
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50060326221/in/dateposted-public/" title="IMG_0988"><img src="https://live.staticflickr.com/65535/50060326221_6d7acc0532_w.jpg" width="400" height="400" alt="IMG_0988"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Yes I know I'm mixing unit conventions. This is just how it worked out. Go find your own recipe.
 
 **Programming is Bad**
 

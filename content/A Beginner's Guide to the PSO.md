@@ -5,7 +5,7 @@ Author: psu
 
 Long time readers will know that I am a fan of <a href="http://mutable-states.com/first-show-back.html">the Pittsburgh Symphony Orchestra</a> even if my <a href="http://mutable-states.com/the-sound-of-music.html">relationship</a> with <a href="http://mutable-states.com/classical-music-is-dead-or-at-least-terminal.html">classical music</a> as a whole is a bit more ambivalent. 
 
-You can't go to as many PSO (and other) concerts as I have without occasionally wondering about how to get more “new” audience into the seats. As such, I have a few suggestions here.
+You can't go to as many PSO (and other) concerts as I have without occasionally wondering about how to get more “new” audience into the seats. As such, I have a few thoughts about that here.
 
 As a disclaimer to start: there are a lot of historical, economic, and social reasons why people don't go to see live orchestral music on a regular basis. I am not going to address any of that here. I am going to start with the thesis that this is the sort of thing more people should do, and try to give guidance to those who might have considered doing it but for various reasons have never gotten around to it. 
 
@@ -117,7 +117,7 @@ Do not be intimidated by the pretentious suits, the grumpy old people, and the e
 
 After I originally posted this I realized I forgot about something that the PSO has been doing just in the last couple of years that is *super* good for newer audience members. On many nights after the main show they will do a short, smaller chamber performance in Heinz Hall for whoever feels like staying an extra twenty minutes to see it. 
 
-It would not be an understatement to say that some of the *most interesting* music of the year happens in these post-concert performances. They play stuff you don't get to hear a lot, and you also get to move up closer to the performers and really engage with them face to face. One time the guest conductor even played clarinet in one of these pieces. That was dope.
+It would not be hyperbolic to say that some of the *most interesting* music of the year happens in these post-concert performances. They play stuff you don't get to hear a lot, and you also get to move up closer to the performers and really engage with them face to face. One time the guest conductor even played clarinet in one of these pieces. That was dope.
 
 So anyway, stick around for these. You will not regret it.
 

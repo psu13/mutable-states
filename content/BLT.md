@@ -15,7 +15,7 @@ To this end my first piece of advice in constructing the perfect version of this
 
 In my factual opinion the *best* tomato for this sandwich is a very ripe beefsteak style tomato. Large, red, juicy and full of acid. It's been hard to find these, even at the height of summer, because the useless hippy tomatoes have taken over. But try.
 
-If you can't find any good red tomatoes, Green Zebra and Purple Cherokee tomatoes are *sometimes* not too bad in this sandwich. But they are not nearly as good as a good big red thing.
+If you can't find any good red tomatoes, Black Zebra and Purple Cherokee tomatoes can be good to great in this sandwich. But they are not nearly as good as a good big red thing.
 
 For two sandwiches slice an entire large tomato into 4 or 5 medium-thick slices. Cover them with a few pinches of salt and pepper to bring out the acid even more.
 
@@ -60,4 +60,7 @@ When you get it right, it looks like this:
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/43371977895" title="BLT"><img src="https://live.staticflickr.com/1846/43371977895_2daf57f9da_c.jpg" width="800" height="599" alt="BLT"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Go get it.
+
+**Editorial Update**: I am going to apologize here to the Black Zebra and Purple Cherokee tomatoes. At there best they are great, and they will usually be fine. I still miss my really good red tomatoes though. So a few weeks after I originally posted this I updated that section of the page to reflect this.
+
 
