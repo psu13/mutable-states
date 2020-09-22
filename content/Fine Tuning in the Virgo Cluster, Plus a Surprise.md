@@ -21,17 +21,17 @@ The first two go hand in hand. So we will cover them in an interleaved fashion. 
 
 2. I should set up the mount as well as possible (within the constraints of not having a permanent position) to minimize tracking errors created by misalignment and such.
 
-My telescope has an aperture of 200mm and a native focal length of around 2000mm (F10). After playing with many combinations, I decided that for my telescope while the image scale at F5 (1000mm) was pleasing, especially with smaller objects, the mount just could not track well enough. So, I finally settled on a setup that gives me F3.5 (around 700mm).   
-The following images of the galaxy M51 illustrate the difference in image scale and tracking quality: 
+My telescope has an aperture of 200mm and a native focal length of around 2000mm (F10). After playing with many combinations, I decided that for my telescope while the image scale at F5 (1000mm) was pleasing, especially with smaller objects, the mount just could not track well enough. So, I finally settled on a setup that gives me F3.5 (around 700mm).  
+The following images of the galaxy M51 illustrate the difference in image scale and tracking quality:
 First, at F3:
 
-> <a href="http://www.flickr.com/photos/79904144@N00/5780676665/" title="M51 Screen shot 2011-05-30 at 11.45.17 PM by psu13, on Flickr"><img src="http://farm6.static.flickr.com/5301/5780676665_6ed121dce1.jpg" width="500" height="370" alt="M51 Screen shot 2011-05-30 at 11.45.17 PM"></a>  
+> <a href="http://www.flickr.com/photos/79904144@N00/5780676665/" title="M51 Screen shot 2011-05-30 at 11.45.17 PM by psu13, on Flickr"><img src="http://farm6.static.flickr.com/5301/5780676665_6ed121dce1.jpg" width="500" height="370" alt="M51 Screen shot 2011-05-30 at 11.45.17 PM"></a> 
 
 Second, at F3.5 to F4:
 
-> <a href="http://www.flickr.com/photos/79904144@N00/5804143138/" title="M51 Screen shot 2011-06-05 at 11.32 PM by psu13, on Flickr"><img src="http://farm3.static.flickr.com/2589/5804143138_52693ddc4e.jpg" width="500" height="375" alt="M51 Screen shot 2011-06-05 at 11.32 PM"></a>  
+> <a href="http://www.flickr.com/photos/79904144@N00/5804143138/" title="M51 Screen shot 2011-06-05 at 11.32 PM by psu13, on Flickr"><img src="http://farm3.static.flickr.com/2589/5804143138_52693ddc4e.jpg" width="500" height="375" alt="M51 Screen shot 2011-06-05 at 11.32 PM"></a> 
 
-Finally, at F5 or a bit more: 
+Finally, at F5 or a bit more:
 > <a href="http://www.flickr.com/photos/79904144@N00/5789412377/" title="M51 Screen shot 2011-06-02 at 12.17.39 AM by psu13, on Flickr"><img src="http://farm6.static.flickr.com/5023/5789412377_f5f0c572e9.jpg" width="500" height="370" alt="M51 Screen shot 2011-06-02 at 12.17.39 AM"></a> 
 
 The shot at F3 has way too much vignetting to really be usable. At F3.5 things are a lot better. The tracking is a tiny bit worse, but still tolerable. You can see a lot of detail in the object. Finally, at F5 the object is a nicer size, but we are right on the edge of what the mount can manage without guiding. The stars are a bit fat and the detail in the object can get blurred.
@@ -46,7 +46,7 @@ The second half of the mount performance equation is how well we set the mount u
 
 4. Plug the mount in and do a pointing alignment. The mount will point at 2 stars in one side of the sky and up to 4 on the other side. 
 
-5. Try to end step four on a star near the meridian and fairly high in the sky. Use this star to run the polar alignment software in the mount. 
+5. Try to end step four on a star near the meridian and fairly high in the sky. Use this star to run the polar alignment software in the mount.
 	While this seems simple enough in principle, the mechanics of the mount and the temperamental nature of the software make every night a new adventure. Here are my tips for making your setup a less stressful experience. Note that these tips are by no means a complete method for foolproof setup. I still find that every other time I go out something weird happens and I throw my hands up in frustration. I find that it's better to go out expecting the to do the alignment twice, because you will anyway.
 
 So, things to watch out for when setting up a Celestron CG-5:
@@ -67,9 +67,12 @@ So, things to watch out for when setting up a Celestron CG-5:
 
 8. Occasionally, usually when everything has gone perfectly and you are polar aligned in 10 minutes, your first GOTO will send the scope pointing into the ground. At this point you should power down and go inside and have a beer. Since you are setting up a video camera, you don't need to worry about wrecking your dark adaption. This is the best thing by far about using this camera, by the way.
 
-Finally, I like to align with a high power eyepiece and switch to the camera after. This calibrates the pointing system with a smaller field of view, which in my experience means you get better pointing.  If all of this seems like a lot of work, it is. Last night I spent about 90 minutes doing trying to make sure that I could repeatably get a good polar alignment in a systematic fashion. I can't really say I succeeded, because I was still confused about a few things. Also, I only got to spend an hour actually <em>looking</em> at anything. But The M51 capture above made it worth it. 
+Finally, I like to align with a high power eyepiece and switch to the camera after. This calibrates the pointing system with a smaller field of view, which in my experience means you get better pointing.If all of this seems like a lot of work, it is. Last night I spent about 90 minutes doing trying to make sure that I could repeatably get a good polar alignment in a systematic fashion. I can't really say I succeeded, because I was still confused about a few things. Also, I only got to spend an hour actually <em>looking</em> at anything. But The M51 capture above made it worth it.
+
 **The Rest**
- Now that the scope is set up, here is the rest of the checklist. 
+
+Now that the scope is set up, here is the rest of the checklist.
+
 1. Connect the control and video cables to the camera. 
 
 2. Plug the video camera into the USB capture box. I use a cheap Dazzle DVC100. I have also played with a Firewire box and it is better, but the post processing tools, strangely, are better on Windows. So I'm using USB for now.
@@ -118,7 +121,7 @@ One thing I've been doing to make myself feel better is to revisit objects I loo
 
 > <a href="http://www.flickr.com/photos/79904144@N00/5738121617/" title="2011-03-27-20-M51 by psu13, on Flickr"><img src="http://farm6.static.flickr.com/5267/5738121617_d8c19df1fc.jpg" width="500" height="375" alt="2011-03-27-20-M51"></a> 
 
- Here is the one I took yesterday:
+Here is the one I took yesterday:
 
 > <a href="http://www.flickr.com/photos/79904144@N00/5804143138/" title="M51 Screen shot 2011-06-05 at 11.32 PM by psu13, on Flickr"><img src="http://farm3.static.flickr.com/2589/5804143138_52693ddc4e.jpg" width="500" height="375" alt="M51 Screen shot 2011-06-05 at 11.32 PM"></a> 
 
@@ -136,4 +139,4 @@ If you study the two pictures you will note that there is a "new" star in the se
 
 It turns out that this is a <a href="http://en.wikipedia.org/wiki/Supernova">supernova</a> that had been <a href="http://www.skyandtelescope.com/community/skyblog/observingblog/123110228.html">discovered by some amateurs in France</a> just the day before. A single star 35 million light years away explodes with such violence that a little video camera in my sky-glow-filled suburban back yard can pick it up as a new point of light in a 45 second exposure. I never would have imagined that this would be possible 25 years ago. 
 
-I guess I'll have to <a href="http://en.wikipedia.org/wiki/Autoguider">get a guider</a>. 
+I guess I'll have to <a href="http://en.wikipedia.org/wiki/Autoguider">get a guider</a>.
