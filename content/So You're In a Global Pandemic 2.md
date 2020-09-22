@@ -1,5 +1,5 @@
 Title: So You're In a Global Pandemic 2
-Date: 2020-09-20
+Date: 2020-09-22
 Category: Things
 Author: psu
 
@@ -46,7 +46,7 @@ Well I am here to say that it is worth it. Running the telescope from my house a
 
 There is this new album out that is <a href="https://www.npr.org/2020/06/19/880564012/a-previously-unreleased-thelonious-monk-concert-is-coming-next-month">a recording of Thelonious Monk playing in the Palo Alto high school in 1968</a>. It's fantastic you should go buy it.
 
-**Cheap Knives, Expensive Sharpeners***
+**Cheap Knives, Expensive Sharpeners**
 
 At the turn of the previous decade, I think, <a href="http://mutable-states.com/the-shopping-virus.html">Japanese cooking knives become a short-lived nerd craze</a>. I pondered getting a weird single bevel fish knive, or a tiny little veggie cleaver, or a fancy Chinese style cleaver. Instead I bought a medium-expensive western-style chef's knife made out of Japanese metal. I used it for a while until the razor sharp sheen came off of it, felt bad about not being able to sharpen it myself, felt worse about having it sharpened once or twice by a local outfit on a commercial knife grinding machine ... and then finally put it in a drawer where I eventually lost it. 
 
@@ -72,9 +72,9 @@ So I took the sharpening stones and mangled one of the cheap chef's knives with 
 
 No talk of cheap knives can end without talking about Chinese cleavers. For the longest time I had one that I kept just for smashing garlic. But I never really used it for knife things, and I felt guilty for abandoning my cultural heritage. The lack of a good cleaver was the gaping hole in my knife drawer.
 
-So obviously since I can sharpen them now I should fix this. These days "cheap" Chinese cleavers appear to come in more forms than "semi-custom" carbon fiber road bikes. After trying a few different ones out, here is my hint: buy the cheapest one. Which is the cheapest? You can't get much cheaper than <a href="https://www.amazon.com/Winco-Chinese-Cleaver-wooden-handle/dp/B003HESNR8/">this stainless steel "Winco" knife</a>. It has everything you want: heavy enough to smash garlic and ginger with one swing, not so heavy that you can use it for slicing soft tomatoes, nice wood handle, and less than $20!
+So obviously since I can sharpen them now I should fix this. These days "cheap" Chinese cleavers appear to come in more forms than "semi-custom" carbon fiber road bikes. After trying a few different ones out, here is my hint: buy the cheapest one. Which is the cheapest? You can't get much cheaper than <a href="https://www.amazon.com/Winco-Chinese-Cleaver-wooden-handle/dp/B003HESNR8/">this stainless steel "Winco" knife</a>. It has everything you want: heavy enough to smash garlic and ginger with one swing, not so heavy that you can't easily slice through soft tomatoes, nice wood handle, and less than $20!
 
-The current darlings among the Chinese brands are CCK and Shi Ba Zi but their stuff costs between four and eight times as much. I did try one of the CCK knives and it is just as advertised. Light (a bit too light for whacking garlic), sharp, and nice to use. But it's expensive, the blade is too straight so you can rock it back and forth for lazy mincing, and I somehow already chipped it. Oh well.
+The current darlings among the Chinese brands are CCK and Shi Ba Zi but their stuff costs between four and eight times as much. Still, I had to try one of the CCK knives and it is just as advertised. Light (a bit too light for whacking garlic), sharp, and nice to use. But it's expensive, the blade is too straight so you can't rock it back and forth for lazy mincing, and I somehow already chipped it. Oh well.
 
 I also bought the Mercer cleaver. Mercer makes the cheap restaurant chef's knives I use, and this cleaver is the same kind of stamped blade and rubber handle deal. The knife is fine, but also a bit too light for garlic whacking. 
 
