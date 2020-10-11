@@ -8,7 +8,7 @@ Hey, so. It's three months later in this strange time that we call 2020, aka the
 
 In the almost Northeast part of the U.S. where I live the only indication of the passage of time is that we have had to switch from gym shorts back to sweat pants, school started up with only half the kids in the building at once if you were brave, or dumb, enough to send your kid there, and somehow people are playing various kinds of professional sports on TV, which is weird.
 
-In some fantasy parallel universe we would have both national leadership and nationwide local leadership and support on a way to navigate this slow motion disaster with sympathy, empathy and a respect for intellectual and scientific discourse. But the truth is that the opportunity for that as lost in the _1990s_ ... so instead here are some short thoughts on the dumb ways that I spent time and money since our last episode.
+In some fantasy parallel universe we would have both national leadership and nationwide local leadership and support on a way to navigate this slow motion disaster with sympathy, empathy and a respect for intellectual and scientific discourse. But the truth is that the opportunity for that was lost in the _1990s_ ... so instead here are some short thoughts on the dumb ways that I spent time and money since our last episode.
 
 **A Sonnet a Day**
 
@@ -22,7 +22,7 @@ The small telescope continues to please. Here is the _Veil Nebula_, a giant supe
 
 I've never been in a place dark enough to try and see this with my eyeballs in a traditional telescope. But it looked pretty cool on my TV last night with the little telescope sitting out in the yard under the Pittsburgh Light Dome. Oh about that.
 
-My one small complaint about this telescope has been that its wifi range is pathetic. If I stand five feet away from it behind a closed glass door between me and the tripod the signal completely. Needless to say I can't make my phone or iPad talk to it from inside the house. So, I went on Amazon and bought <a href="https://www.amazon.com/gp/product/B07WG7SG6V/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">a cheap wireless network extender</a> and plugged it in outside on the patio. Now I can watch what the telescope sees from my couch and even project it on my TV.
+My one small complaint about this telescope has been that its wifi range is pathetic. If I stand five feet away from it behind a closed glass door between me and the tripod I lose the signal completely. Needless to say I can't make my phone or iPad talk to it from inside the house. So, I went on Amazon and bought <a href="https://www.amazon.com/gp/product/B07WG7SG6V/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">a cheap wireless network extender</a> and plugged it in outside on the patio. Now I can watch what the telescope sees from my couch and even project it on my TV.
 
 Even though consumer wireless networks have been around for almost 30 years the idea of making it convenient to control a telescope from the warmth of your own home has been consistently swimming against a huge current of indifference to the idea of ease of use in the consumer astronomy industry. I call this indifference the "<a href="http://mutable-states.com/tens-of-dollars.html">Tens of Dollars</a>" mindset.
 
@@ -54,7 +54,7 @@ Around the time I put that knife away I was browsing a local restaurant supply s
 
 I was happy with this plan for a good ten years. Until this year when I felt like I should learn something new while working at home. Taking advantage of all the new youtube literature about hand sharpening I had soon bought 3 different kinds of tools for the purpose:
 
-1. A scary electric grindy machine, which does a find job.
+1. A scary electric grindy machine, which does a fine job.
 
 1. A device with two rods at fixed angles, which also does a fine job, but is fussy to set up and boring to use.
 
@@ -72,9 +72,9 @@ So I took the sharpening stones and mangled one of the cheap chef's knives with 
 
 No talk of cheap knives can end without talking about Chinese cleavers. For the longest time I had one that I kept just for smashing garlic. But I never really used it for knife things, and I felt guilty for abandoning my cultural heritage. The lack of a good cleaver was the gaping hole in my knife drawer.
 
-So obviously since I can sharpen them now I should fix this. These days "cheap" Chinese cleavers appear to come in more forms than "semi-custom" carbon fiber road bikes. After trying a few different ones out, here is my hint: buy the cheapest one. Which is the cheapest? You can't get much cheaper than <a href="https://www.amazon.com/Winco-Chinese-Cleaver-wooden-handle/dp/B003HESNR8/">this stainless steel "Winco" knife</a>. It has everything you want: heavy enough to smash garlic and ginger with one swing, not so heavy that you can't easily slice through soft tomatoes, nice wood handle, and less than $20!
+So obviously since I can sharpen them now I should fix this. These days "cheap" Chinese cleavers appear to come in more forms than "semi-custom" carbon fiber road bikes. After trying a few different ones out, here is my hint: buy the cheapest one. Which is the cheapest? You can't get much cheaper than <a href="https://www.amazon.com/Winco-Chinese-Cleaver-wooden-handle/dp/B003HESNR8/">this stainless steel "Winco" knife</a>. It has everything you want: heavy enough to smash garlic and ginger with one swing, not so heavy that you can't easily slice through soft tomatoes, nice wood handle, and barely more than $10!
 
-The current darlings among the Chinese brands are CCK and Shi Ba Zi but their stuff costs between four and eight times as much. Still, I had to try one of the CCK knives and it is just as advertised. Light (a bit too light for whacking garlic), sharp, and nice to use. But it's expensive, the blade is too straight so you can't rock it back and forth for lazy mincing, and I somehow already chipped it. Oh well.
+The current darlings among the Chinese brands are CCK and Shi Ba Zi but their stuff costs between three and six times as much money as the Winco. Still, I had to try one of the CCK knives and it is just as advertised. Light (a bit too light for whacking garlic), sharp, and nice to use. But it's expensive, the blade is too straight so you can't rock it back and forth for lazy mincing, and I somehow already chipped it. Oh well.
 
 I also bought the Mercer cleaver. Mercer makes the cheap restaurant chef's knives I use, and this cleaver is the same kind of stamped blade and rubber handle deal. The knife is fine, but also a bit too light for garlic whacking. 
 
