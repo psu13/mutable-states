@@ -35,7 +35,7 @@ Classical shows generally run about two hours with a fifteen minute intermission
 
 For reference, I will bucket the sorts of pieces you will hear into classes by *length*. This might seem odd, but it works for me.
 
-1. Short (5-10min) - Overtures, small “suites” or excerpts from larger pieces, most modern pieces and ”new” music. Novelty, crossover, or the odd pop music arrangement generally fall into this category as well. Finally, 19th century dance and background music, like your waltzes and stuff land here. 
+1. Short (5-10min) - Overtures, small "suites" or excerpts from larger pieces, most modern pieces and "new" music. Novelty, crossover, or the odd pop music arrangement generally fall into this category as well. Finally, 19th century dance and background music, like your waltzes and stuff land here. 
 
 2. Medium (10-45min) - Longer modern pieces, many earlier works named “symphony” before the 19th century symphony forms got super bloated, occasional pieces involving vocals or a chorus, longer arrangements and suites, some full ballets. But, the bread and butter of this category is the instrumental concerto that usually feature some internationally famous guest artist.
 
