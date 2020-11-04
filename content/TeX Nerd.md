@@ -21,11 +21,11 @@ So with that incredible disappointment out of the way, here are some tips for ho
 
 But, by the 1990s almost everyone was using computers to write papers, so why not store electronic preprints somewhere for convenience? <a href="https://arxiv.org">The arxiv</a> was set up by some physicists (of course) <a href="https://en.wikipedia.org/wiki/ArXiv">almost 30 years ago</a> to do just that and now holds an electronic version of almost every physics paper published since the mid 90s (and also many papers from math, computer science, and other areas).
 
-Since most of the papers in <a href="https://arxiv.org">the arxiv</a> are stored there in their $\rm\TeX$ form ... nerds with too much time can noodle on them to make them look better. So here we go.
+The papers in <a href="https://arxiv.org">the arxiv</a> are of course stored in PDF which most normal people are perfectly happy to download and read. But, for psychotic nerds who are too picky they are also stored there in their raw $\rm\TeX$ form ... so one can download *that* and noodle with it to make the output look better. Why would you want to do this? You wouldn't. But *I* have a few stupid reasons. So here we go.
 
 #### Page Layout
 
-Most preprint papers use either the standard $\rm\LaTeX$ print paper sizes (letter or a4) or whatever page size is appropriate for a journal pre-print (which is also usually letter or a4 with registration marks). The problem with this for screen use (either laptop or iPad) is that in order to set the text at a reasonably readable width you have to have giant margins. This is OK on paper, where you might want the margins for taking notes or something. But on a screen, and especially on the 11 inch iPad screen what you end up with is a tiny box of text in the middle of a sea of whitespace. Which is not ideal.
+Most preprint papers use either the standard $\rm\LaTeX$ print paper sizes (letter or a4) or whatever page size is appropriate for a journal pre-print (which is also usually letter or a4 with registration marks). The problem with this for screen use (either laptop or iPad) is that in order to set the text at a reasonably readable width you have to have giant margins. This is OK on paper, where you might want the margins for taking notes or something. But on a screen, and especially on the 11 inch iPad screen, what you end up with is a tiny box of text in the middle of a sea of whitespace. Which is not ideal.
 
 Luckily $\rm\LaTeX$ has a package called `geometry` that allows you to fairly easily set up whatever global page layout you want. So I have a setup for that which makes the page size roughly match the display size of my iPad with a much smaller bit of margin on each side, since reading edge to edge is no fun.
 
@@ -56,9 +56,9 @@ This is currently the most fertile ground for nerding out with $\rm\TeX$. Long g
 
 1. Lucida. I talked about Lucida <a href="http://mutable-states.com/yak-shaving-and-typography.html">in my previous missive on this topic</a>.
 
-1. Other fonts by Michael Sharpe. <a href="http://math.ucsd.edu/~msharpe/RcntFnts.pdf">Look at this page</a>. That document covers how to use some particularly classic looking fonts like Garamond and Baskerville, for when you want to use $\rm\LaTeX$ to write some treatise with deep 19th century classical thoughts in it.
-
 1. Any of the above with `eulervm` for math. The <a href="https://en.wikipedia.org/wiki/AMS_Euler">Euler math fonts</a> are pretty cool. They were originally designed by Zapf on commission from the AMS and first used by Knuth and Ronald Graham for the book <a href="https://en.wikipedia.org/wiki/Concrete_Mathematics">Concrete Math</a>, which covered various mathematical topics in computer science. I like the upright but swooshy style of it, esp. for papers on category theory for some reason. It fits particularly well with Palatino ... but Charter and Lucida work well too.
+
+1. Other fonts by Michael Sharpe. <a href="http://math.ucsd.edu/~msharpe/RcntFnts.pdf">Look at this page</a>. That document covers how to use some particularly classic looking fonts like Garamond and Baskerville, for when you want to use $\rm\LaTeX$ to write some treatise with deep 19th century classical thoughts in it.
 
 OK that's it for fonts.
 
@@ -88,7 +88,7 @@ The setup at the end is to populate the TOC of the final pdf with a nice outline
 
 As unbelievable as it sounds, there are dozens of other little details on which you can expend all your excess mental energy if you wish. Here are just a few:
 
-1. Unicode trouble. A lot of files in the arxiv, especially from Europe are stored in some random not ASCII but also not standard Unicode format. As yet I have not come up with an automatic way to fix this shit. It's really annoying.
+1. Unicode trouble. A lot of files in <a href="https://arxiv.org">the arxiv</a>, especially from Europe are stored in some random not ASCII but also not standard Unicode format. As yet I have not come up with an automatic way to fix this shit. It's really annoying.
 
 1. Long Equations. Long equations are annoying, but not hard, to fix. Learn how to use the `align` and `multline` macros from the AMS math setup and you will have a fairly easy time of it. The hardest part of this is actually finding the overflows in the source code and then parsing the math to find a good breakpoint.
 
@@ -100,9 +100,9 @@ As unbelievable as it sounds, there are dozens of other little details on which 
 
 1. Oh oh oh. Single spacing is always right. I am here to tell you that the time for killing double spacing is now. But, for most fonts you want to tell $\rm\LaTeX$ to use a slightly wider spacing than the default. The easiest thing to do to kill both of these birds at once is to say `\linespread{1.x}` where `x` is some small number like .1 or .05.
 
-1. Dealing with Plain $\rm\TeX$. The oldest papers in the arxiv sometimes still use plain $\rm\TeX$ with the `harvmac` macros. Fixing all of the above things without $\rm\LaTeX$ to help you is hard ... but you can at least fix the double spacing and font size issues if you have a hearty nerd soul. Then save your work in a special copy of `harvmac` so you don't have to think about it again.
+1. Dealing with Plain $\rm\TeX$. The oldest papers in <a href="https://arxiv.org">the arxiv</a> sometimes still use plain $\rm\TeX$ with the `harvmac` macros. Fixing all of the above things without $\rm\LaTeX$ to help you is hard ... but you can at least fix the double spacing and font size issues if you have a hearty nerd soul. Then save your work in a special copy of `harvmac` so you don't have to think about it again.
 
 1. Finally, store it all in github so you can undo your work if you completely fuck it up.
 
-I think that's all I can think of right now. And surely that is for the best. On the one hand reading this was a total waste of your time. On the other hand, given its day of publication maybe you needed exactly that sort of tedious distraction.
+I think that's all I can think of right now. And surely that is for the best. On the one hand reading this was a total waste of your time. On the other hand, given its day (hint: election, more on that later maybe) of publication maybe you needed exactly that sort of tedious distraction.
 
