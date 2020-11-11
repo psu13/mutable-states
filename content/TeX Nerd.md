@@ -11,7 +11,7 @@ I love that one line:
 
 > “I said: ‘Yes, and you got paid for them. Now let me make you sound brilliant.’ ” 
 
-To be honest, if I were a better and more interesting person I'd be using this quote to introduce a much more interesting article than what is about to follow. But I'm just a nerd in Pittsburgh who remembers a little bit too much about how to use $\rm\LaTeX$ so instead the rest of this article is about how to make $\rm\LaTeX$ look better for reading on your iPad. The tenuous connection being my overly developed ego saying to itself 'Yes, arxiv author, you wrote this, now let me make it look decent instead of like trash.'
+To be honest, if I were a better and more interesting person I'd be using this quote to introduce a much more interesting article than what is about to follow. But I'm just a nerd in Pittsburgh who remembers a little bit too much about how to use $\rm\LaTeX$ so instead the rest of this article is about how to make $\rm\LaTeX$ look better for reading on your iPad. The tenuous connection here is my overly developed ego saying to itself 'Yes, arxiv author, you wrote this, now let me make it look decent instead of like trash.'
 
 So with that incredible disappointment out of the way, here are some tips for how to make papers from <a href="https://arxiv.org">the arxiv</a> look nice on screens.
 
@@ -33,7 +33,11 @@ Luckily $\rm\LaTeX$ has a package called `geometry` that allows you to fairly ea
 
 One annoying legacy feature of journal paper formats is the use of two column page layout to save on paper when the articles are printed. I suppose this is noble in theory, but then why *print* the papers at all? On screens two column layouts are a disaster because only the largest electronic reading devices are big enough to show a full letter or A4 sized page at once and keep the text at a readable size.
 
-So, the only correct thing to do is reflow the layouts to one column. Luckily most of the major journal formats that use two columns have a one column mode, usually for drafts. So use that, then fix the page size, then fix the fact that the draft modes are inevitably going to be double spaced or worse (why??), and then you are golden.
+So, the only correct thing to do is reflow the layouts to one column. Luckily most of the major $\rm\LaTeX$ formats for journals that use two columns have a one column mode, usually for drafts. So use that, then fix the page size, then fix the fact that the draft modes are inevitably going to be double spaced or worse (why??), and then you are golden. 
+
+Side note: I think wanting to reflow two column layouts was why I got interested in noodling with the $\rm\TeX$ source code of old physics papers in the first place. This was the *easiest* good solution that I could find.
+
+Good times.
 
 #### Text Size and Such
 
