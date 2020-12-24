@@ -51,6 +51,8 @@ Since *Dark Souls* was my main gateway to FromSoft addiction, for me *Demon's So
 
 * Poisoned swamps: check.
 
+* A cut scene where gargoyles that fly you up to a high perch in the next area: check.
+
 * Byzantine and complicated NPC questlines that you can only figure out by reading the wiki: check.
 
 * Byzantine and complicated world state that you can only figure out by reading the wiki ... oh they got rid of this later. Phew.
