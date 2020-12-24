@@ -33,6 +33,8 @@ This a great remake that makes it possible to really get to know this game for r
 
 The greatest strength of *Demon's Souls* was always in atmosphere, tone, and mood, and the remake successfully recaptures these aspects of the original. The floaty ghost-like feel of playing in soul form has been diluted a bit (for example: your footfalls are quiet, but not silent in the remake), but this is a small price to play for all the other improvements.
 
+I'd say the only slight disappointments in this new version are the music and some of the sound design decisions. *Demon's Souls* music and sound had a distinctly 16-bit lo-fi limited budget feel to them and some of the new stuff, especially the boss music, is just a bit too polished and smooth. I kind of miss the the off kilter other-worldly hellish midi soundscape of the original, but it's a small loss to go with a lot of gains.
+
 Since *Dark Souls* was my main gateway to FromSoft addiction, for me *Demon's Souls* was always a view into the early revisions of all the now classic aspects of the FromSoft style.
 
 * Maze-like areas that turn into straight lines when you open the shortcuts: check.
