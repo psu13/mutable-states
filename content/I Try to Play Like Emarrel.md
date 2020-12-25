@@ -65,7 +65,7 @@ I always wondered why the Emarrel NG+7 playthrough was done at the particular co
 
 Anyway, that's what I did. I also spent a lot of time collecting things in NG for the NG+ run. I will make a detailed list in the section below.
 
-#### Setup and Weapons Crafting
+#### Setup
 
 Here is how I set up my NG+ SL1 run:
 
