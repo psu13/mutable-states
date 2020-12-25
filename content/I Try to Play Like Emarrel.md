@@ -37,6 +37,12 @@ I started playing with hyper mode in a normal NG+ run that I did with my "going 
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/HcOuzqg5NUM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+It around this time that I decided to play with this more in an Emarrel-style SL1 Hyper Mode run. Of course, in plain NG this is too easy:
+
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Y7ulPziVTYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+So clearly we should do it in NG+ with Pure Black. But first, how do World and Character tendency work anyway?
+
 #### Digression on World and Character Tendency
 
 The <a href="http://demonssouls.wikidot.com/world-tendency">World</a> and <a href="http://demonssouls.wikidot.com/character-tendency">Character</a> *tendency* mechanic in *Demon's Souls* is either the most fascinating idea ever or the most pointless, I'm not sure. Here is the summary:
@@ -127,8 +133,4 @@ Anyway, if you do this and you know me let me know. And have fun with hyper mode
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/klrOTyKNs7U?start=225" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Here's the final boss fight in NG with hyper mode:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/Y7ulPziVTYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Again, have fun and good luck.
