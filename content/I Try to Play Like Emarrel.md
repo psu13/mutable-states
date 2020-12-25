@@ -47,6 +47,8 @@ The <a href="http://demonssouls.wikidot.com/world-tendency">World</a> and <a hre
     
     Finally, to 100% the game you have to move the world from neutral to white to black and maybe back again. Good luck getting all that done in one playthrough.
 
+* Strangely it appears that the actual World Tendency number is a floating point value, not an integer. So if you are stupidly trying to keep your worlds Pure Black you will sometimes find yourself needing to suicide an extra time or two in human form to shift things back far enough for the right things to happen. Computers.
+
 * You <a href="http://demonssouls.wikidot.com/character-tendency">character</a> also has a a tendency number. Doing "bad" things (invading, killing friendly NPCs, you name it) makes you black and doing "good" things makes you white. At Pure White you get a damage bonus in soul form (good) and some weapons, notably Northern Regalia, do their maximum damage (good). The most obvious way to get to Pure White is to kill the various special black phantom NPCs (ok) ... which only show up if your world is Pure Black (bad). Again a From game system is an elaborate circle jerk. 
 
 Finally, if you play online your worlds will shift in tendency towards some global average. So if you want your world state to stick its best to play offline. You didn't need those co-op helpers for the boss fights anyway.

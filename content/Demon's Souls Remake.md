@@ -31,9 +31,9 @@ This a great remake that makes it possible to really get to know this game for r
 
 *Demon's Souls Remake* fixes all of these problems. The controls are tight and responsive. Level loads are instantaneous. The new rendering of Boletaria is gorgeous in that decaying end of the world way you want in a *Souls* title. All of this makes the game feel *comfortable* to play, for lack of a better way to put it. Sure there are brain suckers, poison swamps, giant demon spiders, deadly creepy prison towers, and zombie knights and soldiers all trying to kill you ... but what do you expect? You walked into a *Souls* game.
 
-The greatest strength of *Demon's Souls* was always in atmosphere, tone, and mood, and the remake successfully recaptures these aspects of the original. The floaty ghost-like feel of playing in soul form has been diluted a bit (for example: your footfalls are quiet, but not silent in the remake), but this is a small price to play for all the other improvements.
+The greatest strength of *Demon's Souls* was always in atmosphere, tone, and mood, and the remake successfully recaptures these aspects of the original. The floaty ghost-like feel of playing in soul form has been diluted a bit (for example: your footfalls are quiet, but not silent in the remake), but this is a small quibble about a great overall package.
 
-I'd say the only things that are slightly wrong in this new version are the music and some of the sound design decisions. The original *Demon's Souls* music and sound had a distinctly 16-bit lo-fi limited budget feel to them and some of the new stuff, especially the boss music, is just a bit too polished and smooth. I kind of miss the the off kilter other-worldly hellish midi soundscape of the original, but it's a small loss to go with a lot of gains.
+I'd say the only things that are slightly wrong in this new version are the music and some of the sound design decisions. The original *Demon's Souls* music and sound had a distinctly 16-bit lo-fi limited budget feel to them and some of the new stuff, especially the boss music, is just a bit too polished and smooth. I kind of miss the off kilter other-worldly hellish midi soundscape of the original.
 
 Since *Dark Souls* was my main gateway to FromSoft addiction, for me *Demon's Souls* was always a view into the early revisions of all the now classic aspects of the FromSoft style.
 
@@ -50,8 +50,6 @@ Since *Dark Souls* was my main gateway to FromSoft addiction, for me *Demon's So
 * Bad dragon fights: check.
 
 * Poisoned swamps: check.
-
-* A cut scene where gargoyles that fly you up to a high perch in the next area: check.
 
 * Byzantine and complicated NPC questlines that you can only figure out by reading the wiki: check.
 
