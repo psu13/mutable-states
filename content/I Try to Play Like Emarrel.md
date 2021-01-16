@@ -37,7 +37,7 @@ I started playing with hyper mode in a normal NG+ run that I did with my "going 
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/HcOuzqg5NUM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-It around this time that I decided to play with this more in an Emarrel-style SL1 Hyper Mode run. Of course, in plain NG this is too easy:
+It was around this time that I decided to play with this more in an Emarrel-style SL1 Hyper Mode run. Of course, in plain NG this is too easy:
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Y7ulPziVTYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
