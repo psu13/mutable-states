@@ -61,6 +61,6 @@ When you get it right, it looks like this:
 
 Go get it.
 
-**Editorial Update**: I am going to apologize here to the Black Zebra and Purple Cherokee tomatoes. At there best they are great, and they will usually be fine. I still miss my really good red tomatoes though. So a few weeks after I originally posted this I updated that section of the page to reflect this.
+**Editorial Update**: I am going to apologize here to the Black Zebra and Purple Cherokee tomatoes. At their best they are great, and they will usually be fine. I still miss my really good red tomatoes though. So a few weeks after I originally posted this I updated that section of the page to reflect this.
 
 

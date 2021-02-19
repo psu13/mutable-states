@@ -50,14 +50,13 @@ Toast! So there.</p>
 <p>Baking that filet of firm white fish in the oven? Don&rsquo;t know what you want to
 do for sauce? Do this:</p>
 
-1. Cut 1 or 2 tablespoon side pats of butter.
+1. Cut 1 or 2 tablespoon size pieces of butter.
 
 2. 4 or 5 or 10 cloves of garlic.
 
 3. A couple of handfuls of cherry tomatoes, cut in half.
 
-<p>Pile these on top of an near the fish in the half sheet pan. Bake at 400 for
-10-15 or however long it takes for the fish to cook. Now you have baked fish
+<p>Pile these on top of the fish in a sheet pan. If you want to get fancy put a drizzle of lemon juice and white wine over everything. Bake at 400 for 10-15 minutes or however long it takes for the fish to cook. Now you have baked fish
 and a roasted tomato sauce to put on it.</p>
 
 <h4 id="short-blurbs-on-new-and-not-so-new-food-places:6b6bfd28569979d42fa0bae184d405c4">Short Blurbs on New and Not so New Food Places</h4>
