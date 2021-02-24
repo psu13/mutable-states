@@ -59,7 +59,7 @@ For example, in mathematics vectors are simple objects. They are members of what
 
 To make a vector space first you need a set $V$ of vectors and another set of scalar values which is usually either the real numbers (${\bf R}$) or the complex numbers (${\bf C}$). Then for elements of the vector space $v \in V$ we postulate the following rules:
 	
-1. A scalar multiplied by a vector is a vector, then $av \in V$ for every scalar $a$.
+1. A scalar multiplied by a vector is a vector, so if $v \in V$ then $av \in V$ for every scalar $a$.
 
 2. If $w \in V$ is another vector, then $v + w \in V$.
 
