@@ -1,6 +1,7 @@
 Site now runs on Pelican 4.something and python 3.
 
-The only extra installs in the venv are pelican and render_math.
+The only extra installs in the venv are pelican and jsmath
 
-Next: katex
+jsmath uses katex which is nicer. woohoo
+
 
