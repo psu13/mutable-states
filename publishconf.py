@@ -14,7 +14,7 @@ DEFAULT_LANG = u'en'
 THEME = "./psu_tux"
 
 STATIC_PATHS = ['math']
-PLUGINS = ["render_math"]
+PLUGINS = ["pelican_jsmath"]
 
 #pages
 DISPLAY_PAGES_ON_MENU = False

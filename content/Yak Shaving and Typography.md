@@ -5,7 +5,7 @@ Author: psu
 
 There are few things you know for sure in this world. But here is one that has been true for the last 30 years or so, and probably will be true for as many years as I can see into the future. 
 
-**Fact**: every student all over the world who decides to do an advanced degree in math, science, engineering and sometimes even related fields in the humanities will all have one thing in common no matter their background, their interests, or their future lives. What they will have in common is that they'll all have to learn $\rm\TeX$ to write their papers and books, and they'll have one of the greatest <a href="https://yakshav.es/the-patron-saint-of-yakshaves/">yak shaving</a> exercises in history to thank for it.
+**Fact**: every student all over the world who decides to do an advanced degree in math, science, engineering and sometimes even related fields in the humanities will all have one thing in common no matter their background, their interests, or their future lives. What they will have in common is that they'll all have to learn $\TeX$ to write their papers and books, and they'll have one of the greatest <a href="https://yakshav.es/the-patron-saint-of-yakshaves/">yak shaving</a> exercises in history to thank for it.
 
 If you've used $\rm\TeX$ or done any computer programming in the last 40 years, you probably know what I'm going to say. But for the younger people in the audience (and because I like the story) here is the story.
 
