@@ -13,6 +13,7 @@ DEFAULT_LANG = u'en'
 
 THEME = "./psu_tux"
 
+STATIC_PATHS = ['math']
 PLUGINS = ["render_math"]
 
 # Feed generation is usually not desired when developing

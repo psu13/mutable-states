@@ -1,2 +1,6 @@
+Site now runs on Pelican 4.something and python 3.
 
-Pelican plugins comes from a git repo, but we need to stay old
+The only extra installs in the venv are pelican and render_math.
+
+Next: katex
+
