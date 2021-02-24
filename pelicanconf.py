@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'psu'
 SITENAME = u'Mutable States'
-COPYRIGHT = 'Copyright (c) 2004-2020'
+COPYRIGHT = 'Copyright (c) 2004-2021'
 SITEURL = 'http://mutable-states.com'
 
 TIMEZONE = 'America/New_York'
@@ -13,7 +13,6 @@ DEFAULT_LANG = u'en'
 
 THEME = "./psu_tux"
 
-PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ["render_math"]
 
 # Feed generation is usually not desired when developing
