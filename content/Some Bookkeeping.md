@@ -11,7 +11,7 @@ It's hard to believe but this "new" site is now halfway into its 8th year of exi
 
 I don't care about remote editing, automatically pushing from a github repo, having multiple authors, or anything that makes the site more complicated than the above. Overall Pelican has been fine.
 
-At some point I added a module to do $\TeX$ markup for math. At some point I made a backup copy of the repository on github. A fought with the shitty CSS a bit over the years ("shitty CSS" is of course redundant, what a cursed system). But mostly I did not think about how the site works.
+At some point I added a module to do $\TeX$ markup for math. At some point I made a backup copy of the repository on github. I fought with the shitty CSS a bit over the years ("shitty CSS" is of course redundant, what a cursed system). But mostly I did not think about how the site works.
 
 Of course in my relative ignorance I did not realize that I had made one perhaps crucial mistake in my initial setup... the code was running in Python *2* which I guess people have been trying to kill for the better part of a decade. So at some point I would have to figure out how to update that. Updating software is, of course, horrible but inevitable.
 
